@@ -1,0 +1,486 @@
+reaction,subsystem
+R_OF_ATP_MitoCore,Objective Function - ATP 
+R_OF_HEME_MitoCore,Objective Function - Heme
+R_OF_LIPID_MitoCore,Objective Function - Lipid synthesis 
+R_OF_PROTEIN_MitoCore,Objective Function - Protein Synthesis
+R_HEX1,Glycolysis
+R_G6PPer,Gluconeogenesis
+R_PGI,Glycolysis/gluconeogenesis
+R_PFK,Glycolysis
+R_FBP,Gluconeogenesis
+R_FBA,Glycolysis/gluconeogenesis
+R_TPI,Glycolysis/gluconeogenesis
+R_GAPD,Glycolysis/gluconeogenesis
+R_PGK,Glycolysis/gluconeogenesis
+R_PGM,Glycolysis/gluconeogenesis
+R_ENO,Glycolysis/gluconeogenesis
+R_PYK,Glycolysis/gluconeogenesis
+R_r0122,Glycolysis
+R_PEPCK,Gluconeogenesis
+R_LDH_L,Glycolysis/gluconeogenesis
+R_G6PDH2r,Pentose phosphate pathway
+R_PGL,Pentose phosphate pathway
+R_GND,Pentose phosphate pathway
+R_RPI,Pentose phosphate pathway
+R_RPE,Pentose phosphate pathway
+R_TKT1,Pentose phosphate pathway
+R_TALA,Pentose phosphate pathway
+R_TKT2,Pentose phosphate pathway
+R_PDHm,TCA cycle
+R_CSm,TCA cycle
+R_ACONTm,TCA cycle
+R_ICDHxm,TCA cycle
+R_ICDHyrm,TCA cycle
+R_AKGDm,TCA cycle
+R_SUCOAS1m,TCA cycle
+R_SUCOASm,TCA cycle
+R_FUMm,TCA cycle
+R_MDHm,TCA cycle
+R_CI_MitoCore,Electron transport chain
+R_CII_MitoCore,Electron transport chain
+R_CIII_MitoCore,Electron transport chain
+R_CIV_MitoCore,Electron transport chain
+R_CV_MitoCore,Electron transport chain
+R_PEPCKm,TCA cycle periphery
+R_PCm,TCA cycle periphery
+R_ME2m,TCA cycle periphery
+R_ME1m,TCA cycle periphery
+R_r0081,TCA cycle periphery
+R_ACITLm_MitoCore,TCA cycle periphery
+R_NDPK1m,TCA cycle periphery
+R_NNT_MitoCore,TCA cycle periphery
+R_ADK1m,TCA cycle periphery
+R_ME2,Cytosolic misc
+R_ALATA_L,Cytosolic misc
+R_NDPK1,Cytosolic misc
+R_FUM,Cytosolic misc
+R_ADK1,Cytosolic misc
+R_ICDHy,Reductive carboxylation
+R_ACONT,Reductive carboxylation
+R_ACITL,Reductive carboxylation / Acetyl-CoA production for biosynthesis
+R_ASPTA,Malate aspartate shuttle
+R_MDH,Malate aspartate shuttle
+R_AKGMALtm,Malate aspartate shuttle
+R_ASPGLUmB_MitoCore,Malate aspartate shuttle
+R_ASPTAm,Malate aspartate shuttle
+R_G3PD1,Glycerol phosphate shuttle
+R_r0205,Glycerol phosphate shuttle
+R_FACOAL160i,Carnitine shuttle
+R_C160CPT1,Carnitine shuttle
+R_PPA,Carnitine shuttle
+R_r2435,Carnitine shuttle
+R_C160CPT2,Carnitine shuttle
+R_PPAm,Carnitine shuttle
+R_ACOT2_MitoCore,Fatty acid elongation in mitochondria
+R_ACADLC16_MitoCore,FA metabolism
+R_MECR16C_MitoCore,Fatty acid elongation in mitochondria
+R_MTPC16_MitoCore,FA metabolism
+R_ACADLC14_MitoCore,FA metabolism
+R_MECR14C_MitoCore,Fatty acid elongation in mitochondria
+R_MTPC14_MitoCore,FA metabolism
+R_r1447,FA metabolism
+R_r0638,Fatty acid elongation in mitochondria
+R_r0660,FA metabolism
+R_r0722,FA metabolism
+R_r0724,FA metabolism
+R_r1451,FA metabolism
+R_r0735,Fatty acid elongation in mitochondria
+R_r0728,FA metabolism
+R_r0726,FA metabolism
+R_r0634,FA metabolism
+R_r1448,FA metabolism
+R_r0633,Fatty acid elongation in mitochondria
+R_r0731,FA metabolism
+R_r0730,FA metabolism
+R_r0732,FA metabolism
+R_r1450,FA metabolism
+R_r0791,Fatty acid elongation in mitochondria
+R_r0734,FA metabolism
+R_r0733,FA metabolism
+R_r0287,FA metabolism
+R_r1446,FA metabolism
+R_ECOAH1m,FA metabolism
+R_HACD1m,FA metabolism
+R_ACACT1rm,FA and ketone body metabolism / Ketogenesis
+R_ACCOAC,FA synthesis - cytosolic
+R_MCOATA,FA synthesis - cytosolic
+R_ACOATA,FA synthesis - cytosolic
+R_r0678,FA synthesis - cytosolic
+R_r0691,FA synthesis - cytosolic
+R_r0681,FA synthesis - cytosolic
+R_r0682,FA synthesis - cytosolic
+R_r0760,FA synthesis - cytosolic
+R_r0761,FA synthesis - cytosolic
+R_r0762,FA synthesis - cytosolic
+R_r0763,FA synthesis - cytosolic
+R_r0764,FA synthesis - cytosolic
+R_r0694,FA synthesis - cytosolic
+R_r0695,FA synthesis - cytosolic
+R_r0765,FA synthesis - cytosolic
+R_r0766,FA synthesis - cytosolic
+R_r0692,FA synthesis - cytosolic
+R_r0693,FA synthesis - cytosolic
+R_r0767,FA synthesis - cytosolic
+R_r0768,FA synthesis - cytosolic
+R_r0769,FA synthesis - cytosolic
+R_r0770,FA synthesis - cytosolic
+R_r0712,FA synthesis - cytosolic
+R_r0713,FA synthesis - cytosolic
+R_r0701,FA synthesis - cytosolic
+R_r0702,FA synthesis - cytosolic
+R_r0771,FA synthesis - cytosolic
+R_r0772,FA synthesis - cytosolic
+R_r0696,FA synthesis - cytosolic
+R_r0697,FA synthesis - cytosolic
+R_r0773,FA synthesis - cytosolic
+R_FA160ACPH,FA synthesis - cytosolic
+R_FACOAL40im,Butanoate metabolism
+R_BDHm,Ketone bodies - degradation
+R_OCOAT1m,Ketone bodies - degradation
+R_HMGCOASim,Ketogenesis
+R_HMGLm,Ketogenesis / Leucine degradation
+R_LEUTAm,Leucine degradation
+R_OIVD1m,Leucine degradation
+R_r0655,Leucine degradation
+R_MCCCrm,Leucine degradation
+R_MGCHrm,Leucine degradation
+R_ILETAm,Isoleucine degradation
+R_OIVD3m,Isoleucine degradation
+R_r0603,Isoleucine degradation
+R_ECOAH9m,Isoleucine degradation
+R_HACD9m,Isoleucine degradation
+R_ACACT10m,Isoleucine degradation
+R_VALTAm,Valine degradation
+R_OIVD2m,Valine degradation
+R_r0560,Valine degradation
+R_ECOAH12m,Valine degradation
+R_3HBCOAHLm,Valine degradation
+R_HIBDm,Valine degradation
+R_ACCOALm,Propanoate metabolism
+R_MMSAD1m,Propanoate metabolism
+R_PPCOACm,Propanoate metabolism
+R_MMEm,Propanoate metabolism
+R_MMMm,Propanoate metabolism
+R_MMCDm,Propanoate synthesis
+R_RE2649M,Propanoate synthesis
+R_THRD_L,Threonine degradation
+R_r1155,Threonine degradation
+R_r1154,Threonine and Methionine degradation
+R_2HBO,Threonine and Methionine degradation
+R_METAT,Methionine degradation
+R_METAT2_MitoCore,Methionine degradation
+R_AHC,Methionine degradation
+R_ADNK1,Methionine degradation
+R_CYSTS,Methionine and Serine degradation
+R_CYSTGL,Methionine and Serine degradation
+R_CYSO,Cysteine degradation I
+R_3SALATAi,Cysteine degradation I
+R_3SPYRSP,Cysteine degradation I
+R_CYSTA,Cysteine degradation II
+R_CYSTAm,Cysteine degradation II
+R_MCPST,Cysteine degradation II
+R_MCPSTm_MitoCore,Cysteine degradation II
+R_r0595m_MitoCore,Cysteine degradation II
+R_r0595B_MitoCore,Cysteine degradation II
+R_MCLOR,Cysteine degradation II
+R_r0193,Cysteine degradation III
+R_TRPO2,Tryptophan Metabolism 
+R_FKYNH,Tryptophan Metabolism 
+R_KYN3OX,Tryptophan Metabolism 
+R_HKYNH,Tryptophan Metabolism 
+R_3HAO,Tryptophan Metabolism 
+R_PCLAD,Tryptophan Metabolism 
+R_r0645,Tryptophan Metabolism 
+R_AMCOXO,Tryptophan Metabolism 
+R_AMCOXO2_MitoCore,Tryptophan Metabolism 
+R_2OXOADPTmB_MitoCore,Tryptophan Metabolism 
+R_2OXOADPTmC_MitoCore,Tryptophan Metabolism 
+R_2OXOADOXm,Tryptophan / Lysine Metabolism 
+R_r0541,Tryptophan / Lysine Metabolism 
+R_SACCD3m,Lysine degradation (saccharopine pathway)
+R_r0525,Lysine degradation (saccharopine pathway)
+R_AASAD3m,Lysine degradation (saccharopine pathway)
+R_R03103_MitoCore,Lysine degradation (saccharopine pathway)
+R_r0450,Lysine degradation (saccharopine pathway)
+R_LYSOXc_MitoCore,Lysine degradation (L-pipecolate pathway)
+R_PPD2CSPc_MitoCore,Lysine degradation (L-pipecolate pathway)
+R_1PPDCRc_MitoCore,Lysine degradation (L-pipecolate pathway)
+R_1PPDCRc_NADPH_MitoCore,Lysine degradation (L-pipecolate pathway)
+R_LPCOXc_MitoCore,Lysine degradation (L-pipecolate pathway)
+R_RE1254C,Lysine degradation (L-pipecolate pathway)
+R_r0594,Lysine degradation (L-pipecolate pathway)
+R_2AMADPTmB_MitoCore,Lysine degradation (L-pipecolate pathway)
+R_2AMADPTmC_MitoCore,Lysine degradation (L-pipecolate pathway)
+R_PROD2mB_MitoCore,Proline degradation
+R_G5SADrm,Proline degradation/synthesis
+R_r0074,Proline / ornithine degradation
+R_GLU5Km,Proline synthesis
+R_G5SDym,Proline synthesis
+R_P5CRm,Proline synthesis
+R_P5CRxm,Proline synthesis
+R_ORNTArm,Ornithine degradation
+R_ORNDC,Ornithine degradation (cytosolic)
+R_PTRCOX1,Ornithine degradation (cytosolic)
+R_r0464c_MitoCore,Ornithine degradation (cytosolic)
+R_ABUTD,Ornithine degradation (cytosolic)
+R_ARGDCm,Arginine degradation
+R_AGMTm,Arginine degradation
+R_PTRCAT1m_MitoCore,Arginine degradation
+R_APRTO2m_MitoCore,Arginine degradation
+R_NABTNOm,Arginine degradation
+R_4aabutn_MitoCore,Arginine degradation
+R_GLUDC,GABA shunt
+R_4ABUTtm,GABA shunt - transport
+R_ABTArm,GABA shunt
+R_r0178,GABA shunt
+R_GLUDxm,Glutamate degradation/synthesis
+R_GLUDym,Glutamate degradation/synthesis
+R_GLUDxi,Glutamate degradation/synthesis - cytosolic
+R_GLUDy,Glutamate degradation/synthesis - cytosolic
+R_GLNS,Glutamine synthesis
+R_GLUNm,Glutamine degradation
+R_GLUN_MitoCore,Glutamine degradation - cytosolic
+R_PGCD,Serine and glycine biosynthesis
+R_PSERT,Serine and glycine biosynthesis
+R_PSP_L,Serine and glycine biosynthesis
+R_GHMT2r,Serine and glycine biosynthesis
+R_FOLR2,Folate cytosolic
+R_DHFR,Folate cytosolic
+R_MTHFD,Folate cytosolic
+R_MTHFC,Folate cytosolic
+R_FTCD,Folate cytosolic
+R_FTHFL,Folate cytosolic
+R_FTHFDH,Folate cytosolic
+R_r0060,Serine degradation
+R_GHMT2rm,Serine and glycine biosynthesis
+R_GCCam,Glycine cleavage system (GCS)
+R_GCCbim,Glycine cleavage system (GCS)
+R_GCCcm,Glycine cleavage system (GCS)
+R_r0514,Folate mitochondrial
+R_r0226,Folate mitochondrial
+R_MTHFDm,Folate mitochondrial
+R_MTHFD2m,Folate mitochondrial
+R_MTHFCm,Folate mitochondrial
+R_FTHFLm,Folate mitochondrial
+R_FTHFDHm_MitoCore,Folate mitochondrial
+R_GLYATm,Glycine degradation
+R_AOBUTDsm,Glycine degradation
+R_AACTOORm_MitoCore,Glycine degradation
+R_LGTHLm_MitoCore,Glycine degradation
+R_GLYOXm,Glycine degradation
+R_LDH_Dm_MitoCore,Glycine degradation
+R_CBPSam,Citrulline biosynthesis
+R_OCBTm,Citrulline biosynthesis
+R_NOS1,NOS Signalling
+R_NOS2,NOS Signalling
+R_r0129,Glutathione degradation
+R_AMPTASECG,Glutathione degradation
+R_GLUCYS,Glutathione synthesis
+R_GTHS,Glutathione synthesis
+R_r0399,Phenylalanine degradation
+R_DHPR,Phenylalanine degradation
+R_TYRTA,Tyrosine degradation
+R_TYRTB_MitoCore,Tyrosine degradation
+R_34HPPOR,Tyrosine degradation
+R_HGNTOR,Tyrosine degradation
+R_MACACI,Tyrosine degradation
+R_FUMAC,Tyrosine degradation
+R_ASNS1,Asparagine synthesis
+R_r0127,Asparagine degradation
+R_HISD,Histidine degradation
+R_URCN,Histidine degradation
+R_IZPN,Histidine degradation
+R_GluForTx,Histidine degradation
+R_APAT2rm,Beta-alanine degradation
+R_MMSAD3m,Beta-alanine degradation
+R_MMSAD3m2_MitoCore,Beta-alanine degradation
+R_ASP1DC,Beta-alanine synthesis
+R_CKc,Creatine ATP buffer
+R_CK,Creatine ATP buffer
+R_ACOAHi,Acetate production
+R_ALCD2yf,Alcohol metabolism
+R_ALCD2if,Alcohol metabolism
+R_ACALDtm,Alcohol metabolism
+R_ALDD2xm,Alcohol metabolism
+R_ALDD2x,Alcohol metabolism
+R_ACSm,Alcohol metabolism
+R_ACS,Alcohol metabolism
+R_ADSL1,Purine Nucleotide Cycle
+R_ADSS,Purine Nucleotide Cycle
+R_AMPD1,Purine Nucleotide Cycle
+R_ARGN,Urea Cycle
+R_ARGSL,Urea Cycle
+R_ARGSS,Urea Cycle
+R_ARGNm,Urea Cycle
+R_ALASm,Haem Synthesis
+R_5AOPtm,Haem Synthesis
+R_PPBNGS,Haem Synthesis
+R_HMBS,Haem Synthesis
+R_UPP3S,Haem Synthesis
+R_UPPDC1,Haem Synthesis
+R_CPPPGO,Haem Synthesis
+R_PPPGOmB_MitoCore,Haem Synthesis
+R_FCLTm,Haem Synthesis
+R_PHEMEtm,Haem Synthesis
+R_HOXG,Haem Degradation
+R_BILIRED,Haem Degradation
+R_BILIRED2_MitoCore,Haem Degradation
+R_PCHOLPm_hs,Cardiolipin synthesis
+R_GLYK,Cardiolipin synthesis
+R_GLYC3Ptm,Cardiolipin synthesis
+R_GPAMm_hsB_MitoCore,Cardiolipin synthesis
+R_AGPAT1B_MitoCore,Cardiolipin synthesis
+R_CDSm,Cardiolipin synthesis
+R_PGPPTm,Cardiolipin synthesis
+R_PGPP_hsm_MitoCore,Cardiolipin synthesis
+R_CLS_hsm_MitoCore,Cardiolipin synthesis
+R_CLPN_MitoCore,Cardiolipin synthesis
+R_CYTK1m,Cardiolipin synthesis
+R_NDPK3m,Cardiolipin synthesis
+R_SPODMm,ROS defense
+R_GTHP,ROS defense
+R_GTHPm,ROS defense
+R_GTHO,ROS defense
+R_GTHOm,ROS defense
+R_CITtamB,Mitochondrial transporters - characterised
+R_r0913,Mitochondrial transporters - characterised
+R_CITtbm,Mitochondrial transporters - characterised
+R_r0917,Mitochondrial transporters - characterised
+R_r0917b_MitoCore,Mitochondrial transporters - characterised
+R_PIt2mB_MitoCore,Mitochondrial transporters - characterised
+R_ATPtmB_MitoCore,Mitochondrial transporters - characterised
+R_HtmB_MitoCore,Mitochondrial transporters - characterised
+R_MALtm,Mitochondrial transporters - characterised
+R_MALSO3tm,Mitochondrial transporters - characterised
+R_MALTSULtm,Mitochondrial transporters - characterised
+R_MALSO4tm,Mitochondrial transporters - characterised
+R_SUCCt2m,Mitochondrial transporters - characterised
+R_r0830,Mitochondrial transporters - characterised
+R_r0830B_MitoCore,Mitochondrial transporters - characterised
+R_r0829,Mitochondrial transporters - characterised
+R_SUCCt3m_MitoCore,Mitochondrial transporters - characterised
+R_COAtmB_MitoCore,Mitochondrial transporters - characterised
+R_COAtmC_MitoCore,Mitochondrial transporters - characterised
+R_GLUt2mB_MitoCore,Mitochondrial transporters - characterised
+R_ORNt4mB_MitoCore,Mitochondrial transporters - characterised
+R_r2398B_MitoCore,Mitochondrial transporters - characterised
+R_r2402B_MitoCore,Mitochondrial transporters - characterised
+R_LYStmB_MitoCore,Mitochondrial transporters - characterised
+R_ORNt3mB_MitoCore,Mitochondrial transporters - characterised
+R_ARGtmB_MitoCore,Mitochondrial transporters - characterised
+R_r1427,Mitochondrial transporters - characterised
+R_PYRt2m,Mitochondrial transporters - characterised
+R_ACACt2mB_MitoCore,Mitochondrial transporters - characterised
+R_FE2tm,Mitochondrial transporters - characterised
+R_ASNtm,Mitochondrial transporters - uncharacterised
+R_r1437,Mitochondrial transporters - uncharacterised
+R_GLNtm,Mitochondrial transporters - uncharacterised
+R_PROtm,Mitochondrial transporters - uncharacterised
+R_r1078,Mitochondrial transporters - uncharacterised
+R_r1436,Mitochondrial transporters - uncharacterised
+R_r1455,Mitochondrial transporters - uncharacterised
+R_TRPtm_MitoCore,Mitochondrial transporters - uncharacterised
+R_GLYtm,Mitochondrial transporters - uncharacterised
+R_ILEt5m,Mitochondrial transporters - uncharacterised
+R_LEUt5m,Mitochondrial transporters - uncharacterised
+R_VALt5m,Mitochondrial transporters - uncharacterised
+R_r1434,Mitochondrial transporters - uncharacterised
+R_r1435,Mitochondrial transporters - uncharacterised
+R_r1440,Mitochondrial transporters - uncharacterised
+R_BALAtmr,Mitochondrial transporters - uncharacterised
+R_UREAtm,Mitochondrial transporters - uncharacterised
+R_FUMtmB_MitoCore,Mitochondrial transporters - uncharacterised
+R_BHBtmB_MitoCore,Mitochondrial transporters - uncharacterised
+R_PPAtmB_MitoCore,Mitochondrial transporters - uncharacterised
+R_BUTt2mB_MitoCore,Mitochondrial transporters - uncharacterised
+R_FORt2mB_MitoCore,Mitochondrial transporters - uncharacterised
+R_r0962B_MitoCore,Mitochondrial transporters - uncharacterised
+R_CHLtmB_MitoCore,Mitochondrial transporters - uncharacterised
+R_CO2tm,Mitochondrial transport - diffusion / artificial
+R_H2Otm,Mitochondrial transport - diffusion / artificial
+R_O2tm,Mitochondrial transport - diffusion / artificial
+R_GLYCtm,Mitochondrial transport - diffusion / artificial
+R_CYANtm,Mitochondrial transport - diffusion / artificial
+R_TCYNTtmB_MitoCore,Mitochondrial transport - diffusion / artificial
+R_CREATtmdiffir,Mitochondrial transport - diffusion / artificial
+R_PCREATtmdiffirB_MitoCore,Mitochondrial transport - diffusion / artificial
+R_r0941,Mitochondrial transport - diffusion / artificial
+R_r0838B_MitoCore,Mitochondrial transport - diffusion / artificial
+R_Biomasst_MitoCore,Mitochondrial transport - diffusion / artificial
+R_PCFLOPm,Mitochondrial transport - lipids
+R_PSFLIPm,Mitochondrial transport - lipids
+R_PEFLIPm,Mitochondrial transport - lipids
+R_Biomass_MitoCore,Boundary conditions - core
+R_O2t,Boundary conditions - core
+R_CO2t,Boundary conditions - core
+R_HCO3t_MitoCore,Boundary conditions - core
+R_GLCt1r,Boundary conditions - core
+R_HDCAtr,Boundary conditions - core
+R_HDCAtm_MitoCore,Boundary conditions - core
+R_L_LACt2r,Boundary conditions - core
+R_BHBt,Boundary conditions - core
+R_ACACt2,Boundary conditions - core
+R_ETOHt,Boundary conditions - alternative fuels
+R_BUTt2r,Boundary conditions - alternative fuels
+R_GLYCt,Boundary conditions - alternative fuels
+R_r0942,Boundary conditions - alternative fuels
+R_r0942b_MitoCore,Boundary conditions - alternative fuels
+R_HIStiDF,Boundary conditions - essential amino acids
+R_ILEtec,Boundary conditions - essential amino acids
+R_LEUtec,Boundary conditions - essential amino acids
+R_LYStiDF,Boundary conditions - essential amino acids
+R_METtec,Boundary conditions - essential amino acids
+R_PHEtec,Boundary conditions - essential amino acids
+R_r2534,Boundary conditions - essential amino acids
+R_TRPt,Boundary conditions - essential amino acids
+R_VALtec,Boundary conditions - essential amino acids
+R_ARGtiDF,Boundary conditions - nonessential amino acids
+R_ASPte,Boundary conditions - nonessential amino acids
+R_CYStec,Boundary conditions - nonessential amino acids
+R_GLUt_MitoCore,Boundary conditions - nonessential amino acids
+R_r2525,Boundary conditions - nonessential amino acids
+R_GLYt2r,Boundary conditions - nonessential amino acids
+R_PROt2r,Boundary conditions - nonessential amino acids
+R_r2526,Boundary conditions - nonessential amino acids
+R_TYRt,Boundary conditions - nonessential amino acids
+R_r2532,Boundary conditions - nonessential amino acids
+R_ALAt2r,Boundary conditions - nonessential amino acids
+R_FUMt_MitoCore,Boundary Conditions - Biomarkers
+R_SUMt_MitoCore,Boundary Conditions - Biomarkers
+R_r0817,Boundary Conditions - Biomarkers
+R_NH4t3r,Boundary Conditions - Biomarkers
+R_ACt2r,Boundary Conditions - Biomarkers
+R_PPAt,Boundary Conditions - Biomarkers
+R_2HBt2,Boundary Conditions - Biomarkers
+R_CHOLtu,Boundary Conditions - Biomarkers
+R_r1088,Boundary Conditions - Biomarkers
+R_ICITt_MitoCore,Boundary Conditions - Biomarkers
+R_UREAt,Boundary Conditions - Biomarkers
+R_r1512,Boundary Conditions - Biomarkers
+R_ARGSUCt_MitoCore,Boundary Conditions - Biomarkers
+R_MAL_Lte,Boundary Conditions - Biomarkers
+R_OAAt_MitoCore,Boundary Conditions - Biomarkers
+R_AKGt_MitoCore,Boundary Conditions - Biomarkers
+R_MERCPLACt_MitoCore,Boundary Conditions - Biomarkers
+R_r0899,Boundary Conditions - Misc
+R_FE2t,Boundary Conditions - Misc
+R_H2Ot,Boundary Conditions - Misc
+R_Hct_MitoCore,Boundary Conditions - Misc
+R_Hmt_MitoCore,Boundary Conditions - Misc
+R_SO3t_MitoCore,Boundary Conditions - Misc
+R_TSULt_MitoCore,Boundary Conditions - Misc
+R_r0940,Boundary Conditions - Misc
+R_CYANt,Boundary Conditions - Misc
+R_TCYNTt,Boundary Conditions - Misc
+R_r1423,Boundary Conditions - Misc
+R_FORt_MitoCore,Boundary Conditions - Misc
+R_FOLt_MitoCore,Boundary Conditions - Misc
+R_NADHt_MitoCore,Boundary Conditions - Misc
+R_NADt_MitoCore,Boundary Conditions - Misc
+R_NADHtm_MitoCore,Boundary Conditions - Misc
+R_NADtm_MitoCore,Boundary Conditions - Misc
+R_COt,Boundary Conditions - Misc
+R_NOt,Boundary Conditions - Misc
+R_PCHOLHSTDe,Boundary Conditions - Lipids
+R_PSt3,Boundary Conditions - Lipids
+R_PEt,Boundary Conditions - Lipids

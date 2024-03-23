@@ -1,0 +1,614 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!-- Created with Inkscape (http://www.inkscape.org/) -->
+
+<svg
+   width="210mm"
+   height="297mm"
+   viewBox="0 0 210 297"
+   version="1.1"
+   id="svg5"
+   inkscape:version="1.1 (c68e22c387, 2021-05-23)"
+   sodipodi:docname="1_process_mitoparp.svg"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:svg="http://www.w3.org/2000/svg">
+  <sodipodi:namedview
+     id="namedview7"
+     pagecolor="#ffffff"
+     bordercolor="#666666"
+     borderopacity="1.0"
+     inkscape:pageshadow="2"
+     inkscape:pageopacity="0"
+     inkscape:pagecheckerboard="true"
+     inkscape:document-units="mm"
+     showgrid="true"
+     inkscape:zoom="0.71446409"
+     inkscape:cx="186.85334"
+     inkscape:cy="612.34708"
+     inkscape:window-width="1920"
+     inkscape:window-height="1009"
+     inkscape:window-x="-8"
+     inkscape:window-y="-8"
+     inkscape:window-maximized="1"
+     inkscape:current-layer="layer1"
+     showguides="false">
+    <inkscape:grid
+       type="xygrid"
+       id="grid150601" />
+  </sodipodi:namedview>
+  <defs
+     id="defs2">
+    <marker
+       style="overflow:visible;"
+       id="Arrow1Mend"
+       refX="0.0"
+       refY="0.0"
+       orient="auto"
+       inkscape:stockid="Arrow1Mend"
+       inkscape:isstock="true">
+      <path
+         transform="scale(0.4) rotate(180) translate(10,0)"
+         style="fill-rule:evenodd;fill:context-stroke;stroke:context-stroke;stroke-width:1.0pt;"
+         d="M 0.0,0.0 L 5.0,-5.0 L -12.5,0.0 L 5.0,5.0 L 0.0,0.0 z "
+         id="path52892" />
+    </marker>
+    <marker
+       style="overflow:visible;"
+       id="Arrow1Lend"
+       refX="0.0"
+       refY="0.0"
+       orient="auto"
+       inkscape:stockid="Arrow1Lend"
+       inkscape:isstock="true">
+      <path
+         transform="scale(0.8) rotate(180) translate(12.5,0)"
+         style="fill-rule:evenodd;fill:context-stroke;stroke:context-stroke;stroke-width:1.0pt;"
+         d="M 0.0,0.0 L 5.0,-5.0 L -12.5,0.0 L 5.0,5.0 L 0.0,0.0 z "
+         id="path52886" />
+    </marker>
+    <marker
+       style="overflow:visible"
+       id="Arrow1Mend-2"
+       refX="0"
+       refY="0"
+       orient="auto"
+       inkscape:stockid="Arrow1Mend"
+       inkscape:isstock="true">
+      <path
+         transform="matrix(-0.4,0,0,-0.4,-4,0)"
+         style="fill:context-stroke;fill-rule:evenodd;stroke:context-stroke;stroke-width:1pt"
+         d="M 0,0 5,-5 -12.5,0 5,5 Z"
+         id="path52892-7" />
+    </marker>
+    <marker
+       style="overflow:visible"
+       id="Arrow1Mend-0"
+       refX="0"
+       refY="0"
+       orient="auto"
+       inkscape:stockid="Arrow1Mend"
+       inkscape:isstock="true">
+      <path
+         transform="matrix(-0.4,0,0,-0.4,-4,0)"
+         style="fill:context-stroke;fill-rule:evenodd;stroke:context-stroke;stroke-width:1pt"
+         d="M 0,0 5,-5 -12.5,0 5,5 Z"
+         id="path52892-1" />
+    </marker>
+    <marker
+       style="overflow:visible"
+       id="Arrow1Mend-24"
+       refX="0"
+       refY="0"
+       orient="auto"
+       inkscape:stockid="Arrow1Mend"
+       inkscape:isstock="true">
+      <path
+         transform="matrix(-0.4,0,0,-0.4,-4,0)"
+         style="fill:context-stroke;fill-rule:evenodd;stroke:context-stroke;stroke-width:1pt"
+         d="M 0,0 5,-5 -12.5,0 5,5 Z"
+         id="path52892-18" />
+    </marker>
+    <marker
+       style="overflow:visible"
+       id="Arrow1Mend-24-6"
+       refX="0"
+       refY="0"
+       orient="auto"
+       inkscape:stockid="Arrow1Mend"
+       inkscape:isstock="true">
+      <path
+         transform="matrix(-0.4,0,0,-0.4,-4,0)"
+         style="fill:context-stroke;fill-rule:evenodd;stroke:context-stroke;stroke-width:1pt"
+         d="M 0,0 5,-5 -12.5,0 5,5 Z"
+         id="path52892-18-9" />
+    </marker>
+  </defs>
+  <g
+     inkscape:label="Lag 1"
+     inkscape:groupmode="layer"
+     id="layer1">
+    <g
+       id="g32197"
+       transform="translate(6.5003355,0.99518481)">
+      <ellipse
+         style="fill:#80b3ff;fill-rule:evenodd;stroke-width:0.254398"
+         id="path31"
+         cx="33.124352"
+         cy="24.67787"
+         rx="31.6668"
+         ry="24.031593" />
+      <ellipse
+         style="fill:#ffffff;stroke-width:0.48741"
+         id="path447"
+         cx="33.74934"
+         cy="24.598293"
+         rx="22.368477"
+         ry="13.607293" />
+      <text
+         xml:space="preserve"
+         style="font-style:normal;font-weight:normal;font-size:8.84146px;line-height:1.25;font-family:sans-serif;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.221037"
+         x="16.891191"
+         y="26.929186"
+         id="text1931"
+         transform="scale(0.97196231,1.0288465)"><tspan
+           sodipodi:role="line"
+           style="stroke-width:0.221037"
+           x="16.891191"
+           y="26.929186"
+           id="tspan6127">HEK293</tspan></text>
+    </g>
+    <g
+       id="g1113"
+       transform="translate(-0.26721358,-3.1750001)">
+      <rect
+         style="fill:#808080;stroke-width:0.264583"
+         id="rect35406"
+         width="204.24982"
+         height="69.392563"
+         x="3.1423051"
+         y="58.918213"
+         ry="20.424982" />
+      <rect
+         style="fill:#ffffff;stroke-width:0.102714"
+         id="rect35406-4"
+         width="124.35416"
+         height="17.176853"
+         x="43.090134"
+         y="63.62479"
+         ry="5.055829" />
+      <g
+         id="g40353"
+         transform="translate(0.7855699,4.258728)">
+        <ellipse
+           style="fill:#ffffff;stroke-width:0.264583"
+           id="path35675"
+           cx="104.48164"
+           cy="99.768181"
+           rx="33.517918"
+           ry="19.639406" />
+        <text
+           xml:space="preserve"
+           style="font-style:normal;font-weight:normal;font-size:10.5833px;line-height:1.25;font-family:sans-serif;text-align:center;text-anchor:middle;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.264583"
+           x="104.22327"
+           y="96.562035"
+           id="text37219"><tspan
+             sodipodi:role="line"
+             id="tspan37217"
+             style="text-align:center;text-anchor:middle;stroke-width:0.264583"
+             x="104.22327"
+             y="96.562035">MitoCore</tspan><tspan
+             sodipodi:role="line"
+             style="text-align:center;text-anchor:middle;stroke-width:0.264583"
+             x="104.22327"
+             y="109.79116"
+             id="tspan37221">model</tspan></text>
+      </g>
+      <text
+         xml:space="preserve"
+         style="font-style:normal;font-weight:normal;font-size:10.5833px;line-height:1.25;font-family:sans-serif;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.264583"
+         x="104.23369"
+         y="75.175804"
+         id="text41739"><tspan
+           sodipodi:role="line"
+           id="tspan41737"
+           style="text-align:center;text-anchor:middle;stroke-width:0.264583"
+           x="104.23369"
+           y="75.175804">Proteomics integration</tspan></text>
+    </g>
+    <g
+       id="g22150-0"
+       transform="matrix(0.82542233,0,0,0.88761216,132.36144,-5.5045018)">
+      <ellipse
+         style="fill:#ff9955;fill-rule:evenodd;stroke-width:0.304517"
+         id="path31-8"
+         cx="49.097736"
+         cy="35.414078"
+         rx="38.998844"
+         ry="27.959475" />
+      <ellipse
+         style="fill:#ffffff;stroke-width:0.583434"
+         id="path447-8"
+         cx="49.867432"
+         cy="35.321495"
+         rx="27.547613"
+         ry="15.831358" />
+      <text
+         xml:space="preserve"
+         style="font-style:normal;font-weight:normal;font-size:10.5833px;line-height:1.25;font-family:sans-serif;text-align:center;text-anchor:middle;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.264583"
+         x="50.101139"
+         y="29.424215"
+         id="text1931-5"><tspan
+           sodipodi:role="line"
+           style="text-align:center;text-anchor:middle;stroke-width:0.264583"
+           x="50.101139"
+           y="29.424215"
+           id="tspan6127-2">293</tspan><tspan
+           sodipodi:role="line"
+           style="text-align:center;text-anchor:middle;stroke-width:0.264583"
+           x="50.101139"
+           y="42.653339"
+           id="tspan10941">mitoPARP</tspan></text>
+    </g>
+    <path
+       style="fill:none;stroke:#000000;stroke-width:1.47589;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:3.3;stroke-dasharray:8.85539, 1.47589;stroke-dashoffset:0;stroke-opacity:1;marker-end:url(#Arrow1Mend)"
+       d="M 39.624687,52.387498 V 131.76248"
+       id="path52066" />
+    <path
+       style="fill:none;stroke:#000000;stroke-width:1.4759;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:3.3;stroke-dasharray:8.85539, 1.4759;stroke-dashoffset:0;stroke-opacity:1;marker-end:url(#Arrow1Mend-2)"
+       d="M 172.88781,52.387498 V 131.76248"
+       id="path52066-8" />
+    <g
+       id="g6387"
+       transform="translate(7.4759827e-7,1.0583326)">
+      <path
+         style="fill:none;stroke:#000000;stroke-width:1.33463;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:3.3;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1;marker-end:url(#Arrow1Mend-0)"
+         d="M 71.231328,37.041667 H 136.13854"
+         id="path52066-4" />
+      <text
+         xml:space="preserve"
+         style="font-style:normal;font-weight:normal;font-size:9.87778px;line-height:1.25;font-family:sans-serif;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.309861"
+         x="110.0132"
+         y="32.292522"
+         id="text55477"
+         transform="scale(0.9562985,1.0456986)"><tspan
+           sodipodi:role="line"
+           id="tspan55475"
+           style="font-size:9.87778px;text-align:center;text-anchor:middle;stroke-width:0.309861"
+           x="110.0132"
+           y="32.292522">PARP1 </tspan><tspan
+           sodipodi:role="line"
+           style="font-size:9.87778px;text-align:center;text-anchor:middle;stroke-width:0.309861"
+           x="110.0132"
+           y="44.639748"
+           id="tspan60647">expression</tspan></text>
+    </g>
+    <g
+       id="g116990"
+       transform="translate(-4.2587263,-9.9752029)">
+      <rect
+         style="fill:#2a7fff;stroke-width:1.33463;stroke-miterlimit:3.3;stroke-dasharray:none;stroke-dashoffset:0"
+         id="rect65045"
+         width="72.213211"
+         height="40.365337"
+         x="7.7768078"
+         y="146.27805"
+         ry="20.182669" />
+      <rect
+         style="fill:#ffffff;stroke-width:1.88273;stroke-miterlimit:3.3;stroke-dasharray:none;stroke-dashoffset:0"
+         id="rect65115"
+         width="52.95636"
+         height="28.885286"
+         x="17.405237"
+         y="152.20323"
+         ry="14.442643" />
+      <text
+         xml:space="preserve"
+         style="font-style:normal;font-weight:normal;font-size:8.84146px;line-height:1.25;font-family:sans-serif;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.221037"
+         x="27.438314"
+         y="165.00763"
+         id="text1931-2"
+         transform="scale(0.97196229,1.0288465)"><tspan
+           sodipodi:role="line"
+           style="stroke-width:0.221037"
+           x="27.438314"
+           y="165.00763"
+           id="tspan6127-6">HEK293</tspan></text>
+      <text
+         xml:space="preserve"
+         style="font-style:normal;font-weight:normal;font-size:12.7px;line-height:1.25;font-family:sans-serif;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.264583"
+         x="43.672131"
+         y="171.64526"
+         id="text66563"><tspan
+           sodipodi:role="line"
+           style="font-size:12.7px;text-align:center;text-anchor:middle;stroke-width:0.264583"
+           x="43.672131"
+           y="171.64526"
+           id="tspan66565" /></text>
+    </g>
+    <g
+       id="g116990-3"
+       transform="translate(129.0044,-9.9752029)">
+      <rect
+         style="fill:#ff6600;stroke-width:1.33463;stroke-miterlimit:3.3;stroke-dasharray:none;stroke-dashoffset:0"
+         id="rect65045-2"
+         width="72.213211"
+         height="40.365337"
+         x="7.7768078"
+         y="146.27805"
+         ry="20.182669" />
+      <rect
+         style="fill:#ffffff;stroke-width:1.88273;stroke-miterlimit:3.3;stroke-dasharray:none;stroke-dashoffset:0"
+         id="rect65115-6"
+         width="52.95636"
+         height="28.885286"
+         x="17.405237"
+         y="152.20323"
+         ry="14.442643" />
+    </g>
+    <text
+       xml:space="preserve"
+       style="font-style:normal;font-weight:normal;font-size:9.0588px;line-height:1.25;font-family:sans-serif;text-align:center;text-anchor:middle;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.226471"
+       x="179.00826"
+       y="148.53531"
+       id="text1931-5-6"
+       transform="scale(0.96433178,1.0369875)"><tspan
+         sodipodi:role="line"
+         style="text-align:center;text-anchor:middle;stroke-width:0.226471"
+         x="179.00826"
+         y="148.53531"
+         id="tspan6127-2-9">293</tspan><tspan
+         sodipodi:role="line"
+         style="text-align:center;text-anchor:middle;stroke-width:0.226471"
+         x="179.00826"
+         y="159.85881"
+         id="tspan10941-5">mitoPARP</tspan></text>
+    <text
+       xml:space="preserve"
+       style="font-size:10.5833px;line-height:1.25;font-family:sans-serif;text-align:center;text-anchor:middle;stroke-width:0.264583"
+       x="104.73904"
+       y="147.19685"
+       id="text92411"><tspan
+         sodipodi:role="line"
+         id="tspan92409"
+         style="stroke-width:0.264583"
+         x="104.73904"
+         y="147.19685">Cell</tspan><tspan
+         sodipodi:role="line"
+         style="stroke-width:0.264583"
+         x="104.73904"
+         y="160.42598"
+         id="tspan92413">line</tspan><tspan
+         sodipodi:role="line"
+         style="stroke-width:0.264583"
+         x="104.73904"
+         y="173.65511"
+         id="tspan100059">models</tspan></text>
+    <text
+       xml:space="preserve"
+       style="font-size:10.5833px;line-height:1.25;font-family:sans-serif;text-align:center;text-anchor:middle;stroke-width:0.264583"
+       x="104.73904"
+       y="253.14966"
+       id="text92411-1"><tspan
+         sodipodi:role="line"
+         style="stroke-width:0.264583"
+         x="104.73904"
+         y="253.14966"
+         id="tspan151116">NAD</tspan><tspan
+         sodipodi:role="line"
+         style="stroke-width:0.264583"
+         x="104.73904"
+         y="266.37875"
+         id="tspan7723">specific</tspan><tspan
+         sodipodi:role="line"
+         style="stroke-width:0.264583"
+         x="104.73904"
+         y="279.60788"
+         id="tspan151118">models</tspan></text>
+    <g
+       id="g1029"
+       transform="translate(7.9804586,5.9636094)">
+      <rect
+         style="fill:#003380;stroke-width:1.33463;stroke-miterlimit:3.3;stroke-dasharray:none;stroke-dashoffset:0"
+         id="rect65045-29"
+         width="72.213211"
+         height="40.365337"
+         x="3.5180819"
+         y="247.93204"
+         ry="20.182669" />
+      <rect
+         style="fill:#ffffff;stroke-width:1.88273;stroke-miterlimit:3.3;stroke-dasharray:none;stroke-dashoffset:0"
+         id="rect65115-2"
+         width="52.95636"
+         height="28.885286"
+         x="13.146511"
+         y="253.85722"
+         ry="14.442643" />
+      <text
+         xml:space="preserve"
+         style="font-style:normal;font-weight:normal;font-size:9.87778px;line-height:1.25;font-family:sans-serif;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.264583"
+         x="40.365536"
+         y="264.04117"
+         id="text66563-9"><tspan
+           sodipodi:role="line"
+           style="font-size:9.87778px;text-align:center;text-anchor:middle;stroke-width:0.264583"
+           x="40.365536"
+           y="264.04117"
+           id="tspan66565-8">HEK293</tspan><tspan
+           sodipodi:role="line"
+           style="font-size:9.87778px;text-align:center;text-anchor:middle;stroke-width:0.264583"
+           x="40.365536"
+           y="276.3884"
+           id="tspan137852">high NAD</tspan></text>
+    </g>
+    <g
+       id="g1029-6"
+       transform="translate(1.101292,-13.615557)">
+      <rect
+         style="fill:#003380;stroke-width:1.33463;stroke-miterlimit:3.3;stroke-dasharray:none;stroke-dashoffset:0"
+         id="rect65045-29-2"
+         width="72.213211"
+         height="40.365337"
+         x="3.5180819"
+         y="247.93204"
+         ry="20.182669" />
+      <rect
+         style="fill:#ffffff;stroke-width:1.88273;stroke-miterlimit:3.3;stroke-dasharray:none;stroke-dashoffset:0"
+         id="rect65115-2-9"
+         width="52.95636"
+         height="28.885286"
+         x="13.146511"
+         y="253.85722"
+         ry="14.442643" />
+      <text
+         xml:space="preserve"
+         style="font-style:normal;font-weight:normal;font-size:9.87778px;line-height:1.25;font-family:sans-serif;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.264583"
+         x="40.365536"
+         y="264.04117"
+         id="text66563-9-4"><tspan
+           sodipodi:role="line"
+           style="font-size:9.87778px;text-align:center;text-anchor:middle;stroke-width:0.264583"
+           x="40.365536"
+           y="264.04117"
+           id="tspan66565-8-2">HEK293</tspan><tspan
+           sodipodi:role="line"
+           style="font-size:9.87778px;text-align:center;text-anchor:middle;stroke-width:0.264583"
+           x="40.365536"
+           y="276.3884"
+           id="tspan137852-9">low NAD</tspan></text>
+    </g>
+    <g
+       id="g1080"
+       transform="translate(0.43362716,8.2917559)">
+      <rect
+         style="fill:#aa4400;stroke-width:1.33463;stroke-miterlimit:3.3;stroke-dasharray:none;stroke-dashoffset:0"
+         id="rect65045-29-5"
+         width="72.213211"
+         height="40.365337"
+         x="136.51712"
+         y="245.60391"
+         ry="20.182669" />
+      <rect
+         style="fill:#ffffff;stroke-width:1.88273;stroke-miterlimit:3.3;stroke-dasharray:none;stroke-dashoffset:0"
+         id="rect65115-2-4"
+         width="52.95636"
+         height="28.885286"
+         x="146.14555"
+         y="251.5291"
+         ry="14.442643" />
+      <text
+         xml:space="preserve"
+         style="font-style:normal;font-weight:normal;font-size:7.05556px;line-height:1.25;font-family:sans-serif;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.264583"
+         x="172.45148"
+         y="263.26648"
+         id="text66563-9-9"><tspan
+           sodipodi:role="line"
+           style="font-size:7.05556px;text-align:center;text-anchor:middle;stroke-width:0.264583"
+           x="172.45148"
+           y="263.26648"
+           id="tspan137852-6">293mitoPARP</tspan><tspan
+           sodipodi:role="line"
+           style="font-size:7.05556px;text-align:center;text-anchor:middle;stroke-width:0.264583"
+           x="172.45148"
+           y="272.08594"
+           id="tspan44927">high NAD</tspan></text>
+    </g>
+    <g
+       id="g1080-2"
+       transform="translate(-7.1442168,-12.874911)">
+      <rect
+         style="fill:#aa4400;stroke-width:1.33463;stroke-miterlimit:3.3;stroke-dasharray:none;stroke-dashoffset:0"
+         id="rect65045-29-5-5"
+         width="72.213211"
+         height="40.365337"
+         x="137.57544"
+         y="247.19139"
+         ry="20.182669" />
+      <rect
+         style="fill:#ffffff;stroke-width:1.88273;stroke-miterlimit:3.3;stroke-dasharray:none;stroke-dashoffset:0"
+         id="rect65115-2-4-3"
+         width="52.95636"
+         height="28.885286"
+         x="147.20387"
+         y="253.11658"
+         ry="14.442643" />
+      <text
+         xml:space="preserve"
+         style="font-style:normal;font-weight:normal;font-size:7.05556px;line-height:1.25;font-family:sans-serif;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.264583"
+         x="173.5098"
+         y="265.52921"
+         id="text66563-9-9-4"><tspan
+           sodipodi:role="line"
+           style="font-size:7.05556px;text-align:center;text-anchor:middle;stroke-width:0.264583"
+           x="173.5098"
+           y="265.52921"
+           id="tspan137852-6-4">293mitoPARP</tspan><tspan
+           sodipodi:role="line"
+           style="font-size:7.05556px;text-align:center;text-anchor:middle;stroke-width:0.264583"
+           x="173.5098"
+           y="274.34866"
+           id="tspan31363">low NAD</tspan></text>
+    </g>
+    <text
+       xml:space="preserve"
+       style="font-size:10.5833px;line-height:1.25;font-family:sans-serif;text-align:center;text-anchor:middle;stroke-width:0.264583"
+       x="104.9199"
+       y="18.677826"
+       id="text162492"><tspan
+         sodipodi:role="line"
+         id="tspan162490"
+         style="stroke-width:0.264583"
+         x="104.9199"
+         y="18.677826">Cell lines</tspan></text>
+    <g
+       id="g1113-2"
+       transform="translate(-0.26721358,123.70009)">
+      <g
+         id="g40353-5"
+         transform="translate(-1.2961346,4.258728)" />
+      <g
+         id="g5312">
+        <rect
+           style="fill:#808080;stroke-width:0.205223"
+           id="rect35406-5"
+           width="204.24982"
+           height="41.748245"
+           x="3.1423051"
+           y="58.918213"
+           ry="12.288162" />
+        <rect
+           style="fill:#ffffff;stroke-width:0.113261"
+           id="rect35406-4-3"
+           width="87.3125"
+           height="29.746073"
+           x="61.610962"
+           y="64.919296"
+           ry="8.7554483" />
+        <text
+           xml:space="preserve"
+           style="font-style:normal;font-weight:normal;font-size:10.5833px;line-height:1.25;font-family:sans-serif;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.264583"
+           x="106.61079"
+           y="76.97081"
+           id="text41739-4"><tspan
+             sodipodi:role="line"
+             id="tspan41737-2"
+             style="text-align:center;text-anchor:middle;stroke-width:0.264583"
+             x="106.61079"
+             y="76.97081">Parameterizing </tspan><tspan
+             sodipodi:role="line"
+             style="text-align:center;text-anchor:middle;stroke-width:0.264583"
+             x="106.61079"
+             y="90.199936"
+             id="tspan6260">for free NAD</tspan></text>
+      </g>
+    </g>
+    <path
+       style="fill:none;stroke:#000000;stroke-width:1.574;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:3.3;stroke-dasharray:9.444, 1.574;stroke-dashoffset:0;stroke-opacity:1;marker-end:url(#Arrow1Mend-24-6)"
+       d="m 172.88781,178.88193 v 50.23108"
+       id="path52066-88-7" />
+    <path
+       style="fill:none;stroke:#000000;stroke-width:1.574;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:3.3;stroke-dasharray:9.444, 1.574;stroke-dashoffset:0;stroke-opacity:1;marker-end:url(#Arrow1Mend-24)"
+       d="m 39.624687,178.88193 v 50.23108"
+       id="path52066-88" />
+  </g>
+</svg>
