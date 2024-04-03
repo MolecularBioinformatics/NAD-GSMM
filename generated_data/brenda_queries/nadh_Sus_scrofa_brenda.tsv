@@ -1,0 +1,68 @@
+1.1.1.27	0.0127	NADH	pH 8.5, 25&deg;C, isozyme H2M2	Sus scrofa	8	740001
+1.1.1.27	0.0137	NADH	pH 8.5, 25&deg;C, isozyme H4	Sus scrofa	8	740001
+1.1.1.27	0.0156	NADH	pH 8.5, 25&deg;C, isozyme M4	Sus scrofa	8	740001
+1.1.1.32	0.003	NADH		Sus scrofa	8	286554
+1.1.1.35	0.003	NADH		Sus scrofa	8	286590
+1.1.1.37	0.0145	NADH	pH 7.5, 20&deg;C, mitochondrial isoenzyme mMDH	Sus scrofa	8	656579
+1.1.1.37	0.0205	NADH	pH 7.5, 20&deg;C, cytosolic isoenzyme cMDH	Sus scrofa	8	656579
+1.1.1.64	0.177	NADH		Sus scrofa	8	287225
+1.1.1.64	0.177	NADH		Sus scrofa	8	287229
+1.1.1.149	0.75	NADH	10 mM cysteine	Sus scrofa	8	285988
+1.1.1.149	0.75	NADH	freshly thawed enzyme	Sus scrofa	8	285988
+1.1.1.149	1.1	NADH	10 mM cysteine, at 4&deg;C until activity decreases to half of the initial value	Sus scrofa	8	285988
+1.1.1.149	1.1	NADH	enzyme solution that has been left standing at 4&deg;C until the activity has decreased to half of the initial value	Sus scrofa	8	285988
+1.1.1.271	0.023	NADH		Sus scrofa	8	389512
+1.2.1.12	0.023	NADH		Sus scrofa	8	287934
+1.2.1.12	0.023	NADH		Sus scrofa	8	287966
+1.3.1.24	1.5	NADH	pig spleen, rat liver	Sus scrofa	8	437788
+1.3.1.48	0.153	NADH		Sus scrofa	8	390827
+1.3.1.48	0.16	NADH	recombinant enzyme	Sus scrofa	8	390827
+1.5.1.20	0.085	NADH	reduction of menadione	Sus scrofa	8	392149
+1.5.1.20	0.31	NADH	methylenetetrahydrofolate reductase reaction	Sus scrofa	8	392149
+1.5.1.25	0.027	NADH	reaction with S-aminoethylcysteine ketimine	Sus scrofa	8	440358
+1.6.2.2	0.0003	NADH	H49E mutant enzyme	Sus scrofa	8	394254
+1.6.2.2	0.0004	NADH	lysosome- and detergent-solubilized enzyme	Sus scrofa	8	394212
+1.6.2.2	0.00064	NADH	G273 mutant enzyme	Sus scrofa	8	394254
+1.6.2.2	0.00084	NADH	DELTAF272 mutant enzyme	Sus scrofa	8	394254
+1.6.2.2	0.0015	NADH	recombinant wild-type enzyme	Sus scrofa	8	394254
+1.6.2.2	0.0016	NADH	native enzyme	Sus scrofa	8	394254
+1.6.2.2	0.0019	NADH	H49A mutant enzyme	Sus scrofa	8	394254
+1.6.2.2	0.0019	NADH	S99T mutant enzyme	Sus scrofa	8	394259
+1.6.2.2	0.0021	NADH	R63K mutant enzyme	Sus scrofa	8	394259
+1.6.2.2	0.0027	NADH	H49Y mutant enzyme	Sus scrofa	8	394254
+1.6.2.2	0.0028	NADH	pH 7.0, 25&deg;C,T66S mutant enzyme	Sus scrofa	8	659255
+1.6.2.2	0.0028	NADH	pH 7.0, 25&deg;C,T66V mutant enzyme	Sus scrofa	8	659255
+1.6.2.2	0.0028	NADH	at pH 7.4 and 37&deg;C	Sus scrofa	8	742559
+1.6.2.2	0.0029	NADH	K97R mutant enzyme	Sus scrofa	8	394259
+1.6.2.2	0.0029	NADH	pH 7.0, 25&deg;C,T66A mutant enzyme	Sus scrofa	8	659255
+1.6.2.2	0.003	NADH	Y65F mutant enzyme	Sus scrofa	8	394259
+1.6.2.2	0.0031	NADH	recombinant wild-type enzyme	Sus scrofa	8	394259
+1.6.2.2	0.0031	NADH	pH 7.0, 25&deg;C, wild type enzyme	Sus scrofa	8	659255
+1.6.2.2	0.0042	NADH	Y65A mutant enzyme	Sus scrofa	8	394259
+1.6.2.2	0.0044	NADH	K97A mutant enzyme	Sus scrofa	8	394259
+1.6.2.2	0.0094	NADH	S99V mutant enzyme	Sus scrofa	8	394259
+1.6.2.2	0.01	NADH	H49K mutant enzyme	Sus scrofa	8	394254
+1.6.2.2	0.01097	NADH	ferricyanide as electron acceptor	Sus scrofa	8	699061
+1.6.2.2	0.01097	NADH	wild type enzyme, using ferricyanide as cosubstrate, in 100 mM potassium phosphate buffer (pH 7.0) at 25&deg;C	Sus scrofa	8	699061
+1.6.2.2	0.0112	NADH	in the presence of 2 mM Ca2+	Sus scrofa	8	394197
+1.6.2.2	0.0135	NADH	mutant P248L, ferricyanide as electron acceptor	Sus scrofa	8	699061
+1.6.2.2	0.0135	NADH	mutant enzyme P248L, using ferricyanide as cosubstrate, in 100 mM potassium phosphate buffer (pH 7.0) at 25&deg;C	Sus scrofa	8	699061
+1.6.2.2	0.0155	NADH	mutant P249L, ferricyanide as electron acceptor	Sus scrofa	8	699061
+1.6.2.2	0.0155	NADH	mutant enzyme P249L, using ferricyanide as cosubstrate, in 100 mM potassium phosphate buffer (pH 7.0) at 25&deg;C	Sus scrofa	8	699061
+1.6.2.2	0.01713	NADH	mutant P247A, ferricyanide as electron acceptor	Sus scrofa	8	699061
+1.6.2.2	0.01713	NADH	mutant enzyme P247A, using ferricyanide as cosubstrate, in 100 mM potassium phosphate buffer (pH 7.0) at 25&deg;C	Sus scrofa	8	699061
+1.6.2.2	0.0195	NADH		Sus scrofa	8	394197
+1.6.2.2	0.021	NADH	R63Q mutant enzyme	Sus scrofa	8	394259
+1.6.2.2	0.02407	NADH	mutant P248A, ferricyanide as electron acceptor	Sus scrofa	8	699061
+1.6.2.2	0.02407	NADH	mutant enzyme P248A, using ferricyanide as cosubstrate, in 100 mM potassium phosphate buffer (pH 7.0) at 25&deg;C	Sus scrofa	8	699061
+1.6.2.2	0.02467	NADH	mutant P247L, ferricyanide as electron acceptor	Sus scrofa	8	699061
+1.6.2.2	0.02467	NADH	mutant enzyme P247L, using ferricyanide as cosubstrate, in 100 mM potassium phosphate buffer (pH 7.0) at 25&deg;C	Sus scrofa	8	699061
+1.6.2.2	0.026	NADH	S99A mutant enzyme	Sus scrofa	8	394259
+1.6.2.2	0.02928	NADH	mutant P249A, ferricyanide as electron acceptor	Sus scrofa	8	699061
+1.6.2.2	0.02928	NADH	mutant enzyme P249A, using ferricyanide as cosubstrate, in 100 mM potassium phosphate buffer (pH 7.0) at 25&deg;C	Sus scrofa	8	699061
+1.6.2.2	0.104	NADH	R63A mutant enzyme	Sus scrofa	8	394259
+1.6.2.4	24	NADH		Sus scrofa	8	288576
+1.6.2.4	40	NADH	kidney	Sus scrofa	8	288579
+1.6.2.4	50	NADH	spleen	Sus scrofa	8	288579
+1.6.3.1	0.2	NADH	pH 7.4, 30&deg;C, 1.5 mM Ca2+	Sus scrofa	8	636493
+1.8.1.4	0.01	NADH	nitric oxide reduction, pH 7.5	Sus scrofa	8	658742

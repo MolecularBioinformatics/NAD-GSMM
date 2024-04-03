@@ -1,0 +1,175 @@
+1.1.1.1	0.0025	NADH		Homo sapiens	8	285571
+1.1.1.1	0.0064	NADH	isoenzyme beta1,beta1	Homo sapiens	8	285571
+1.1.1.1	0.007	NADH	isoenzyme gamma1,gamma1	Homo sapiens	8	285571
+1.1.1.1	0.011	NADH	isoenzyme alpha,alpha	Homo sapiens	8	285571
+1.1.1.1	0.105	NADH	isoenzyme beta2,beta2	Homo sapiens	8	285571
+1.1.1.1	6.4	NADH	isoenzyme beta1,beta1, 0.1 M sodium phosphate buffer, pH 7.5, at 25 &deg;C	Homo sapiens	8	285575
+1.1.1.1	105	NADH	isoenzyme beta2,beta2, 0.1 M sodium phosphate buffer, pH 7.5, 25&deg;C	Homo sapiens	8	285575
+1.1.1.1	260	NADH	isoenzyme beta3,beta3, 0.1 M sodium phospahte buffer, pH 7.5, 25&deg;C	Homo sapiens	8	285575
+1.1.1.8	0.005	NADH	measured at pH 7.5	Homo sapiens	8	287350
+1.1.1.10	0.17	NADH	pH 7.0, 25&deg;C	Homo sapiens	8	656049
+1.1.1.21	0.25	NADH		Homo sapiens	8	286221
+1.1.1.21	0.62	NADH		Homo sapiens	8	286186
+1.1.1.35	0.0009	NADH	isozyme SCHAD II, at pH 9.3	Homo sapiens	8	684902
+1.1.1.35	0.02	NADH	enzyme from brain	Homo sapiens	8	286591
+1.1.1.35	0.0338	NADH	isozyme SCHAD I, at pH 8.5	Homo sapiens	8	684902
+1.1.1.38	0.3	NADH	pH 7.4, 30&deg;C, recombinant mutant K57S/E59N/K73E/D102S	Homo sapiens	8	737754
+1.1.1.38	0.3	NADH	pH 7.4, 30&deg;C, recombinant mutant K57S/E59N/K73E/D102S with 5 mM fumarate	Homo sapiens	8	737754
+1.1.1.38	0.3	NADH	pH 7.4, 30&deg;C, recombinant wild-type with 5 mM fumarate	Homo sapiens	8	737754
+1.1.1.38	1.4	NADH	pH 7.4, 30&deg;C, recombinant wild-type	Homo sapiens	8	737754
+1.1.1.51	0.0053	NADH	pH 7.4, reaction with 4-dionetestosterone	Homo sapiens	8	659176
+1.1.1.51	0.0056	NADH	pH 7.4, reaction with estronel	Homo sapiens	8	659176
+1.1.1.71	1200	NADH	pH 7.4, 37&deg;C	Homo sapiens	8	655563
+1.1.1.79	2.42	NADH	37&deg;C	Homo sapiens	8	667814
+1.1.1.79	2.42	NADH	pH 7.5, 37&deg;C, recombinant enzyme	Homo sapiens	8	667814
+1.1.1.95	0.004	NADH	with 2-oxoglutarate as cosubstrate, at pH 7.6 and 37&deg;C	Homo sapiens	8	737315
+1.1.1.95	0.004	NADH	with oxaloacetate as cosubstrate, at pH 7.6 and 37&deg;C	Homo sapiens	8	737315
+1.1.1.105	0.011	NADH	pH and temperature not specified in the publication	Homo sapiens	8	738610
+1.1.1.105	0.011	NADH	pH not specified in the publication, temperature not specified in the publication	Homo sapiens	8	738610
+1.1.1.105	0.11	NADH	wild type enzyme, in 100 mM sodium phosphate, pH 7.4	Homo sapiens	8	690842
+1.1.1.141	0.0156	NADH	at pH 7.0, + 15-keto-PGE1	Homo sapiens	8	285916
+1.1.1.141	0.0156	NADH	at pH 7.0, + 15-ketoprostaglandin E2	Homo sapiens	8	285916
+1.1.1.141	0.0594	NADH	at pH 9.0, + 15-ketoprostaglandin E2	Homo sapiens	8	285916
+1.1.1.145	0.0025	NADH	mutant E192A, pH 7.4, 27&deg;C	Homo sapiens	8	725813
+1.1.1.145	0.0036	NADH	mutant R195P, pH 7.4, 27&deg;C	Homo sapiens	8	725813
+1.1.1.145	0.0046	NADH	wild-type 3beta-HSD1, pH 7.4, 27&deg;C	Homo sapiens	8	725813
+1.1.1.145	0.0055	NADH	mutant R195R, pH 7.4, 27&deg;C	Homo sapiens	8	725813
+1.1.1.145	0.0065	NADH	mutant E192A, pH 7.4, 27&deg;C	Homo sapiens	8	725813
+1.1.1.145	0.0072	NADH	mutant D61N, pH 7.4, 27&deg;C	Homo sapiens	8	725813
+1.1.1.145	0.0126	NADH	wild-type 3beta-HSD2, pH 7.4, 27&deg;C	Homo sapiens	8	725813
+1.1.1.172	0.011	NADH		Homo sapiens	8	286112
+1.1.1.284	0.0002	NADH	wild type enzyme, pH 7.5	Homo sapiens	8	667724
+1.1.1.284	0.0042	NADH	pH 5.7	Homo sapiens	8	287870
+1.1.1.284	0.0042	NADH	pH 5.7	Homo sapiens	8	287888
+1.1.1.284	0.011	NADH	mutant R368L, pH 7.5	Homo sapiens	8	667724
+1.1.1.284	0.016	NADH	pH 8.0	Homo sapiens	8	287888
+1.1.1.300	2.22	NADH	pH 7.4, 37&deg;C	Homo sapiens	8	667674
+1.1.1.300	2.42	NADH	pH 7.4, 37&deg;C	Homo sapiens	8	667674
+1.1.1.300	6	NADH	pH and temperature not specified in the publication. The apparent Km value for NADH is three orders of magnitude higher than that for NADPH	Homo sapiens	8	686690
+1.1.1.300	1300	NADH	pH 7.4, 37&deg;C, determined with all-trans-retinal	Homo sapiens	8	656064
+1.1.1.315	0.11	NADH	pH 7.4, 37&deg;C, wild-type enzyme	Homo sapiens	8	690842
+1.2.1.12	0.01	NADH		Homo sapiens	8	287900
+1.2.1.36	6	NADH		Homo sapiens	8	686690
+1.2.1.46	0.002	NADH	oxidation of NADH, formaldehyde dehydrogenase	Homo sapiens	8	667724
+1.2.1.46	0.011	NADH	oxidation of NADH, R368L mutant	Homo sapiens	8	667724
+1.3.1.24	0.107	NADH	mutant enzyme R35S, at pH 7.2 and 30&deg;C	Homo sapiens	8	740322
+1.3.1.24	0.108	NADH	mutant enzyme R35A, at pH 7.2 and 30&deg;C	Homo sapiens	8	740322
+1.3.1.24	0.118	NADH	wild type enzyme, at pH 7.2 and 30&deg;C	Homo sapiens	8	740322
+1.3.1.24	0.15	NADH	mutant enzyme R78A, at pH 7.2 and 30&deg;C	Homo sapiens	8	740322
+1.3.1.24	0.186	NADH	mutant enzyme W116A, at pH 7.2 and 30&deg;C	Homo sapiens	8	740322
+1.3.1.24	0.305	NADH	mutant enzyme R39A, at pH 7.2 and 30&deg;C	Homo sapiens	8	740322
+1.3.1.24	0.319	NADH	mutant enzyme W116F, at pH 7.2 and 30&deg;C	Homo sapiens	8	740322
+1.3.1.24	0.33	NADH	in the absence of urea, at pH 7.2 and 25&deg;C	Homo sapiens	8	740098
+1.3.1.24	2	NADH	in the presence of 3 M urea, at pH 7.2 and 25&deg;C	Homo sapiens	8	740098
+1.3.1.48	0.032	NADH		Homo sapiens	8	390821
+1.3.1.48	0.032	NADH		Homo sapiens	8	390824
+1.3.1.48	0.0548	NADH		Homo sapiens	8	390822
+1.4.1.3	0.075	NADH	mutant enzyme L415M/S443R/A456G, 50 mM triethanolamine pH 8.0, 100 mM ammonium acetate, 0.1 mM NADH, and 2 mM EDTA, pH 8.0 at 25&deg;C	Homo sapiens	8	684905
+1.4.1.3	0.076	NADH	25&deg;C, mutant enzyme K346L	Homo sapiens	8	655569
+1.4.1.3	0.079	NADH	25&deg;C, mutant enzyme K333L	Homo sapiens	8	655569
+1.4.1.3	0.08	NADH	pH 8.0, 25&deg;C, wild-type enzyme	Homo sapiens	8	654650
+1.4.1.3	0.08	NADH	mutant enzyme M415L/R443S/G456A, 50 mM triethanolamine pH 8.0, 100 mM ammonium acetate, 0.1 mM NADH, and 2 mM EDTA, pH 8.0 at 25&deg;C	Homo sapiens	8	684905
+1.4.1.3	0.081	NADH	25&deg;C, wild-type enzyme	Homo sapiens	8	655569
+1.4.1.3	0.081	NADH	pH 8.0, 25&deg;C, wild-type enzyme hGDH1	Homo sapiens	8	655582
+1.4.1.3	0.081	NADH	hGDH1, wild-type	Homo sapiens	8	675933
+1.4.1.3	0.081	NADH	wild-type, hGDH1	Homo sapiens	8	673616
+1.4.1.3	0.081	NADH	isozyme GDH1, in the presence of 1 mM ADP, in 50 mM triethanolamine, pH 8.0, 100 mM ammonium acetate, 0.1 mM NADH, and 2 mM EDTA, pH 8.0, at 25&deg;C	Homo sapiens	8	687565
+1.4.1.3	0.081	NADH	wild type isozyme GDH1, 50 mM triethanolamine pH 8.0, 100 mM ammonium acetate, 0.1 mM NADH, and 2 mM EDTA, pH 8.0 at 25&deg;C	Homo sapiens	8	684905
+1.4.1.3	0.082	NADH	pH 8.0, 25&deg;C, mutant enzyme Y187E	Homo sapiens	8	654650
+1.4.1.3	0.082	NADH	pH 8.0, 25&deg;C, mutant enzyme Y187R	Homo sapiens	8	654650
+1.4.1.3	0.084	NADH	pH 8.0, 25&deg;C, mutant enzyme Y187M	Homo sapiens	8	654650
+1.4.1.3	0.085	NADH	pH 8.0, 25&deg;C, mutant enzyme Y187G	Homo sapiens	8	654650
+1.4.1.3	0.086	NADH	pH 8.0, 25&deg;C, wild-type enzyme hGDH2	Homo sapiens	8	655582
+1.4.1.3	0.086	NADH	hGDH2, wild-type	Homo sapiens	8	675933
+1.4.1.3	0.086	NADH	wild-type, hGDH2	Homo sapiens	8	673616
+1.4.1.3	0.086	NADH	isozyme GDH2, in the presence of 1 mM ADP, in 50 mM triethanolamine, pH 8.0, 100 mM ammonium acetate, 0.1 mM NADH, and 2 mM EDTA, pH 8.0, at 25&deg;C	Homo sapiens	8	687565
+1.4.1.3	0.086	NADH	wild type isozyme GDH2, 50 mM triethanolamine pH 8.0, 100 mM ammonium acetate, 0.1 mM NADH, and 2 mM EDTA, pH 8.0 at 25&deg;C	Homo sapiens	8	684905
+1.4.1.3	0.088	NADH	25&deg;C, mutant enzyme K337L	Homo sapiens	8	655569
+1.4.1.3	0.088	NADH	pH 8.0, 25&deg;C, mutant enzyme S443R hGDH2	Homo sapiens	8	655582
+1.4.1.3	0.088	NADH	pH 8.0, 25&deg;C, mutant enzyme Y187S	Homo sapiens	8	654650
+1.4.1.3	0.089	NADH	25&deg;C, mutant enzyme G446D	Homo sapiens	8	655569
+1.4.1.3	0.09	NADH	25&deg;C, mutant enzyme K344L	Homo sapiens	8	655569
+1.4.1.3	0.09	NADH	mutant C119A, hGDH1	Homo sapiens	8	673616
+1.4.1.3	0.091	NADH	mutant C119Y, hGDH1	Homo sapiens	8	673616
+1.4.1.3	0.092	NADH	mutant C119G, hGDH1	Homo sapiens	8	673616
+1.4.1.3	0.094	NADH	mutant C59G, hGDH1	Homo sapiens	8	673616
+1.4.1.3	0.097	NADH	mutant C59A, hGDH1	Homo sapiens	8	673616
+1.4.1.3	0.098	NADH	25&deg;C, mutant enzyme S445L	Homo sapiens	8	655569
+1.4.1.3	0.098	NADH	mutant C119G, hGDH2	Homo sapiens	8	673616
+1.4.1.3	0.099	NADH	mutant C59A, hGDH2	Homo sapiens	8	673616
+1.4.1.3	0.099	NADH	mutant C59Y, hGDH1	Homo sapiens	8	673616
+1.4.1.3	0.101	NADH	mutant C119A, hGDH2	Homo sapiens	8	673616
+1.4.1.3	0.102	NADH	mutant C59Y, hGDH2	Homo sapiens	8	673616
+1.4.1.3	0.106	NADH	mutant C59G, hGDH2	Homo sapiens	8	673616
+1.4.1.3	0.108	NADH	mutant C119Y, hGDH2	Homo sapiens	8	673616
+1.4.1.3	0.117	NADH	hGDH1, mutant C323L	Homo sapiens	8	675933
+1.4.1.3	0.119	NADH	hGDH1, mutant C323G	Homo sapiens	8	675933
+1.4.1.3	0.119	NADH	hGDH1, mutant C323M	Homo sapiens	8	675933
+1.4.1.3	0.119	NADH	hGDH2, mutant C323M	Homo sapiens	8	675933
+1.4.1.3	0.121	NADH	hGDH2, mutant C323L	Homo sapiens	8	675933
+1.4.1.3	0.122	NADH	25&deg;C, mutant enzyme H454Y	Homo sapiens	8	655569
+1.4.1.3	0.122	NADH	hGDH1, mutant C323R	Homo sapiens	8	675933
+1.4.1.3	0.125	NADH	hGDH2, mutant C323R	Homo sapiens	8	675933
+1.4.1.3	0.128	NADH	hGDH2, mutant C323G	Homo sapiens	8	675933
+1.4.1.3	0.129	NADH	hGDH1, mutant C323Y	Homo sapiens	8	675933
+1.4.1.3	0.138	NADH	hGDH2, mutant C323Y	Homo sapiens	8	675933
+1.4.1.3	0.169	NADH	mutant C274A, hGDH2	Homo sapiens	8	673616
+1.4.1.3	0.175	NADH	mutant C274G, hGDH2	Homo sapiens	8	673616
+1.4.1.3	0.176	NADH	mutant C274Y, hGDH2	Homo sapiens	8	673616
+1.4.1.3	0.178	NADH	mutant C274Y, hGDH1	Homo sapiens	8	673616
+1.4.1.3	0.181	NADH	mutant C274G, hGDH1	Homo sapiens	8	673616
+1.4.1.3	0.189	NADH	mutant C274A, hGDH1	Homo sapiens	8	673616
+1.5.1.2	0.07	NADH	wild-type, pH 7.5, 37&deg;C	Homo sapiens	8	740763
+1.5.1.34	0.002	NADH	recombinant Y150S glutathione-S-transferase fusion mutant enzyme	Homo sapiens	8	485004
+1.5.1.34	0.002	NADH	recombinant Y150K glutathione-S-transferase fusion mutant enzyme	Homo sapiens	8	485004
+1.5.1.34	0.0024	NADH	recombinant Y150F mutant enzyme	Homo sapiens	8	485004
+1.5.1.34	0.0043	NADH	recombinant Y150H mutant enzyme	Homo sapiens	8	485004
+1.5.1.34	0.0044	NADH	recombinant Y150E glutathione-S-transferase fusion mutant enzyme	Homo sapiens	8	485004
+1.5.1.34	0.0047	NADH		Homo sapiens	8	484978
+1.5.1.34	0.0049	NADH	recombinant Y150S mutant enzyme	Homo sapiens	8	485004
+1.5.1.34	0.005	NADH	recombinant Y150F glutathione-S-transferase fusion mutant enzyme	Homo sapiens	8	485004
+1.5.1.34	0.0059	NADH	recombinant Y150H glutathione-S-transferase fusion mutant enzyme	Homo sapiens	8	485004
+1.5.1.34	0.0064	NADH	recombinant Y150E mutant enzyme	Homo sapiens	8	485004
+1.5.1.34	0.008	NADH		Homo sapiens	8	484995
+1.5.1.34	0.009	NADH	recombinant enzyme	Homo sapiens	8	485001
+1.5.1.34	0.0114	NADH	recombinant wild-type glutathione-S-transferase fusion enzyme	Homo sapiens	8	485004
+1.5.1.34	0.0172	NADH	recombinant wild-type enzyme	Homo sapiens	8	485004
+1.5.1.34	0.029	NADH		Homo sapiens	8	484993
+1.5.1.34	0.2	NADH	recombinant G23D mutant enzyme	Homo sapiens	8	485004
+1.5.1.34	0.276	NADH	recombinant G151S mutant enzyme	Homo sapiens	8	485004
+1.5.1.34	0.77	NADH	37&deg;C, pH 7.2	Homo sapiens	8	484961
+1.6.2.2	0.00016	NADH	enzyme from erythrocyte	Homo sapiens	8	394225
+1.6.2.2	0.0006	NADH	recombinant wild-type enzyme	Homo sapiens	8	394238
+1.6.2.2	0.0006	NADH	enzyme from erythrocyte membrane	Homo sapiens	8	392811
+1.6.2.2	0.0006	NADH	enzyme from erythrocyte and liver	Homo sapiens	8	394213
+1.6.2.2	0.0008	NADH		Homo sapiens	8	394199
+1.6.2.2	0.0023	NADH	recombinant K110R mutant enzyme	Homo sapiens	8	394238
+1.6.2.2	0.006	NADH	wild-type	Homo sapiens	8	672788
+1.6.2.2	0.006	NADH	mutant P275L, cosubstrate ferricyanide, 25&deg;C, pH 7.0	Homo sapiens	8	671595
+1.6.2.2	0.009	NADH	mutant G75S	Homo sapiens	8	672788
+1.6.2.2	0.017	NADH	mutant G75S/V252M	Homo sapiens	8	672788
+1.6.2.2	0.0478	NADH		Homo sapiens	8	394216
+1.6.2.2	0.052	NADH	mutant V252M	Homo sapiens	8	672788
+1.6.2.2	0.121	NADH	recombinant K110A mutant enzyme	Homo sapiens	8	394238
+1.6.2.2	0.672	NADH	recombinant K110M mutant enzyme	Homo sapiens	8	394238
+1.6.2.2	2.623	NADH	wild-type, cosubstrate ferricyanide, 25&deg;C, pH 7.0	Homo sapiens	8	671595
+1.6.3.1	0.1	NADH	pH 7.4, 30&deg;C, 1.5 mM Ca2+, patients with Grave's disease	Homo sapiens	8	636493
+1.6.5.2	0.1	NADH		Homo sapiens	8	394375
+1.6.5.2	0.29	NADH		Homo sapiens	8	394372
+1.6.5.2	3.22	NADH	wild-type, pH 7.0,25&deg;C	Homo sapiens	8	744882
+1.6.5.2	3.31	NADH	mutant R139W, pH 7.0,25&deg;C	Homo sapiens	8	744882
+1.8.1.4	0.04	NADH	wild-type	Homo sapiens	8	674943
+1.8.1.4	0.04	NADH	wild type enzyme	Homo sapiens	8	674943
+1.8.1.4	0.071	NADH	mutant enzyme E192Q	Homo sapiens	8	394004
+1.8.1.4	0.13	NADH	mutant enzyme S53K/K54S	Homo sapiens	8	394004
+1.8.1.4	0.13	NADH	mutant enzyme N286D	Homo sapiens	8	674943
+1.8.1.4	0.13	NADH	mutant N286D	Homo sapiens	8	674943
+1.8.1.4	0.14	NADH	mutant enzyme N286Q	Homo sapiens	8	674943
+1.8.1.4	0.14	NADH	mutant N286Q	Homo sapiens	8	674943
+1.8.1.4	0.24	NADH	mutant enzyme D320N	Homo sapiens	8	674943
+1.8.1.4	0.24	NADH	mutant D320N	Homo sapiens	8	674943
+1.8.1.7	0.25	NADH	pH 6.05	Homo sapiens	8	394727
+1.8.1.7	0.67	NADH	pH 6.8	Homo sapiens	8	394727
+1.10.5.1	0.252	NADH		Homo sapiens	8	394377
+1.14.13.225	0.58	NADH	pH 7.0, 25&deg;C	Homo sapiens	8	737550
+3.6.1.9	0.1	NADH		Homo sapiens	8	246812

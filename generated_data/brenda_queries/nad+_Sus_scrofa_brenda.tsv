@@ -1,0 +1,28 @@
+1.1.1.31	0.054	NAD+		Sus scrofa	7	286549
+1.1.1.37	0.14	NAD+		Sus scrofa	7	286638
+1.1.1.42	0.0179	NAD+	wild-type, 25&deg;C, pH 7.4	Sus scrofa	7	667326
+1.1.1.42	0.0207	NAD+	mutant K260R, 25&deg;C, pH 7.4	Sus scrofa	7	667326
+1.1.1.42	0.0232	NAD+	mutant D375N, 25&deg;C, pH 7.4	Sus scrofa	7	667326
+1.1.1.42	0.0312	NAD+	mutant K260Q, 25&deg;C, pH 7.4	Sus scrofa	7	667326
+1.1.1.45	0.04	NAD+	cosubstrate L-gulonate, pH 8.5	Sus scrofa	7	286905
+1.1.1.47	0.0003	NAD+	pH 9.9, 30&deg;C	Sus scrofa	7	639129
+1.1.1.47	0.0028	NAD+	pH 9.0	Sus scrofa	7	639107
+1.1.1.47	0.0051	NAD+	pH 7.5, 37&deg;C, reaction with beta-D-glucose	Sus scrofa	7	639114
+1.1.1.59	0.34	NAD+		Sus scrofa	7	287142
+1.1.1.64	0.1012	NAD+		Sus scrofa	7	287229
+1.1.1.66	0.066	NAD+		Sus scrofa	7	207967
+1.1.1.103	1	NAD+		Sus scrofa	7	285713
+1.1.1.116	0.017	NAD+		Sus scrofa	7	285767
+1.1.1.116	0.024	NAD+		Sus scrofa	7	285769
+1.1.1.122	0.02	NAD+		Sus scrofa	7	285806
+1.1.1.141	0.0384	NAD+		Sus scrofa	7	285924
+1.1.1.205	0.016	NAD+		Sus scrofa	7	347947
+1.2.1.8	0.04	NAD+		Sus scrofa	7	390352
+1.2.1.8	0.0445	NAD+		Sus scrofa	7	390355
+1.2.1.12	0.006	NAD+		Sus scrofa	7	287934
+1.2.1.12	0.012	NAD+		Sus scrofa	7	287966
+1.2.1.24	0.31	NAD+		Sus scrofa	7	288160
+2.7.7.84	0.0011	NAD+	OAS1 mutant S62A, with ATP and NAD+ as substrates, pH and temperature not specified in the publication	Sus scrofa	7	720462
+2.7.7.84	0.0013	NAD+	wild-type OAS1, with ATP and NAD+ as substrates, pH and temperature not specified in the publication	Sus scrofa	7	720462
+2.7.7.84	0.0014	NAD+	OAS1 mutant S63A, with ATP and NAD+ as substrates, pH and temperature not specified in the publication	Sus scrofa	7	720462
+3.2.2.5	0.065	NAD+		Sus scrofa	7	137060

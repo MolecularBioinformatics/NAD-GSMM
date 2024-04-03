@@ -1,0 +1,53 @@
+1.1.1.2	0.001	NADPH		Bos taurus	5	286164
+1.1.1.2	0.002	NADPH	AR1	Bos taurus	5	286178
+1.1.1.2	0.003	NADPH	G2	Bos taurus	5	286178
+1.1.1.2	0.007	NADPH	AR4	Bos taurus	5	286178
+1.1.1.2	0.008	NADPH	AR3	Bos taurus	5	286178
+1.1.1.21	0.01	NADPH		Bos taurus	5	286248
+1.1.1.21	8.2	NADPH		Bos taurus	5	286250
+1.1.1.81	0.018	NADPH		Bos taurus	5	287376
+1.1.1.162	0.0068	NADPH		Bos taurus	5	286086
+1.1.1.162	0.0068	NADPH		Bos taurus	5	286087
+1.1.1.188	0.0034	NADPH		Bos taurus	5	389452
+1.1.1.210	0.0025	NADPH	20alpha-reductase	Bos taurus	5	286265
+1.1.1.210	0.0094	NADPH	3beta-reductase	Bos taurus	5	286265
+1.3.1.2	0.00012	NADPH		Bos taurus	5	349234
+1.3.1.2	0.0085	NADPH	in presence of 5-fluorouracil	Bos taurus	5	349227
+1.3.1.2	0.0089	NADPH	in presence of uracil	Bos taurus	5	349227
+1.3.1.48	0.005	NADPH		Bos taurus	5	390823
+1.3.1.48	0.008	NADPH		Bos taurus	5	390820
+1.3.1.86	0.00364	NADPH	in 200 mM potassium phosphate buffer, pH 6.8, at 26&deg;C	Bos taurus	5	390852
+1.4.1.3	0.02	NADPH		Bos taurus	5	391614
+1.4.1.3	0.022	NADPH		Bos taurus	5	391612
+1.5.1.2	0.0071	NADPH		Bos taurus	5	392117
+1.5.1.3	0.00043	NADPH	25&deg;C, pH 7.6	Bos taurus	5	672035
+1.5.1.34	0.0014	NADPH	reduction of quinonoid 7,8-dihydro-6-methylpterin, NADPH-specific enzyme	Bos taurus	5	484960
+1.5.1.34	0.0014	NADPH	NADPH specific liver enzyme, substrate 6-methyl-tetrahydropterin	Bos taurus	5	485000
+1.5.1.34	0.0017	NADPH	reduction of quinonoid 7,8-dihydropterin, NADPH-specific enzyme	Bos taurus	5	484960
+1.5.1.34	0.0017	NADPH	NADPH specific liver enzyme, substrate tetrahydrobiopterin	Bos taurus	5	485000
+1.5.1.34	0.074	NADPH	reduction of quinonoid 7,8-dihydrobiopterin	Bos taurus	5	484959
+1.5.1.34	0.095	NADPH	reduction of quinonoid 7,8-dihydrobiopterin	Bos taurus	5	484959
+1.5.1.34	0.095	NADPH	NADH specific liver enzyme, substrate 6-methyl-tetrahydropterin	Bos taurus	5	485000
+1.6.1.2	0.02	NADPH		Bos taurus	5	392595
+1.6.1.2	0.02	NADPH	cosubstrate NAD+	Bos taurus	5	392626
+1.6.1.2	0.02	NADPH	nonenergy-linked reaction	Bos taurus	5	392643
+1.6.1.2	0.02	NADPH	energy-linked reaction	Bos taurus	5	392643
+1.6.1.2	0.029	NADPH	+ acetylpyridine adenine dinucleotide	Bos taurus	5	392626
+1.6.2.2	2.34	NADPH		Bos taurus	5	394252
+1.7.1.7	0.031	NADPH		Bos taurus	5	394280
+1.8.1.7	0.0015	NADPH		Bos taurus	5	394768
+1.8.1.7	0.004	NADPH	erythrocyte enzyme, pH 7.0, 30&deg;C	Bos taurus	5	659860
+1.8.1.7	0.005	NADPH	liver enzyme, pH 7.0, 30&deg;C	Bos taurus	5	659860
+1.8.1.7	0.008	NADPH	brain enzyme, pH 7.0, 30&deg;C	Bos taurus	5	659860
+1.8.1.7	0.018	NADPH		Bos taurus	5	701093
+1.8.1.7	0.021	NADPH		Bos taurus	5	394711
+1.8.1.7	0.021	NADPH		Bos taurus	5	394742
+1.8.1.7	0.021	NADPH	calf liver enzyme, pH 7.0, 30&deg;C	Bos taurus	5	659860
+1.8.1.7	0.063	NADPH	pH 7.4, 37&deg;C	Bos taurus	5	688951
+1.14.13.39	0.0004	NADPH		Bos taurus	5	440203
+1.14.13.39	0.0004	NADPH		Bos taurus	5	440214
+1.14.14.18	0.023	NADPH		Bos taurus	5	438253
+1.17.3.2	0.0005	NADPH	cofactor 2,6-dichlorophenolindophenol	Bos taurus	5	644648
+1.18.1.6	0.0012	NADPH	intact enzyme	Bos taurus	5	285549
+1.18.1.6	0.00182	NADPH	in sodium phosphate buffer, pH 7.5, temperature not specified in the publication	Bos taurus	5	719773
+1.18.1.6	0.0027	NADPH	proteolyzed 22.8 kDa enzyme	Bos taurus	5	285549

@@ -1,0 +1,49 @@
+1.1.1.14	0.052	NADH		Bos taurus	8	285895
+1.1.1.21	0.22	NADH		Bos taurus	8	286248
+1.1.1.30	0.08	NADH		Bos taurus	8	286535
+1.1.1.30	0.091	NADH		Bos taurus	8	286525
+1.1.1.30	0.164	NADH	cyanylated enzyme	Bos taurus	8	286525
+1.1.1.81	0.0061	NADH		Bos taurus	8	287383
+1.1.1.81	0.112	NADH		Bos taurus	8	287376
+1.1.1.96	0.052	NADH		Bos taurus	8	287554
+1.1.1.162	0.22	NADH		Bos taurus	8	286086
+1.1.1.162	0.22	NADH		Bos taurus	8	286087
+1.3.1.48	0.088	NADH		Bos taurus	8	390823
+1.3.1.48	0.088	NADH		Bos taurus	8	390827
+1.3.1.48	0.091	NADH		Bos taurus	8	390820
+1.4.1.3	0.02	NADH		Bos taurus	8	391614
+1.5.1.2	0.2	NADH		Bos taurus	8	392117
+1.5.1.25	0.015	NADH	reaction with DELTA1-piperidine 2-carboxylate	Bos taurus	8	440359
+1.5.1.25	0.26	NADH	reaction with DELTA1-piperidine 2-carboxylate	Bos taurus	8	440359
+1.5.1.34	0.00079	NADH	reduction of quinonoid 7,8-dihydro-6-methylpterin	Bos taurus	8	484959
+1.5.1.34	0.0015	NADH	reduction of quinonoid 7,8-dihydrobiopterin	Bos taurus	8	484959
+1.5.1.34	0.0015	NADH	NADH-specific liver enzyme, substrate tetrahydrobiopterin	Bos taurus	8	485000
+1.5.1.34	0.074	NADH	NADH specific liver enzyme, substrate tetrahydrobiopterin	Bos taurus	8	485000
+1.5.1.34	2.9	NADH	reduction of quinonoid 7,8-dihydro-6-methylpterin, NADPH-specific enzyme	Bos taurus	8	484960
+1.5.1.34	2.9	NADH	NADPH specific liver enzyme, substrate 6-methyltetrahydropterin	Bos taurus	8	485000
+1.6.1.2	0.009	NADH		Bos taurus	8	392595
+1.6.1.2	0.009	NADH	nonenergy-linked reaction	Bos taurus	8	392643
+1.6.1.2	0.01	NADH	cosubstrate NADP+	Bos taurus	8	392626
+1.6.1.2	0.0126	NADH	energy-linked reaction	Bos taurus	8	392643
+1.6.2.2	0.00091	NADH		Bos taurus	8	394209
+1.6.2.2	0.0011	NADH		Bos taurus	8	394214
+1.6.2.2	2.17	NADH		Bos taurus	8	394252
+1.14.19.1	0.003	NADH		Bos taurus	8	437660
+1.16.3.1	0.14	NADH	pH 6.0, 30&deg;C, presence of triflupromazine	Bos taurus	8	672518
+1.16.3.1	0.21	NADH	pH 6.0, 30&deg;C, presence of levomepromazine	Bos taurus	8	672518
+1.16.3.1	0.22	NADH	pH 6.0, 30&deg;C, presence of chlorpromazine	Bos taurus	8	672518
+1.16.3.1	0.23	NADH	pH 6.0, 30&deg;C, presence of promazine	Bos taurus	8	672518
+1.17.3.2	0.86	NADH	in presence of 1.0 mM nitrate	Bos taurus	8	657954
+1.17.3.2	0.878	NADH		Bos taurus	8	644644
+1.18.1.6	5.56	NADH	in sodium phosphate buffer, pH 7.5, temperature not specified in the publication	Bos taurus	8	719773
+7.1.1.2	0.00005	NADH	apparent value, for superoxide production, at 32&deg;C and pH 7.5	Bos taurus	8	676868
+7.1.1.2	0.0014	NADH	coupled oxidase reaction, pH 8.0, 25&deg;C	Bos taurus	8	658174
+7.1.1.2	0.00172	NADH	with 0.01 mM coenzyme Q1	Bos taurus	8	659106
+7.1.1.2	0.00195	NADH	with 0.025 mM coenzyme Q1	Bos taurus	8	659106
+7.1.1.2	0.002	NADH	with 0.05 mM coenzyme Q1	Bos taurus	8	659106
+7.1.1.2	0.0022	NADH	uncoupled oxidase reaction, pH 8.0, 25&deg;C	Bos taurus	8	658174
+7.1.1.2	0.0027	NADH	pH 8.0, 26&deg;C	Bos taurus	8	658135
+7.1.1.2	0.007	NADH	reaction with ferricyanide	Bos taurus	8	391082
+7.1.1.2	0.014	NADH		Bos taurus	8	392717
+7.1.1.2	0.014	NADH	reaction with cytochrome c	Bos taurus	8	391082
+7.1.1.2	0.094	NADH	pH 7.6, 32&deg;C, cosubstrate: ubiquinone-1, ubiquinone-0 or idebenone	Bos taurus	8	696312

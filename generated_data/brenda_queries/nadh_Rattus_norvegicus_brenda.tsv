@@ -1,0 +1,109 @@
+1.1.1.1	0.0017	NADH	isoenzyme ADH-2, pH 7.5	Rattus norvegicus	8	285604
+1.1.1.1	0.051	NADH	isoenzyme 4	Rattus norvegicus	8	285606
+1.1.1.1	0.071	NADH	isoenzyme 2	Rattus norvegicus	8	285606
+1.1.1.1	0.076	NADH	isoenzyme 1	Rattus norvegicus	8	285606
+1.1.1.1	0.091	NADH	isoenzyme 3	Rattus norvegicus	8	285606
+1.1.1.8	0.01	NADH	less than 0.01 mM	Rattus norvegicus	8	287336
+1.1.1.10	0.36	NADH	pH 7.0, 25&deg;C	Rattus norvegicus	8	656049
+1.1.1.14	0.067	NADH		Rattus norvegicus	8	285872
+1.1.1.30	0.014	NADH	liver, soluble enzyme	Rattus norvegicus	8	286536
+1.1.1.30	0.029	NADH	heart, soluble enzyme	Rattus norvegicus	8	286536
+1.1.1.35	0.0054	NADH		Rattus norvegicus	8	286601
+1.1.1.36	0.018	NADH	cosubstrate acetoacetyl-Co-A	Rattus norvegicus	8	286617
+1.1.1.37	0.05	NADH	normal rats	Rattus norvegicus	8	668125
+1.1.1.37	0.075	NADH	ischemic rats	Rattus norvegicus	8	668125
+1.1.1.211	0.05	NADH		Rattus norvegicus	8	288681
+1.1.1.213	0.0057	NADH		Rattus norvegicus	8	347990
+1.1.1.213	0.015	NADH		Rattus norvegicus	8	347984
+1.1.1.213	0.027	NADH	recombinant wild type enzyme	Rattus norvegicus	8	347989
+1.1.1.213	0.03	NADH	Y205F	Rattus norvegicus	8	347989
+1.1.1.213	0.033	NADH		Rattus norvegicus	8	347979
+1.2.3.1	0.024	NADH	in the presence of 1 mM nitrite, at pH 6.0 and 37&deg;C	Rattus norvegicus	8	712399
+1.3.1.24	0.27	NADH		Rattus norvegicus	8	437789
+1.3.1.24	0.333	NADH	in the presence of 0.005 mM biliverdin, biliverdin reductase wild-type	Rattus norvegicus	8	437824
+1.3.1.24	0.394	NADH	in the presence of 0.005 mM biliverdin, biliverdin reductase C280A	Rattus norvegicus	8	437824
+1.3.1.24	0.567	NADH	in the presence of 0.005 mM biliverdin, biliverdin reductase C291A	Rattus norvegicus	8	437824
+1.4.1.2	0.03609	NADH	control group	Rattus norvegicus	8	673480
+1.4.1.2	0.03785	NADH	animals treated with protopine	Rattus norvegicus	8	673480
+1.4.1.2	0.03833	NADH	animals treated with alkalized extract from the tuber of Corydalis ternata	Rattus norvegicus	8	673480
+1.5.1.1	0.043	NADH	+ DELTA1-pyrroline-2-carboxylate	Rattus norvegicus	8	392038
+1.5.1.1	0.074	NADH	+ DELTA1-piperidine-2-carboxylate	Rattus norvegicus	8	392038
+1.5.1.2	0.37	NADH		Rattus norvegicus	8	392112
+1.5.1.2	0.58	NADH		Rattus norvegicus	8	392047
+1.5.1.34	0.00085	NADH		Rattus norvegicus	8	484989
+1.5.1.34	0.00085	NADH	NADH-specific liver enzyme	Rattus norvegicus	8	484989
+1.5.1.34	0.002	NADH	Y146F/A133S mutant enzyme	Rattus norvegicus	8	485007
+1.5.1.34	0.0022	NADH		Rattus norvegicus	8	484995
+1.5.1.34	0.003	NADH	Y146F mutant enzyme	Rattus norvegicus	8	485007
+1.5.1.34	0.0037	NADH	enzyme form III	Rattus norvegicus	8	484998
+1.5.1.34	0.00441	NADH	enzyme form II	Rattus norvegicus	8	484998
+1.5.1.34	0.0055	NADH	enzyme form I	Rattus norvegicus	8	484998
+1.5.1.34	0.008	NADH	Y146H mutant enzyme	Rattus norvegicus	8	485007
+1.5.1.34	0.01	NADH	Y146F mutant enzyme	Rattus norvegicus	8	485005
+1.5.1.34	0.012	NADH	W86I mutant enzyme	Rattus norvegicus	8	485005
+1.5.1.34	0.013	NADH		Rattus norvegicus	8	485008
+1.5.1.34	0.013	NADH	recombinant wild-type enzyme	Rattus norvegicus	8	485005
+1.5.1.34	0.013	NADH	recombinant wild-type enzyme	Rattus norvegicus	8	485007
+1.5.1.34	0.013	NADH	native liver enzyme	Rattus norvegicus	8	484965
+1.5.1.34	0.013	NADH	K150E mutant enzyme	Rattus norvegicus	8	485007
+1.5.1.34	0.017	NADH	A6V mutant enzyme	Rattus norvegicus	8	484965
+1.5.1.34	0.017	NADH	Y146H mutant enzyme	Rattus norvegicus	8	485005
+1.5.1.34	0.021	NADH	recombinant liver enzyme	Rattus norvegicus	8	484965
+1.5.1.34	0.021	NADH	K150I mutant enzyme	Rattus norvegicus	8	485005
+1.5.1.34	0.022	NADH	A133S mutant enzyme	Rattus norvegicus	8	485007
+1.5.1.34	0.025	NADH	A133S mutant enzyme	Rattus norvegicus	8	485005
+1.5.1.34	0.027	NADH	W104F mutant enzyme	Rattus norvegicus	8	484965
+1.5.1.34	0.027	NADH	Y146F/K150Q double mutant enzyme	Rattus norvegicus	8	485005
+1.5.1.34	0.029	NADH		Rattus norvegicus	8	484972
+1.5.1.34	0.029	NADH	K150Q mutant enzyme	Rattus norvegicus	8	485005
+1.5.1.34	0.032	NADH		Rattus norvegicus	8	484973
+1.5.1.34	0.032	NADH		Rattus norvegicus	8	484974
+1.5.1.34	0.036	NADH	D37I mutant enzyme	Rattus norvegicus	8	484965
+1.5.1.34	0.036	NADH	D37I mutant enzyme	Rattus norvegicus	8	485005
+1.6.2.2	0.003	NADH	F251Y mutant enzyme, pH 7.0, 25&deg;C	Rattus norvegicus	8	657949
+1.6.2.2	0.003	NADH	pH 7.0, wild type enzyme with cytochrome b5 as substrate	Rattus norvegicus	8	657966
+1.6.2.2	0.0038	NADH	mutant Y93S, pH 7.0, 25&deg;C	Rattus norvegicus	8	672018
+1.6.2.2	0.0048	NADH	mutant P92A, pH 7.0, 25&deg;C	Rattus norvegicus	8	672018
+1.6.2.2	0.0049	NADH	mutant Y93D, pH 7.0, 25&deg;C	Rattus norvegicus	8	672018
+1.6.2.2	0.005	NADH	D239S/F251Y mutant enzyme, pH 7.0, 25&deg;C	Rattus norvegicus	8	657949
+1.6.2.2	0.006	NADH	recombinant enzyme	Rattus norvegicus	8	394247
+1.6.2.2	0.006	NADH	wild-type, pH 7.0	Rattus norvegicus	8	671983
+1.6.2.2	0.006	NADH	wild-type, pH 7.0, 25&deg;C	Rattus norvegicus	8	672018
+1.6.2.2	0.006	NADH	D239E mutant enzyme, pH 7.0, 25&deg;C	Rattus norvegicus	8	657949
+1.6.2.2	0.006	NADH	pH 7.0, wild type enzyme with ferricyanide as substrate	Rattus norvegicus	8	657966
+1.6.2.2	0.006	NADH	wild type enzyme, pH 7.0, 25&deg;C	Rattus norvegicus	8	657949
+1.6.2.2	0.0065	NADH	mutant P92G, pH 7.0, 25&deg;C	Rattus norvegicus	8	672018
+1.6.2.2	0.0067	NADH	mutant Y93F, pH 7.0, 25&deg;C	Rattus norvegicus	8	672018
+1.6.2.2	0.0073	NADH	mutant Y93A, pH 7.0, 25&deg;C	Rattus norvegicus	8	672018
+1.6.2.2	0.0077	NADH	mutant P92S, pH 7.0, 25&deg;C	Rattus norvegicus	8	672018
+1.6.2.2	0.0088	NADH	mutant Y93H, pH 7.0, 25&deg;C	Rattus norvegicus	8	672018
+1.6.2.2	0.012	NADH	F251R mutant enzyme, pH 7.0, 25&deg;C	Rattus norvegicus	8	657949
+1.6.2.2	0.0144	NADH		Rattus norvegicus	8	394241
+1.6.2.2	0.017	NADH	D239S mutant enzyme, pH 7.0, 25&deg;C	Rattus norvegicus	8	657949
+1.6.2.2	0.025	NADH	pH 7.0, S127P mutant enzyme with cytochrome b5 as substrate	Rattus norvegicus	8	657966
+1.6.2.2	0.025	NADH	mutant G179A, pH 7.0	Rattus norvegicus	8	671983
+1.6.2.2	0.054	NADH	mutant Y93W, pH 7.0, 25&deg;C	Rattus norvegicus	8	672018
+1.6.2.2	0.055	NADH	pH 7.0, S127P mutant enzyme with ferricyanide as substrate	Rattus norvegicus	8	657966
+1.6.2.2	0.119	NADH	D239T mutant enzyme, pH 7.0, 25&deg;C	Rattus norvegicus	8	657949
+1.6.2.2	0.224	NADH	D239S/F251R mutant enzyme, pH 7.0, 25&deg;C	Rattus norvegicus	8	657949
+1.6.2.2	0.512	NADH	D239T/F251R mutant enzyme, pH 7.0, 25&deg;C	Rattus norvegicus	8	657949
+1.6.2.2	0.595	NADH	mutant G179P, pH 7.0	Rattus norvegicus	8	671983
+1.6.2.2	0.662	NADH	mutant G179T, pH 7.0	Rattus norvegicus	8	671983
+1.6.2.2	1.077	NADH	mutant G179V, pH 7.0	Rattus norvegicus	8	671983
+1.6.5.2	0.0062	NADH		Rattus norvegicus	8	394357
+1.6.5.2	0.0175	NADH		Rattus norvegicus	8	394363
+1.6.5.2	0.0305	NADH	in the presence of 0.026 mM dicoumarol	Rattus norvegicus	8	394363
+1.6.5.2	0.045	NADH		Rattus norvegicus	8	394366
+1.6.5.2	0.074	NADH		Rattus norvegicus	8	394371
+1.6.5.2	0.11	NADH		Rattus norvegicus	8	394375
+1.6.5.2	0.19	NADH		Rattus norvegicus	8	394372
+1.6.5.4	0.05	NADH	reaction with semidehydro-D(-)-ascorbic acid and semidehydro-L(+)-ascorbic acid	Rattus norvegicus	8	392743
+1.7.1.6	0.4	NADH		Rattus norvegicus	8	394296
+1.14.19.17	0.12	NADH	with N-octanoyl-D-erythro-C18-sphinganine as cosubstrate, at pH 7.4 and 37&deg;C	Rattus norvegicus	8	734123
+1.16.1.2	0.0061	NADH		Rattus norvegicus	8	440098
+1.16.1.3	0.01	NADH	microsomal	Rattus norvegicus	8	438042
+1.16.1.3	0.0144	NADH	microsomal	Rattus norvegicus	8	394241
+1.16.1.3	0.0144	NADH	microsomal	Rattus norvegicus	8	438042
+1.16.1.3	0.0144	NADH	in presence of 0.1 mM aquacobalamin	Rattus norvegicus	8	394241
+1.16.1.3	0.016	NADH		Rattus norvegicus	8	438055
+2.3.1.85	0.121	NADH	wild-type, enoylreductase activity	Rattus norvegicus	8	661080

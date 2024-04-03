@@ -1,0 +1,221 @@
+1.1.1.2	0.013	NADPH	aldehyde reductase II	Homo sapiens	5	286181
+1.1.1.2	0.019	NADPH	aldehyde reductase II	Homo sapiens	5	286186
+1.1.1.2	0.02	NADPH	AR II	Homo sapiens	5	286187
+1.1.1.2	0.022	NADPH	aldehyde reductase I	Homo sapiens	5	286181
+1.1.1.2	0.05	NADPH	AR I	Homo sapiens	5	286187
+1.1.1.10	0.002	NADPH	pH 7.0, 25&deg;C, wild-type enzyme	Homo sapiens	5	657322
+1.1.1.10	0.002	NADPH	pH 7.0, 25&deg;C	Homo sapiens	5	656049
+1.1.1.10	95	NADPH	pH 7.0, 25&deg;C, mutant N107D	Homo sapiens	5	657322
+1.1.1.10	97	NADPH	pH 7.0, 25&deg;C, mutant N107L	Homo sapiens	5	657322
+1.1.1.21	0.0032	NADPH		Homo sapiens	5	286221
+1.1.1.21	0.004	NADPH	recombinant from baculovirus system in Spodoptera frugiperda cells	Homo sapiens	5	286262
+1.1.1.21	0.01	NADPH		Homo sapiens	5	286186
+1.1.1.21	0.049	NADPH		Homo sapiens	5	286253
+1.1.1.21	0.232	NADPH	pH 6.0, 30&deg;C, ALR2	Homo sapiens	5	712014
+1.1.1.34	0.021	NADPH		Homo sapiens	5	667627
+1.1.1.40	0.0018	NADPH	pH 7.4, 30&deg;C, recombinant mutant S57K/N59E/E73K/S102D/H74K/D78P/D80E/D87G/D90E/K106S/Q121S/L125H	Homo sapiens	5	737754
+1.1.1.40	0.0019	NADPH	pH 7.4, 30&deg;C, recombinant mutant 57K/N59E/E73K/S102D/H74K/D78P/D80E/D87G	Homo sapiens	5	737754
+1.1.1.40	0.0019	NADPH	pH 7.4, 30&deg;C, recombinant wild-type enzyme	Homo sapiens	5	737754
+1.1.1.40	0.002	NADPH		Homo sapiens	5	286741
+1.1.1.40	0.0023	NADPH	pH 7.4, 30&deg;C, recombinant mutant S57K/N59E/E73K/S102D/H74K/D78P/D80E/D87G/K106S/Q121S/L125H	Homo sapiens	5	737754
+1.1.1.40	0.0027	NADPH	pH 7.4, 30&deg;C, recombinant mutant [51-105]_c-NADP-ME	Homo sapiens	5	737754
+1.1.1.40	0.0031	NADPH	pH 7.4, 30&deg;C, recombinant mutant S57K/N59E/E73K/S102D	Homo sapiens	5	737754
+1.1.1.40	0.0045	NADPH	pH 7.4, 30&deg;C, recombinant mutant N59E/E73K/S102D	Homo sapiens	5	737754
+1.1.1.40	0.0045	NADPH	pH 7.4, 30&deg;C, recombinant mutant S57K	Homo sapiens	5	737754
+1.1.1.40	0.0046	NADPH	pH 7.4, 30&deg;C, recombinant mutant N59E/E73K	Homo sapiens	5	737754
+1.1.1.40	0.0049	NADPH	pH 7.4, 30&deg;C, recombinant mutant S102D	Homo sapiens	5	737754
+1.1.1.40	0.0053	NADPH		Homo sapiens	5	286738
+1.1.1.40	0.0069	NADPH	pH 7.4, 30&deg;C, recombinant mutant S57K/N59E/E73K	Homo sapiens	5	737754
+1.1.1.40	0.0089	NADPH	pH 7.4, 30&deg;C, recombinant mutant N59E	Homo sapiens	5	737754
+1.1.1.40	0.0125	NADPH	pH 7.4, 30&deg;C, recombinant mutant E73K	Homo sapiens	5	737754
+1.1.1.49	0.014	NADPH	recombinant from E. coli	Homo sapiens	5	287004
+1.1.1.49	0.015	NADPH		Homo sapiens	5	287004
+1.1.1.50	0.00007	NADPH	pH 7.0, 25&deg;C	Homo sapiens	5	654626
+1.1.1.62	0.003	NADPH		Homo sapiens	5	656654
+1.1.1.71	0.32	NADPH	pH 7.4, 37&deg;C	Homo sapiens	5	655563
+1.1.1.79	0.011	NADPH	37&deg;C	Homo sapiens	5	667814
+1.1.1.79	0.011	NADPH	pH 7.5, 37&deg;C, recombinant enzyme	Homo sapiens	5	667814
+1.1.1.101	0.0051	NADPH	skin fibroblasts, normal cells	Homo sapiens	5	285689
+1.1.1.101	0.0054	NADPH	skin Zellwenger syndrome fibroblasts	Homo sapiens	5	285689
+1.1.1.102	0.028	NADPH	pH 7.5, 37&deg;C	Homo sapiens	5	656256
+1.1.1.105	0.0015	NADPH	wild type enzyme, in 100 mM sodium phosphate, pH 7.4	Homo sapiens	5	690842
+1.1.1.145	0.0003	NADPH	pH 7.4, 25&deg;C	Homo sapiens	5	684725
+1.1.1.149	0.0002	NADPH	wild type, pH 7.5, 37&deg;C	Homo sapiens	5	656526
+1.1.1.149	0.0021	NADPH	mutant H222S, pH 7.5, 37&deg;C	Homo sapiens	5	656526
+1.1.1.149	0.019	NADPH	mutant H222S, pH 7.5, 37&deg;C	Homo sapiens	5	656526
+1.1.1.153	0.006	NADPH		Homo sapiens	5	286016
+1.1.1.153	0.006	NADPH		Homo sapiens	5	286025
+1.1.1.184	0.004	NADPH	+ 4-nitrobenzaldehyde, Km depending on enzyme form	Homo sapiens	5	347749
+1.1.1.184	0.0045	NADPH	pH 8.4, 25&deg;C	Homo sapiens	5	740481
+1.1.1.184	0.038	NADPH	pH 6.5, 25&deg;C	Homo sapiens	5	688959
+1.1.1.184	0.085	NADPH	pH 7.4, 37&deg;C, recombinant isozyme CBR M244	Homo sapiens	5	668391
+1.1.1.184	0.0905	NADPH	pH 7.4, 37&deg;C, recombinant isozyme CBR V244	Homo sapiens	5	668391
+1.1.1.184	0.247	NADPH	wild-type, 37&deg;C, pH 7.4	Homo sapiens	5	686356
+1.1.1.184	0.343	NADPH	mutant V88I, 37&deg;C, pH 7.4	Homo sapiens	5	686356
+1.1.1.188	0.0057	NADPH		Homo sapiens	5	704349
+1.1.1.189	0.0016	NADPH		Homo sapiens	5	389472
+1.1.1.189	0.0016	NADPH		Homo sapiens	5	389473
+1.1.1.284	0.045	NADPH	pH 5.7	Homo sapiens	5	287870
+1.1.1.284	0.045	NADPH	pH 5.7	Homo sapiens	5	287888
+1.1.1.300	0.00047	NADPH	purified recombinant enzyme	Homo sapiens	5	654687
+1.1.1.300	0.00048	NADPH	membrane-bound wild-type	Homo sapiens	5	654687
+1.1.1.300	0.0007	NADPH	wild-type	Homo sapiens	5	685381
+1.1.1.300	0.00074	NADPH	pH 7.4, 37&deg;C	Homo sapiens	5	667674
+1.1.1.300	0.0012	NADPH	pH 7.4, 37&deg;C	Homo sapiens	5	667674
+1.1.1.300	0.0015	NADPH		Homo sapiens	5	686690
+1.1.1.300	0.033	NADPH	mutant T49M	Homo sapiens	5	685381
+1.1.1.300	0.105	NADPH	mutant I51N	Homo sapiens	5	685381
+1.1.1.300	0.23	NADPH	pH 7.4, 37&deg;C, determined with all-trans-retinal	Homo sapiens	5	656064
+1.1.1.315	0.015	NADPH	pH 7.4, 37&deg;C, wild-type enzyme	Homo sapiens	5	690842
+1.1.1.357	0.00007	NADPH	in 100 mM potassium phosphate, pH 7.0, at 25&deg;C	Homo sapiens	5	654626
+1.2.1.36	0.0015	NADPH		Homo sapiens	5	686690
+1.3.1.2	0.0096	NADPH	in presence of uracil	Homo sapiens	5	349227
+1.3.1.2	0.01	NADPH		Homo sapiens	5	349213
+1.3.1.2	0.01	NADPH	in presence of 5-fluorouracil	Homo sapiens	5	349227
+1.3.1.2	0.0158	NADPH	in presence of thymine	Homo sapiens	5	349227
+1.3.1.22	0.015	NADPH	enzyme mutant G34R	Homo sapiens	5	396216
+1.3.1.22	0.02	NADPH		Homo sapiens	5	396216
+1.3.1.22	0.025	NADPH	enzyme mutant H231R	Homo sapiens	5	396216
+1.3.1.22	0.18	NADPH	enzyme mutant G196S	Homo sapiens	5	396216
+1.3.1.22	0.316	NADPH	enzyme mutant G183S	Homo sapiens	5	396216
+1.3.1.22	0.325	NADPH	enzyme mutant N193S	Homo sapiens	5	396216
+1.3.1.22	0.34	NADPH	enzyme mutant R171S	Homo sapiens	5	396216
+1.3.1.22	0.401	NADPH	enzyme mutant R246Q	Homo sapiens	5	396216
+1.3.1.22	0.526	NADPH	enzyme mutant P181L	Homo sapiens	5	396216
+1.3.1.22	0.584	NADPH	enzyme mutant R145W	Homo sapiens	5	396216
+1.3.1.22	0.65	NADPH	enzyme mutant R246W	Homo sapiens	5	396216
+1.3.1.24	0.001	NADPH	in the absence of urea, at pH 7.2 and 25&deg;C	Homo sapiens	5	740098
+1.3.1.24	0.0011	NADPH	mutant enzyme W116F, at pH 7.2 and 30&deg;C	Homo sapiens	5	740322
+1.3.1.24	0.0016	NADPH	mutant enzyme R39A, at pH 7.2 and 30&deg;C	Homo sapiens	5	740322
+1.3.1.24	0.0017	NADPH	mutant enzyme W116A, at pH 7.2 and 30&deg;C	Homo sapiens	5	740322
+1.3.1.24	0.0024	NADPH	wild type enzyme, at pH 7.2 and 30&deg;C	Homo sapiens	5	740322
+1.3.1.24	0.003	NADPH	in the presence of 3 M urea, at pH 7.2 and 25&deg;C	Homo sapiens	5	740098
+1.3.1.24	0.003	NADPH	mutant enzyme R174A, at pH 7.2 and 30&deg;C	Homo sapiens	5	740322
+1.3.1.24	0.0045	NADPH	mutant enzyme R124A, at pH 7.2 and 30&deg;C	Homo sapiens	5	740322
+1.3.1.24	0.0047	NADPH	mutant enzyme R78A, at pH 7.2 and 30&deg;C	Homo sapiens	5	740322
+1.3.1.24	0.0049	NADPH	mutant enzyme H132A, at pH 7.2 and 30&deg;C	Homo sapiens	5	740322
+1.3.1.24	0.0058	NADPH	mutant enzyme S111L, at pH 7.2 and 25&deg;C	Homo sapiens	5	740322
+1.3.1.24	0.0067	NADPH	mutant enzyme S111A, at pH 7.2 and 25&deg;C	Homo sapiens	5	740322
+1.3.1.24	0.0083	NADPH	wild type enzyme, at pH 7.2 and 25&deg;C	Homo sapiens	5	740322
+1.3.1.24	0.029	NADPH	mutant enzyme R35S, at pH 7.2 and 30&deg;C	Homo sapiens	5	740322
+1.3.1.24	0.059	NADPH	mutant enzyme R35A, at pH 7.2 and 30&deg;C	Homo sapiens	5	740322
+1.3.1.27	0.005	NADPH	wild-type, pH 7.5, temperature not specified in the publication	Homo sapiens	5	724703
+1.3.1.27	0.015	NADPH	mutant Y59F, pH 7.5, temperature not specified in the publication	Homo sapiens	5	724703
+1.3.1.27	0.06	NADPH	mutant Y53F, pH 7.5, temperature not specified in the publication	Homo sapiens	5	724703
+1.3.1.34	0.0605	NADPH	recombinant His-tagged truncated enzyme, pH 6.0, 22&deg;C	Homo sapiens	5	657265
+1.3.1.38	0.106	NADPH	37&deg;C, pH 7.2	Homo sapiens	5	673644
+1.3.1.124	0.008	NADPH	recombinant His-tagged truncated wild-type enzyme, pH 6.0, 22&deg;C	Homo sapiens	5	654376
+1.3.1.124	0.014	NADPH	recombinant His-tagged mutant E227A, pH 6.0, 22&deg;C	Homo sapiens	5	654376
+1.3.1.124	0.131	NADPH	recombinant His-tagged mutant E276A, pH 6.0, 22&deg;C	Homo sapiens	5	654376
+1.3.1.124	0.195	NADPH	recombinant His-tagged mutant D300A, pH 6.0, 22&deg;C	Homo sapiens	5	654376
+1.3.1.124	0.215	NADPH	recombinant His-tagged mutant E154A, pH 6.0, 22&deg;C	Homo sapiens	5	654376
+1.5.1.2	0.159	NADPH	mutant T238A, pH 7.5, 37&deg;C	Homo sapiens	5	740763
+1.5.1.2	0.283	NADPH	wild-type, pH 7.5, 37&deg;C	Homo sapiens	5	740763
+1.5.1.3	0.001	NADPH	for native and recombinant enzymes, monophasic	Homo sapiens	5	392288
+1.5.1.3	0.0038	NADPH	recombinant mutant Q35S, pH 7.4, 37&deg;C	Homo sapiens	5	741613
+1.5.1.3	0.004	NADPH	pH 7.4, 37&deg;C	Homo sapiens	5	702667
+1.5.1.3	0.004	NADPH	pH 7.4, 37&deg;C, wild-type enzyme	Homo sapiens	5	702275
+1.5.1.3	0.0044	NADPH	pH 7.4, 37&deg;C, mutant Q35S	Homo sapiens	5	702275
+1.5.1.3	0.0045	NADPH	recombinant wild-type enzyme, pH 7.4, 37&deg;C	Homo sapiens	5	741613
+1.5.1.3	0.0046	NADPH	pH 7.4, 37&deg;C, mutant Q35S/N64S	Homo sapiens	5	702275
+1.5.1.3	0.0052	NADPH	pH 7.4, 37&deg;C, mutant N64F	Homo sapiens	5	702275
+1.5.1.3	0.0053	NADPH	recombinant mutant Q35S/N64S, pH 7.4, 37&deg;C	Homo sapiens	5	741613
+1.5.1.3	0.0055	NADPH	pH 7.4, 37&deg;C, mutant Q35K/N64F	Homo sapiens	5	702275
+1.5.1.3	0.0056	NADPH	recombinant mutant Q35S/N64F, pH 7.4, 37&deg;C	Homo sapiens	5	741613
+1.5.1.3	0.0057	NADPH	recombinant mutant Q35K/N64F, pH 7.4, 37&deg;C	Homo sapiens	5	741613
+1.5.1.3	0.0063	NADPH	pH 7.4, 37&deg;C, mutant N64S	Homo sapiens	5	702275
+1.5.1.3	0.0063	NADPH	recombinant mutant N64S, pH 7.4, 37&deg;C	Homo sapiens	5	741613
+1.5.1.3	0.0066	NADPH	recombinant mutant Q35K/N64S, pH 7.4, 37&deg;C	Homo sapiens	5	741613
+1.5.1.3	0.0074	NADPH	pH 7.5, 25&deg;C	Homo sapiens	5	710914
+1.5.1.3	0.0075	NADPH	recombinant mutant N64F, pH 7.4, 37&deg;C	Homo sapiens	5	741613
+1.5.1.3	0.0091	NADPH	pH 7.3, 37&deg;C	Homo sapiens	5	655633
+1.5.1.3	0.0125	NADPH	recombinant mutant Q35K, pH 7.4, 37&deg;C	Homo sapiens	5	741613
+1.5.1.3	0.013	NADPH	pH 7.4, 37&deg;C, mutant Q35K	Homo sapiens	5	702275
+1.5.1.3	0.165	NADPH		Homo sapiens	5	392271
+1.5.1.3	0.25	NADPH		Homo sapiens	5	392273
+1.5.1.8	0.08	NADPH		Homo sapiens	5	392361
+1.5.1.20	0.017	NADPH	NADPH-menadione oxidoreductase reaction	Homo sapiens	5	392157
+1.5.1.20	0.03	NADPH		Homo sapiens	5	392167
+1.5.1.30	0.002	NADPH	pH and temperature not specified in the publication	Homo sapiens	5	714074
+1.5.1.34	0.029	NADPH	37&deg;C, pH 7.2	Homo sapiens	5	484961
+1.5.1.34	0.11	NADPH		Homo sapiens	5	484995
+1.5.1.34	0.135	NADPH	recombinant enzyme	Homo sapiens	5	485001
+1.5.1.34	0.77	NADPH		Homo sapiens	5	484993
+1.6.2.4	0.00014	NADPH	mutant enzyme D634N, at pH 7.5 and 25&deg;C	Homo sapiens	5	741783
+1.6.2.4	0.00019	NADPH	mutant enzyme D634A, at pH 7.5 and 25&deg;C	Homo sapiens	5	741783
+1.6.2.4	0.00031	NADPH	mutant enzyme H322A, at pH 7.5 and 25&deg;C	Homo sapiens	5	741764
+1.6.2.4	0.00058	NADPH	mutant enzyme H322Q, at pH 7.5 and 25&deg;C	Homo sapiens	5	741764
+1.6.2.4	0.0007	NADPH	wild type enzyme, at pH 7.5 and 25&deg;C	Homo sapiens	5	741783
+1.6.2.4	0.00071	NADPH	wild type enzyme, at pH 7.5 and 25&deg;C	Homo sapiens	5	741764
+1.6.2.4	0.00071	NADPH	at pH 7.5 and 25&deg;C	Homo sapiens	5	741778
+1.6.2.4	0.00106	NADPH	mutant enzyme A635G, at pH 7.5 and 25&deg;C	Homo sapiens	5	741783
+1.6.2.4	0.00106	NADPH	mutant enzyme R636S, at pH 7.5 and 25&deg;C	Homo sapiens	5	741783
+1.6.2.4	0.0016	NADPH	mutant enzyme R636A, at pH 7.5 and 25&deg;C	Homo sapiens	5	741783
+1.6.2.4	0.0018	NADPH	mutant enzyme A635G/R636S, at pH 7.5 and 25&deg;C	Homo sapiens	5	741783
+1.6.2.4	0.025	NADPH	mutant enzyme Y607C	Homo sapiens	5	689794
+1.6.2.4	0.066	NADPH	mutant enzyme P284T	Homo sapiens	5	689794
+1.6.2.4	0.084	NADPH	mutant enzyme R600W	Homo sapiens	5	689794
+1.6.2.4	0.125	NADPH	mutant enzyme P452L	Homo sapiens	5	689794
+1.6.2.4	0.144	NADPH	wild-type enzyme	Homo sapiens	5	689794
+1.6.2.4	0.144	NADPH	mutant enzyme A485T	Homo sapiens	5	689794
+1.6.2.4	0.146	NADPH	mutant enzyme P55L	Homo sapiens	5	689794
+1.6.2.4	0.151	NADPH	mutant enzyme delE53	Homo sapiens	5	689794
+1.6.2.4	0.153	NADPH	mutant enzyme D211L	Homo sapiens	5	689794
+1.6.2.4	0.155	NADPH	mutant enzyme A503V	Homo sapiens	5	689794
+1.6.2.4	0.157	NADPH	mutant enzyme P284L	Homo sapiens	5	689794
+1.6.2.4	0.169	NADPH	mutant enzyme V472M	Homo sapiens	5	689794
+1.6.2.4	0.177	NADPH	mutant enzyme R406H	Homo sapiens	5	689794
+1.6.2.4	0.196	NADPH	mutant enzyme G213E	Homo sapiens	5	689794
+1.6.2.4	0.222	NADPH	mutant enzyme E300K	Homo sapiens	5	689794
+1.6.2.4	0.276	NADPH	mutant enzyme A462T	Homo sapiens	5	689794
+1.6.3.1	0.015	NADPH	subunit p40phox-depleted cytosol in the absencee of recombinant wild-type p40phox, pH 7.3, 37&deg;C	Homo sapiens	5	687742
+1.6.3.1	0.024	NADPH	subunit p40phox-depleted cytosol in the presence of recombinant wild-type p40phox, pH 7.3, 37&deg;C	Homo sapiens	5	687742
+1.6.3.1	0.04	NADPH		Homo sapiens	5	394274
+1.6.3.1	0.1	NADPH	pH 7.4, 30&deg;C, 1.5 mM Ca2+, patients with Grave's disease	Homo sapiens	5	636493
+1.6.5.2	0.24	NADPH		Homo sapiens	5	394372
+1.6.5.5	0.005	NADPH	pH 7.5	Homo sapiens	5	697208
+1.6.5.5	0.005	NADPH	pH 7, 25&deg;C, wild-type	Homo sapiens	5	724703
+1.6.5.5	0.015	NADPH	pH 7, 25&deg;C, mutant T59F	Homo sapiens	5	724703
+1.6.5.5	0.06	NADPH	pH 7, 25&deg;C, mutant T53F	Homo sapiens	5	724703
+1.7.1.7	0.0085	NADPH		Homo sapiens	5	394290
+1.7.1.7	0.0169	NADPH		Homo sapiens	5	394287
+1.7.1.7	0.0266	NADPH		Homo sapiens	5	394294
+1.7.1.7	0.0293	NADPH	pH 8.0, 35&deg;C	Homo sapiens	5	743568
+1.7.1.7	0.0348	NADPH	pH 8.0, 35&deg;C	Homo sapiens	5	743568
+1.8.1.7	0.008	NADPH		Homo sapiens	5	394708
+1.8.1.7	0.008	NADPH		Homo sapiens	5	394725
+1.8.1.7	0.009	NADPH		Homo sapiens	5	659860
+1.8.1.7	0.009	NADPH	pH 6.8	Homo sapiens	5	394727
+1.8.1.7	0.0095	NADPH	0.03 M phosphate buffer	Homo sapiens	5	393993
+1.8.1.7	0.013	NADPH	0.3 M phosphate buffer	Homo sapiens	5	393993
+1.8.1.9	0.088	NADPH	wild type enzyme	Homo sapiens	5	673655
+1.8.1.9	0.7	NADPH	mutant U498C	Homo sapiens	5	673655
+1.8.1.9	1.1	NADPH	TrxR-16 mutant K29R/H108Y/A119N/V478E	Homo sapiens	5	673655
+1.8.1.9	2.4	NADPH	TrxR-16, TrxR lacking the last 16 C-terminal amino acids	Homo sapiens	5	673655
+1.8.1.9	3.3	NADPH	TrxR-16 mutant K29R	Homo sapiens	5	673655
+1.8.1.9	4.5	NADPH	TrxR-16 mutant K29R/H108Y	Homo sapiens	5	673655
+1.14.12.17	0.002	NADPH		Homo sapiens	5	658796
+1.14.13.8	0.0068	NADPH	pH 9.0, 37&deg;C, mutant N413K	Homo sapiens	5	703409
+1.14.13.8	0.0115	NADPH	pH 9.0, 37&deg;C, wild-type FMO2.1	Homo sapiens	5	703409
+1.14.13.8	0.132	NADPH	pH 9.0, 37&deg;C, mutant S195L	Homo sapiens	5	703409
+1.14.13.9	0.0068	NADPH	pH 7, 37&deg;C, full length 6His-tagged enzyme	Homo sapiens	5	743747
+1.14.13.9	0.0087	NADPH	pH 7, 37&deg;C, full length 12His-tagged enzyme, FLAG tag removed during affinity purification	Homo sapiens	5	743747
+1.14.13.225	-999	NADPH	the Km for NADPH of the NADPH oxidase reaction is sensitive to ionic strength and type of ions. pH 7.0, 25&deg;C	Homo sapiens	5	737550
+1.14.13.225	0.019	NADPH	isolated monooxygenase-like domain, pH 7.0, 25&deg;C	Homo sapiens	5	737558
+1.14.13.225	0.028	NADPH	pH 7.0, 25&deg;C	Homo sapiens	5	737550
+1.14.13.225	0.093	NADPH	pH 7.0, 25&deg;C, presence of 10% glycerol	Homo sapiens	5	737550
+1.14.13.225	0.134	NADPH	truncated form comprising the MO and CH domains, pH 7.0, 25&deg;C	Homo sapiens	5	737558
+1.14.13.225	0.23	NADPH	truncated form comprising the MO, CH and LIM domains, pH 7.0, 25&deg;C	Homo sapiens	5	737558
+1.14.13.225	0.375	NADPH	wild-type, pH 7.0, 25&deg;C	Homo sapiens	5	737558
+1.14.13.225	0.499	NADPH	pH 7.0, 25&deg;C, presence of 0.1 M NaCl	Homo sapiens	5	737550
+1.14.14.94	0.0008	NADPH		Homo sapiens	5	390069
+1.14.14.94	0.001	NADPH		Homo sapiens	5	390064
+1.16.1.8	0.0024	NADPH	pH 7.5, 25&deg;C, recombinant wild-type enzyme	Homo sapiens	5	741764
+1.16.1.8	0.00264	NADPH		Homo sapiens	5	659159
+1.16.1.8	0.00289	NADPH	pH 7.5, 25&deg;C	Homo sapiens	5	685093
+1.16.1.8	0.0062	NADPH	pH 7.5, 25&deg;C, recombinant mutant A312Q	Homo sapiens	5	741764
+1.16.1.8	0.015	NADPH	pH 7.5, 25&deg;C, recombinant mutant A312H	Homo sapiens	5	741764
+2.3.1.85	0.005	NADPH	25&deg;C, pH 7.0, wild-type enzyme	Homo sapiens	5	669416
+2.3.1.85	0.025	NADPH		Homo sapiens	5	487585
+2.3.1.85	0.37	NADPH	25&deg;C, pH 7.0, mutant enzyme K1699A	Homo sapiens	5	669416
+2.3.1.85	0.4	NADPH	25&deg;C, pH 7.0, mutant enzyme K1699Q	Homo sapiens	5	669416

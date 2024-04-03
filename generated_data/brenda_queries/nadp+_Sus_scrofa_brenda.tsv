@@ -1,0 +1,62 @@
+1.1.1.19	0.02	NADP+	uncoupled reaction	Sus scrofa	10	286139
+1.1.1.19	0.02	NADP+	uncoupled reaction	Sus scrofa	10	286141
+1.1.1.40	0.00118	NADP+	cytosolic enzyme	Sus scrofa	10	286725
+1.1.1.40	0.00188	NADP+	mitochondrial enzyme	Sus scrofa	10	286725
+1.1.1.42	0.00042	NADP+	pH 7.4, mutant Y140E	Sus scrofa	10	656180
+1.1.1.42	0.00046	NADP+	pH 7.4, mutant Y140T	Sus scrofa	10	656180
+1.1.1.42	0.00051	NADP+	pH 7.4, mutant Y140K	Sus scrofa	10	656180
+1.1.1.42	0.0012	NADP+	recombinant mutant N97D, pH 7.4, 25&deg;C	Sus scrofa	10	657309
+1.1.1.42	0.0023	NADP+	pH 7.4, mutant Y140F	Sus scrofa	10	656180
+1.1.1.42	0.0043	NADP+	mutant T311N, pH 7.4, 25&deg;C	Sus scrofa	10	669373
+1.1.1.42	0.0049	NADP+	recombinant mutant N97A, pH 7.4, 25&deg;C	Sus scrofa	10	657309
+1.1.1.42	0.0051	NADP+	pH 7.4, 25&deg;C, recombinant mutant H319Q	Sus scrofa	10	654649
+1.1.1.42	0.0051	NADP+	recombinant mutant S95A, pH 7.4	Sus scrofa	10	657309
+1.1.1.42	0.0053	NADP+	recombinant mutant T78A, pH 7.4, 25&deg;C	Sus scrofa	10	657309
+1.1.1.42	0.0055	NADP+	mutant T373S, 25&deg;C, pH 7.4	Sus scrofa	10	667326
+1.1.1.42	0.0056	NADP+	pH 7.4, 25&deg;C, recombinant wild-type	Sus scrofa	10	654649
+1.1.1.42	0.0056	NADP+	wild-type, pH 7.4, 25&deg;C	Sus scrofa	10	669373
+1.1.1.42	0.0062	NADP+	mutant T373A, 25&deg;C, pH 7.4	Sus scrofa	10	667326
+1.1.1.42	0.0073	NADP+	pH 7.4, mutant K212Y	Sus scrofa	10	656180
+1.1.1.42	0.0077	NADP+	pH 7.4, recombinant mutant K323Q	Sus scrofa	10	654341
+1.1.1.42	0.008	NADP+	pH 7.4, recombinant mutant Y316F and K321Q	Sus scrofa	10	654341
+1.1.1.42	0.0088	NADP+	wild-type, 25&deg;C, pH 7.4	Sus scrofa	10	667326
+1.1.1.42	0.009	NADP+	pH 7.4, recombinant wild-type enzyme	Sus scrofa	10	654341
+1.1.1.42	0.0097	NADP+	mutant T311S, pH 7.4, 25&deg;C	Sus scrofa	10	669373
+1.1.1.42	0.0099	NADP+	pH 7.4, wild-type enzyme	Sus scrofa	10	656180
+1.1.1.42	0.0099	NADP+	recombinant wild-type enzyme, pH 7.4, 25&deg;C	Sus scrofa	10	657309
+1.1.1.42	0.0108	NADP+	recombinant mutant T78D, pH 7.4, 25&deg;C	Sus scrofa	10	657309
+1.1.1.42	0.012	NADP+	mutant T373V, 25&deg;C, pH 7.4	Sus scrofa	10	667326
+1.1.1.42	0.014	NADP+	pH 7.4, mutant K212Q	Sus scrofa	10	656180
+1.1.1.42	0.0154	NADP+	mutant K374Q 25&deg;C, pH 7.4	Sus scrofa	10	667326
+1.1.1.42	0.018	NADP+	pH 7.4, mutant K212R	Sus scrofa	10	656180
+1.1.1.42	0.0203	NADP+	mutant R83K, pH 7.4, 25&deg;C	Sus scrofa	10	669373
+1.1.1.42	0.0237	NADP+	recombinant mutant S95D, pH 7.4, 25&deg;C	Sus scrofa	10	657309
+1.1.1.42	0.0246	NADP+	mutant N328D, pH 7.4, 25&deg;C	Sus scrofa	10	669373
+1.1.1.42	0.032	NADP+	pH 7.4, recombinant mutant Y316L	Sus scrofa	10	654341
+1.1.1.42	0.0378	NADP+	mutant K260R, 25&deg;C, pH 7.4	Sus scrofa	10	667326
+1.1.1.42	0.0749	NADP+	mutant T311A, pH 7.4, 25&deg;C	Sus scrofa	10	669373
+1.1.1.42	0.0811	NADP+	mutant R83Q, pH 7.4, 25&deg;C	Sus scrofa	10	669373
+1.1.1.42	0.092	NADP+	pH 7.4, recombinant mutant R314Q	Sus scrofa	10	654341
+1.1.1.42	0.119	NADP+	mutant N328S, pH 7.4, 25&deg;C	Sus scrofa	10	669373
+1.1.1.42	0.133	NADP+	mutant D375N, 25&deg;C, pH 7.4	Sus scrofa	10	667326
+1.1.1.42	0.218	NADP+	pH 7.4, 25&deg;C, recombinant mutant H315Q	Sus scrofa	10	654649
+1.1.1.42	0.25	NADP+	mutant K260Q, 25&deg;C, pH 7.4	Sus scrofa	10	667326
+1.1.1.47	0.0036	NADP+	pH 7.5, 37&deg;C, reaction with D-glucose-6-phosphate	Sus scrofa	10	639114
+1.1.1.47	0.0046	NADP+	pH 10.0, 37&deg;C, reaction with beta-D-glucose	Sus scrofa	10	639114
+1.1.1.47	0.0072	NADP+	pH 10.0	Sus scrofa	10	639107
+1.1.1.47	0.013	NADP+	pH 7.5, 37&deg;C, reaction with beta-D-glucose	Sus scrofa	10	639114
+1.1.1.47	0.028	NADP+	pH 10.0, 37&deg;C, reaction with beta-D-glucose	Sus scrofa	10	639114
+1.1.1.47	0.062	NADP+	pH 10.0, 37&deg;C, reaction with D-glucose-6-phosphate	Sus scrofa	10	639114
+1.1.1.49	0.006	NADP+	isoenzymes I and II, with glucose 6-phosphate	Sus scrofa	10	287017
+1.1.1.64	0.0046	NADP+		Sus scrofa	10	287229
+1.1.1.179	0.0011	NADP+	+ 20 mM MgCl2	Sus scrofa	10	286128
+1.1.1.179	0.09	NADP+		Sus scrofa	10	286126
+1.1.1.196	0.0004	NADP+		Sus scrofa	10	347826
+1.1.1.196	0.0005	NADP+		Sus scrofa	10	347824
+1.1.1.196	0.0005	NADP+		Sus scrofa	10	347825
+1.5.1.5	0.018	NADP+		Sus scrofa	10	1505
+1.5.1.5	0.018	NADP+		Sus scrofa	10	209727
+1.5.1.5	0.018	NADP+		Sus scrofa	10	392317
+1.5.1.6	0.0004	NADP+	spectrophotometric assay	Sus scrofa	10	392337
+1.5.1.6	0.0006	NADP+	fluorimetric assay	Sus scrofa	10	392337
+1.5.1.6	0.0035	NADP+		Sus scrofa	10	392335

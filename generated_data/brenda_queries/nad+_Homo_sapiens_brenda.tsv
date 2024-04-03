@@ -1,0 +1,356 @@
+1.1.1.1	0.0074	NAD+	isoenzyme beta1,beta1	Homo sapiens	7	285572
+1.1.1.1	0.0074	NAD+	isoenzyme beta2,beta2	Homo sapiens	7	285571
+1.1.1.1	0.0079	NAD+	isoenzyme gamma1,gamma1	Homo sapiens	7	285571
+1.1.1.1	0.0079	NAD+	isoenzyme gamma1,gamma1	Homo sapiens	7	285572
+1.1.1.1	0.0087	NAD+	isoenzyme gamma2,gamma2	Homo sapiens	7	285571
+1.1.1.1	0.0087	NAD+	isoenzyme gamma2,gamma2	Homo sapiens	7	285572
+1.1.1.1	0.013	NAD+	isoenzyme alpha,alpha	Homo sapiens	7	285571
+1.1.1.1	0.013	NAD+	isoenzyme alpha,alpha	Homo sapiens	7	285572
+1.1.1.1	0.022	NAD+		Homo sapiens	7	285567
+1.1.1.1	0.025	NAD+		Homo sapiens	7	285571
+1.1.1.1	0.063	NAD+	recombinant allozyme Ile308, pH 7.5, 25&deg;C	Homo sapiens	7	655197
+1.1.1.1	0.074	NAD+	recombinant allozyme Val308, pH 7.5, 25&deg;C	Homo sapiens	7	655197
+1.1.1.1	0.18	NAD+	isoenzyme beta1,beta1	Homo sapiens	7	285571
+1.1.1.1	0.34	NAD+		Homo sapiens	7	285651
+1.1.1.1	7.4	NAD+	isoenzyme beta1,beta1, 0.1 M sodium phosphate buffer, pH 7.5, at 25 &deg;C	Homo sapiens	7	285575
+1.1.1.1	180	NAD+	isoenzyme beta2,beta2, 0.1 M sodium phosphate buffer, pH 7.5, 25&deg;C	Homo sapiens	7	285575
+1.1.1.1	710	NAD+	isoenzyme beta3,beta3, 0.1 M sodium phospahte buffer, pH 7.5, 25&deg;C	Homo sapiens	7	285575
+1.1.1.8	0.036	NAD+	measured at pH 9.0	Homo sapiens	7	287350
+1.1.1.10	0.85	NAD+	pH 7.0, 25&deg;C	Homo sapiens	7	656049
+1.1.1.22	0.1	NAD+	mutant E161Q, pH 8.7, 25&deg;C	Homo sapiens	7	725478
+1.1.1.22	0.13	NAD+		Homo sapiens	7	697937
+1.1.1.22	0.133	NAD+	pH 8.7, 25&deg;C	Homo sapiens	7	656240
+1.1.1.22	0.133	NAD+	wild-type, pH 8.7, 22&deg;C	Homo sapiens	7	687474
+1.1.1.22	0.17	NAD+		Homo sapiens	7	286304
+1.1.1.22	0.355	NAD+	pH 7.4, 22&deg;C	Homo sapiens	7	656220
+1.1.1.22	0.384	NAD+	wild-type, pH 8.7, 25&deg;C	Homo sapiens	7	724364
+1.1.1.22	0.401	NAD+	mutant A222Q/S233G, pH 8.7, 22&deg;C	Homo sapiens	7	687474
+1.1.1.22	0.42	NAD+	wild-type, pH 7.4, 22&deg;C	Homo sapiens	7	685143
+1.1.1.22	0.53	NAD+	mutant K339A, pH 7.4, 22&deg;C	Homo sapiens	7	685143
+1.1.1.22	0.646	NAD+	pH 7.4, 37&deg;C, recombinant His-tagged wild-type enzyme	Homo sapiens	7	740715
+1.1.1.22	0.7	NAD+	wild-type, pH 8.7, 25&deg;C	Homo sapiens	7	725478
+1.1.1.22	0.897	NAD+	pH 7.4, 37&deg;C, recombinant His-tagged mutant T325A	Homo sapiens	7	740715
+1.1.1.22	0.942	NAD+	wild-type, pH 7.5, 25&deg;C, Hill coefficient 0.74	Homo sapiens	7	724370
+1.1.1.22	1.084	NAD+	pH 7.4, 37&deg;C, recombinant His-tagged mutant T325D	Homo sapiens	7	740715
+1.1.1.22	2.1	NAD+	mutant K339A, pH 7.4, 22&deg;C	Homo sapiens	7	685143
+1.1.1.22	2.92	NAD+	mutant K94E, pH 7.5, 25&deg;C	Homo sapiens	7	724370
+1.1.1.22	6.3	NAD+	mutant K94E, pH 8.7, 25&deg;C	Homo sapiens	7	724364
+1.1.1.27	0.5	NAD+	pH 8.0, temperature not specified in the publication, healthy breast tissue enzyme	Homo sapiens	7	740253
+1.1.1.27	0.99	NAD+	pH 8.0, temperature not specified in the publication, breast cancer tissue enzyme	Homo sapiens	7	740253
+1.1.1.30	0.0598	NAD+	25&deg;C, pH 9.0	Homo sapiens	7	669434
+1.1.1.30	0.53	NAD+	enzyme expressed in SF9 cells	Homo sapiens	7	286513
+1.1.1.30	0.8	NAD+	enzyme expressed in SF9 cells, C242S mutant	Homo sapiens	7	286513
+1.1.1.31	0.5	NAD+		Homo sapiens	7	670284
+1.1.1.35	0.00009	NAD+	isozyme SCHAD II, at pH 7.0	Homo sapiens	7	684902
+1.1.1.35	0.00119	NAD+	isozyme SCHAD I, at pH 7.0	Homo sapiens	7	684902
+1.1.1.35	0.05	NAD+	enzyme from brain, substrate 17beta-estradiol	Homo sapiens	7	286589
+1.1.1.35	0.21	NAD+	enzyme from brain, substrate dihydroandrosterone	Homo sapiens	7	286589
+1.1.1.35	0.242	NAD+	enzyme from brain, substrate androsterone	Homo sapiens	7	286589
+1.1.1.B40	0.0000044	NAD+	reduction of corticosterone, pH and temperature not specified in the publication	Homo sapiens	7	285951
+1.1.1.B40	0.0000102	NAD+	kidney homogenate, pH and temperature not specified in the publication	Homo sapiens	7	688766
+1.1.1.40	0.9	NAD+	mutants E314A/S346K/K347Y/K362H and E314A/S346I/K347D/K362H, pH 7.4, 30&deg;C	Homo sapiens	7	723540
+1.1.1.40	1.5	NAD+	mutant E314A/S346K/K347Y/K362Q, pH 7.4, 30&deg;C	Homo sapiens	7	723540
+1.1.1.40	1.6	NAD+	mutant E314A, pH 7.4, 30&deg;C	Homo sapiens	7	723540
+1.1.1.40	4.6	NAD+		Homo sapiens	7	286738
+1.1.1.40	5	NAD+	mutant E314A/S346K, pH 7.4, 30&deg;C	Homo sapiens	7	723540
+1.1.1.40	6.5	NAD+	mutant S346I/K347D/K362H, pH 7.4, 30&deg;C	Homo sapiens	7	723540
+1.1.1.40	7.1	NAD+	mutant S346K/K347Y/K362H, pH 7.4, 30&deg;C	Homo sapiens	7	723540
+1.1.1.40	10	NAD+	mutant S346K/K347Y/K362Q, pH 7.4, 30&deg;C	Homo sapiens	7	723540
+1.1.1.40	11	NAD+	mutant K347Y, pH 7.4, 30&deg;C	Homo sapiens	7	723540
+1.1.1.40	11.5	NAD+	wild type enzyme, in 50 mMTris-HCl (pH 7.4), at 30&deg;C	Homo sapiens	7	698969
+1.1.1.40	13	NAD+	mutant K362Q, pH 7.4, 30&deg;C	Homo sapiens	7	723540
+1.1.1.40	14	NAD+	mutant K362H, pH 7.4, 30&deg;C	Homo sapiens	7	723540
+1.1.1.40	14	NAD+	mutant S346K/K362Q, pH 7.4, 30&deg;C	Homo sapiens	7	723540
+1.1.1.40	17	NAD+	mutant S346K, pH 7.4, 30&deg;C	Homo sapiens	7	723540
+1.1.1.40	18	NAD+	mutant S346K/K347Y, pH 7.4, 30&deg;C	Homo sapiens	7	723540
+1.1.1.40	18.35	NAD+	wild-type enzyme, pH 7.4, 30&deg;C	Homo sapiens	7	723540
+1.1.1.40	18.6	NAD+	in 50 mM Tris-HCl (pH 7.4)	Homo sapiens	7	697879
+1.1.1.40	20	NAD+	mutant S347Y/K362Q, pH 7.4, 30&deg;C	Homo sapiens	7	723540
+1.1.1.41	0.004	NAD+	purified recombinant mutant gamma-R97Q, pH 7.2, 25&deg;C	Homo sapiens	7	656189
+1.1.1.41	0.014	NAD+	purified recombinant mutant beta-R99Q, pH 7.2, 25&deg;C	Homo sapiens	7	656189
+1.1.1.41	0.04	NAD+	25&deg;C, pH 7.2, alpha-subunit mutant enzyme D234C	Homo sapiens	7	669477
+1.1.1.41	0.06	NAD+	pH 7.2, 25&deg;C, recombinant wild-type enzyme	Homo sapiens	7	712440
+1.1.1.41	0.07	NAD+	25&deg;C, pH 7.2, wild-type enzyme	Homo sapiens	7	669477
+1.1.1.41	0.073	NAD+	purified recombinant wild-type enzyme, pH 7.2, 25&deg;C	Homo sapiens	7	656189
+1.1.1.41	0.08	NAD+	pH 7.2, wild-type enzyme	Homo sapiens	7	685154
+1.1.1.41	0.09	NAD+	pH 7.2, 25&deg;C, recombinant mutant betaY137E	Homo sapiens	7	712440
+1.1.1.41	0.12	NAD+	pH 7.2, 25&deg;C, recombinant mutant betaY137F	Homo sapiens	7	712440
+1.1.1.41	0.14	NAD+	25&deg;C, pH 7.2, alpha-subunit mutant enzyme D206N	Homo sapiens	7	669477
+1.1.1.41	0.19	NAD+	25&deg;C, pH 7.2, gamma-subunit mutant enzyme D215N	Homo sapiens	7	669477
+1.1.1.41	0.63	NAD+	pH 7.2, 25&deg;C, recombinant mutant betaY137S	Homo sapiens	7	712440
+1.1.1.41	0.68	NAD+	25&deg;C, pH 7.2, beta-subunit mutant enzyme D217N	Homo sapiens	7	669477
+1.1.1.41	0.71	NAD+	pH 7.2, beta-subunit mutant enzyme D192N	Homo sapiens	7	685154
+1.1.1.41	1.1	NAD+	25&deg;C, pH 7.2, alpha-subunit mutant enzyme D230C	Homo sapiens	7	669477
+1.1.1.41	1.2	NAD+	pH 7.2, alpha-subunit mutant enzyme D181N	Homo sapiens	7	685154
+1.1.1.41	1.5	NAD+	pH 7.2, gamma-subunit mutant enzyme D190N	Homo sapiens	7	685154
+1.1.1.51	0.11	NAD+	pH 7.4, reaction with estradiol	Homo sapiens	7	659176
+1.1.1.51	0.167	NAD+	pH 7.4, reaction with testosterone	Homo sapiens	7	659176
+1.1.1.71	1060	NAD+	pH 7.4, 37&deg;C	Homo sapiens	7	655563
+1.1.1.95	0.022	NAD+	with 3-phospho-D-glycerate as cosubstrate, at pH 7.6 and 37&deg;C	Homo sapiens	7	737315
+1.1.1.105	0.00024	NAD+	pH 7.3, 37&deg;C	Homo sapiens	7	654713
+1.1.1.105	0.036	NAD+	wild type enzyme, in 100 mM sodium phosphate, pH 7.4	Homo sapiens	7	690842
+1.1.1.141	0.022	NAD+	recombinant enzyme expressed in E. coli	Homo sapiens	7	285937
+1.1.1.141	0.022	NAD+	37&deg;C, pH 7.5, V186K mutant	Homo sapiens	7	654374
+1.1.1.141	0.0227	NAD+	at pH 9.0, + prostaglandin E2	Homo sapiens	7	285916
+1.1.1.141	0.024	NAD+	37&deg;C, pH 7.5, V186A mutant	Homo sapiens	7	654374
+1.1.1.141	0.0284	NAD+	at pH 7.0, + prostaglandin E2	Homo sapiens	7	285916
+1.1.1.141	0.029	NAD+	at pH 9.0, + prostaglandin E1	Homo sapiens	7	285916
+1.1.1.141	0.03	NAD+	37&deg;C, pH 7.5	Homo sapiens	7	657209
+1.1.1.141	0.0308	NAD+	at pH 7.0, + prostaglandin E1	Homo sapiens	7	285916
+1.1.1.141	0.032	NAD+	37&deg;C, pH 7.5	Homo sapiens	7	654361
+1.1.1.141	0.032	NAD+	37&deg;C, pH 7.5, N91D mutant	Homo sapiens	7	654374
+1.1.1.141	0.038	NAD+	37&deg;C, pH 7.5	Homo sapiens	7	654374
+1.1.1.141	0.0399	NAD+	+ prostaglandin F2alpha	Homo sapiens	7	285920
+1.1.1.141	0.0405	NAD+	+ prostaglandin E2	Homo sapiens	7	285920
+1.1.1.141	0.0451	NAD+	+ prostaglandin E1	Homo sapiens	7	285920
+1.1.1.141	0.046	NAD+		Homo sapiens	7	654158
+1.1.1.141	0.059	NAD+	37&deg;C, pH 7.5, I17L mutant	Homo sapiens	7	654374
+1.1.1.141	0.098	NAD+	37&deg;C, pH 7.5, I17V mutant	Homo sapiens	7	654374
+1.1.1.141	0.117	NAD+		Homo sapiens	7	285935
+1.1.1.141	0.27	NAD+	37&deg;C, pH 7.5, V186I mutant	Homo sapiens	7	654374
+1.1.1.141	0.55	NAD+	37&deg;C, pH 7.5, I17A mutant	Homo sapiens	7	654374
+1.1.1.141	0.7	NAD+	37&deg;C, pH 7.5, T11S mutant	Homo sapiens	7	657209
+1.1.1.141	0.72	NAD+	37&deg;C, pH 7.5, N91A mutant	Homo sapiens	7	654374
+1.1.1.145	0.0034	NAD+	wild type enzyme	Homo sapiens	7	389386
+1.1.1.145	0.0035	NAD+	modified enzyme	Homo sapiens	7	389386
+1.1.1.145	0.012	NAD+	wild-type, presence of 2-mercatoethanol pH 7.4	Homo sapiens	7	688685
+1.1.1.145	0.0153	NAD+	mutant C72S, pH 7.4	Homo sapiens	7	688685
+1.1.1.145	0.0166	NAD+	mutant C111S, presence of 2-mercatoethanol pH 7.4	Homo sapiens	7	688685
+1.1.1.145	0.019	NAD+	mutant C111S, pH 7.4	Homo sapiens	7	688685
+1.1.1.145	0.0194	NAD+	mutant C72S, presence of 2-mercatoethanol pH 7.4	Homo sapiens	7	688685
+1.1.1.145	0.02	NAD+		Homo sapiens	7	389372
+1.1.1.145	0.0205	NAD+	mutant R195P, pH 7.4, 27&deg;C	Homo sapiens	7	725813
+1.1.1.145	0.0227	NAD+	mutant C111A, presence of 2-mercatoethanol pH 7.4	Homo sapiens	7	688685
+1.1.1.145	0.025	NAD+	27&deg;C, pH 7.4, H156Y mutant	Homo sapiens	7	656788
+1.1.1.145	0.025	NAD+	27&deg;C, pH 7.4, H156Y mutant 3beta-HSD1	Homo sapiens	7	656091
+1.1.1.145	0.0255	NAD+	mutant C111A, pH 7.4	Homo sapiens	7	688685
+1.1.1.145	0.0256	NAD+	pH 7.4, 27&deg;C, recombinant isozyme 3beta-HSD1 mutant Q240R	Homo sapiens	7	662371
+1.1.1.145	0.0299	NAD+	mutant C83A, presence of 2-mercatoethanol pH 7.4	Homo sapiens	7	688685
+1.1.1.145	0.0333	NAD+	mutant E192A, pH 7.4, 27&deg;C	Homo sapiens	7	725813
+1.1.1.145	0.034	NAD+	27&deg;C, pH 7.4	Homo sapiens	7	656091
+1.1.1.145	0.034	NAD+	27&deg;C, pH 7.4	Homo sapiens	7	656577
+1.1.1.145	0.034	NAD+	27&deg;C, pH 7.4	Homo sapiens	7	656788
+1.1.1.145	0.0341	NAD+	wild-type, pH 7.4	Homo sapiens	7	688685
+1.1.1.145	0.0341	NAD+	pH 7.4, 27&deg;C, recombinant wild-type isozyme 3beta-HSD1	Homo sapiens	7	662371
+1.1.1.145	0.0341	NAD+	in 0.02 M potassium phosphate buffer, pH 7.4	Homo sapiens	7	700182
+1.1.1.145	0.0341	NAD+	wild-type 3beta-HSD1, pH 7.4, 27&deg;C	Homo sapiens	7	725813
+1.1.1.145	0.0351	NAD+	mutant E192A, pH 7.4, 27&deg;C	Homo sapiens	7	725813
+1.1.1.145	0.036	NAD+	27&deg;C, pH 7.4, S123A mutant 3betaHSD1	Homo sapiens	7	656577
+1.1.1.145	0.0372	NAD+	pH 7.4, 27&deg;C, recombinant isozyme 3beta-HSD2 mutant R240Q	Homo sapiens	7	662371
+1.1.1.145	0.0388	NAD+	pH 7.4, 27&deg;C, recombinant isozyme 3beta-HSD1 mutant Q105M	Homo sapiens	7	662371
+1.1.1.145	0.0468	NAD+	mutant C72F, pH 7.4	Homo sapiens	7	688685
+1.1.1.145	0.0476	NAD+	mutant C72F, presence of 2-mercatoethanol pH 7.4	Homo sapiens	7	688685
+1.1.1.145	0.0564	NAD+	mutant R195R, pH 7.4, 27&deg;C	Homo sapiens	7	725813
+1.1.1.145	0.0614	NAD+	pH 7.4, 27&deg;C, recombinant isozyme 3beta-HSD2 mutant Q105M	Homo sapiens	7	662371
+1.1.1.145	0.0643	NAD+	mutant D61N, pH 7.4, 27&deg;C	Homo sapiens	7	725813
+1.1.1.145	0.0732	NAD+	mutant C83A, pH 7.4	Homo sapiens	7	688685
+1.1.1.145	0.086	NAD+	27&deg;C, pH 7.4	Homo sapiens	7	656091
+1.1.1.145	0.086	NAD+	27&deg;C, pH 7.4	Homo sapiens	7	656788
+1.1.1.145	0.0863	NAD+	pH 7.4, 27&deg;C, recombinant wild-type isozyme 3beta-HSD2	Homo sapiens	7	662371
+1.1.1.145	0.0863	NAD+	wild-type 3beta-HSD2, pH 7.4, 27&deg;C	Homo sapiens	7	725813
+1.1.1.146	0.0000102	NAD+	isoform 11beta-HSD2, kidney homogenate	Homo sapiens	7	688766
+1.1.1.205	0.00157	NAD+		Homo sapiens	7	703271
+1.1.1.205	0.006	NAD+	pH 8.0, 25&deg;C	Homo sapiens	7	702243
+1.1.1.205	0.014	NAD+	isoform IMPDH1(514), pH 8.0, 25&deg;C	Homo sapiens	7	684706
+1.1.1.205	0.016	NAD+	mutant D226N of isoform IMPDH1(595), pH 8.0, 25&deg;C	Homo sapiens	7	684706
+1.1.1.205	0.0163	NAD+	wild-type, 37&deg;C, pH 8.0	Homo sapiens	7	689355
+1.1.1.205	0.022	NAD+	isoform IMPDH1(546), pH 8.0, 25&deg;C	Homo sapiens	7	684706
+1.1.1.205	0.0227	NAD+	mutant L263F, 37&deg;C, pH 8.0	Homo sapiens	7	689355
+1.1.1.205	0.024	NAD+	mutant D226N of isoform IMPDH1(546), pH 8.0, 25&deg;C	Homo sapiens	7	684706
+1.1.1.205	0.026	NAD+	isoform IMPDH1(595), pH 8.0, 25&deg;C	Homo sapiens	7	684706
+1.1.1.205	0.032	NAD+	type 2 isozyme, in the presence of 0.39 mM K+	Homo sapiens	7	701583
+1.1.1.205	0.042	NAD+	type 1 isozyme, in the presence of 0.65 mM K+	Homo sapiens	7	701583
+1.1.1.205	0.046	NAD+		Homo sapiens	7	347931
+1.1.1.205	0.046	NAD+	pH 8.0, 37&deg;C, recombinant mutant V268I	Homo sapiens	7	667508
+1.1.1.205	0.05	NAD+	pH 8.0, 37&deg;C, recombinant mutant D226N	Homo sapiens	7	667508
+1.1.1.205	0.056	NAD+	pH 8.0, 37&deg;C, recombinant mutant R224P	Homo sapiens	7	667508
+1.1.1.205	0.07	NAD+	pH 8.0, 37&deg;C, recombinant wild-type enzyme	Homo sapiens	7	667508
+1.1.1.239	0.1	NAD+	solubilized enzyme	Homo sapiens	7	287211
+1.1.1.284	0.0033	NAD+	wild type enzyme	Homo sapiens	7	667724
+1.1.1.284	0.007	NAD+		Homo sapiens	7	287866
+1.1.1.284	0.009	NAD+	pH 8.0	Homo sapiens	7	287888
+1.1.1.284	0.0093	NAD+	wild type enzyme, pH 10	Homo sapiens	7	667724
+1.1.1.284	0.0136	NAD+	pH 5.7	Homo sapiens	7	287888
+1.1.1.284	0.0144	NAD+	mutant R368L, pH 7.5	Homo sapiens	7	667724
+1.1.1.284	0.054	NAD+	mutant E67L, pH 10	Homo sapiens	7	667724
+1.1.1.284	0.116	NAD+	mutant E67L	Homo sapiens	7	667724
+1.1.1.284	0.16	NAD+	mutant R368L, pH 10	Homo sapiens	7	667724
+1.1.1.300	7.75	NAD+	pH 7.4, 37&deg;C	Homo sapiens	7	667674
+1.1.1.300	680	NAD+	pH 7.4, 37&deg;C, determined with all-trans-retinol	Homo sapiens	7	656064
+1.1.1.315	0.002	NAD+	pH 7.4, 37&deg;C	Homo sapiens	7	692705
+1.1.1.315	0.036	NAD+	pH 7.4, 37&deg;C, wild-type enzyme	Homo sapiens	7	690842
+1.1.1.315	0.1	NAD+		Homo sapiens	7	687735
+1.1.1.315	0.1	NAD+	microsomal preparations of RDH10	Homo sapiens	7	687735
+1.1.1.357	1	NAD+	mutant enzyme H216Y, in 0.1 M potassium phosphate, pH 7.4, at 25&deg;C	Homo sapiens	7	724209
+1.1.1.357	1.2	NAD+	mutant enzyme H216F, in 0.1 M potassium phosphate, pH 7.4, at 25&deg;C	Homo sapiens	7	724209
+1.1.1.357	1.2	NAD+	wild type enzyme, in 0.1 M potassium phosphate, pH 7.4, at 25&deg;C	Homo sapiens	7	724209
+1.1.5.13	0.2	NAD+	at pH 8.7 and 37&deg;C	Homo sapiens	7	752792
+1.2.1.3	0.0003	NAD+	50 mM sodium phosphate buffer, pH 7.4, 0.2 mM Mg2+,0.14 mM propanal, 25&deg;C	Homo sapiens	7	672038
+1.2.1.3	0.0012	NAD+	apparent Km value	Homo sapiens	7	695926
+1.2.1.3	0.0017	NAD+	pH 7.5, 25&deg;C, mutant enzyme S82A	Homo sapiens	7	654655
+1.2.1.3	0.0035	NAD+	pH 7.5, 25&deg;C, mutant enzyme D80G	Homo sapiens	7	654655
+1.2.1.3	0.0036	NAD+	50 mM sodium phosphate buffer, pH 7.4, 0.25 mM Mg2+,0.14 mM propanal, 25&deg;C	Homo sapiens	7	672209
+1.2.1.3	0.0036	NAD+	at 25&deg;C, pH not specified in the publication	Homo sapiens	7	711836
+1.2.1.3	0.004	NAD+		Homo sapiens	7	348690
+1.2.1.3	0.004	NAD+	brain enzyme	Homo sapiens	7	348692
+1.2.1.3	0.004	NAD+	pH 7.5, 25&deg;C, mutant enzyme R84Q	Homo sapiens	7	654655
+1.2.1.3	0.005	NAD+	isoenzyme ALDH1	Homo sapiens	7	348710
+1.2.1.3	0.0062	NAD+	50 mM sodium phosphate buffer, pH 7.4, 0.14 mM propanal, 25&deg;C	Homo sapiens	7	672038
+1.2.1.3	0.008	NAD+	isoenzyme 1, pH 9.5	Homo sapiens	7	348720
+1.2.1.3	0.008	NAD+	pH 7.5, 25&deg;C, mutant enzyme ALDH1-5AA	Homo sapiens	7	654655
+1.2.1.3	0.011	NAD+	pH 7.5, 25&deg;C, wild-type enzyme	Homo sapiens	7	654655
+1.2.1.3	0.011	NAD+	wild type isoform ALDH1A1, in 100 mM sodium diphosphate (pH 9.5), at 25&deg;C	Homo sapiens	7	726464
+1.2.1.3	0.014	NAD+	enzyme from liver	Homo sapiens	7	348692
+1.2.1.3	0.014	NAD+	reaction with 4-aminobutyraldehyde	Homo sapiens	7	348701
+1.2.1.3	0.0145	NAD+	50 mM sodium phosphate buffer, pH 7.4, 0.14 mM propanal, 25&deg;C	Homo sapiens	7	672209
+1.2.1.3	0.015	NAD+		Homo sapiens	7	348683
+1.2.1.3	0.016	NAD+	isoenzyme ALDH2	Homo sapiens	7	348710
+1.2.1.3	0.022	NAD+	pH 7.5, 25&deg;C, mutant enzyme ALDH1-H3tail	Homo sapiens	7	654655
+1.2.1.3	0.03	NAD+	in the presence of 0.01 mM Alda-1, at pH 7.4 and 25&deg;C	Homo sapiens	7	740442
+1.2.1.3	0.037	NAD+	native enzyme	Homo sapiens	7	348686
+1.2.1.3	0.04	NAD+	isoenzyme E1	Homo sapiens	7	348718
+1.2.1.3	0.04	NAD+	isoenzyme 1, pH 7.0	Homo sapiens	7	348720
+1.2.1.3	0.041	NAD+	50 mM sodium phosphate buffer, pH 7.4, 0.014 mM propanal, 25&deg;C	Homo sapiens	7	672038
+1.2.1.3	0.06	NAD+	mutant enzyme R264Q	Homo sapiens	7	348686
+1.2.1.3	0.07	NAD+	native enzyme, pH 7.4	Homo sapiens	7	348690
+1.2.1.3	0.07	NAD+	isoenzyme E2	Homo sapiens	7	348718
+1.2.1.3	0.07	NAD+	isoenzyme 2, pH 7.0 and pH 9.5	Homo sapiens	7	348720
+1.2.1.3	0.073	NAD+	in the absence of Alda-1, at pH 7.4 and 25&deg;C	Homo sapiens	7	740442
+1.2.1.3	0.09	NAD+	mutant enzyme E487Q	Homo sapiens	7	348690
+1.2.1.3	0.12	NAD+	50 mM sodium phosphate buffer, pH 7.4, 0.2 mM Mg2+,0.014 mM propanal, 25&deg;C	Homo sapiens	7	672038
+1.2.1.3	0.136	NAD+	mutant S82A/D80G of isoform ALDH1A1, in 100 mM sodium diphosphate (pH 9.5), at 25&deg;C	Homo sapiens	7	726464
+1.2.1.3	0.74	NAD+	mutant enzyme R274E	Homo sapiens	7	348686
+1.2.1.3	0.85	NAD+	mutant enzyme R475Q	Homo sapiens	7	348686
+1.2.1.3	1.3	NAD+	mutant enzyme R475Q/R264Q and R475E	Homo sapiens	7	348686
+1.2.1.3	7.4	NAD+	mutant enzyme E487K	Homo sapiens	7	348690
+1.2.1.3	16	NAD+	mutant enzyme R475E/R264E	Homo sapiens	7	348686
+1.2.1.5	0.032	NAD+	reaction with benzaldehyde	Homo sapiens	7	348782
+1.2.1.5	0.048	NAD+	wild type enzyme, in 25 mM Na-HEPES buffer (pH 7.4), temperature not specified in the publication	Homo sapiens	7	724720
+1.2.1.5	0.054	NAD+	reaction with benzaldehyde, enzyme from stomach mucosa	Homo sapiens	7	348784
+1.2.1.5	0.094	NAD+	mutant enzyme T244S, in 25 mM Na-HEPES buffer (pH 7.4), temperature not specified in the publication	Homo sapiens	7	724720
+1.2.1.5	0.19	NAD+	mutant enzyme T244G, in 25 mM Na-HEPES buffer (pH 7.4), temperature not specified in the publication	Homo sapiens	7	724720
+1.2.1.5	0.39	NAD+	mutant enzyme T244V, in 25 mM Na-HEPES buffer (pH 7.4), temperature not specified in the publication	Homo sapiens	7	724720
+1.2.1.5	0.55	NAD+	reaction with benzaldehyde, enzyme from adenocarcinoma cell line	Homo sapiens	7	348784
+1.2.1.5	2.1	NAD+	mutant enzyme T244A, in 25 mM Na-HEPES buffer (pH 7.4), temperature not specified in the publication	Homo sapiens	7	724720
+1.2.1.8	0.035	NAD+		Homo sapiens	7	390362
+1.2.1.12	0.01	NAD+	enzyme form E8.5, pH 9	Homo sapiens	7	287913
+1.2.1.12	0.0178	NAD+	pH 8.5, 25&deg;C	Homo sapiens	7	695298
+1.2.1.12	0.02	NAD+	enzyme form E9.0, pH 9	Homo sapiens	7	287913
+1.2.1.12	0.022	NAD+	in 50 mM glycine, 50 mM potassium phosphate, 5 mM EDTA, pH 9.0	Homo sapiens	7	685294
+1.2.1.12	0.027	NAD+	enzyme form E6.8, pH 9	Homo sapiens	7	287913
+1.2.1.12	0.035	NAD+	pH 7.3, enzyme isolated of sarcoma tissue	Homo sapiens	7	696174
+1.2.1.12	0.035	NAD+	N-terminally truncated mutant, pH 8.5, 25&deg;C	Homo sapiens	7	724223
+1.2.1.12	0.036	NAD+	pH 8.0, enzyme isolated of sarcoma tissue	Homo sapiens	7	696174
+1.2.1.12	0.04	NAD+	pH 8.8, enzyme isolated of sarcoma tissue	Homo sapiens	7	696174
+1.2.1.12	0.047	NAD+	pH 8.8, enzyme isolated of healthy patients	Homo sapiens	7	696174
+1.2.1.12	0.05	NAD+		Homo sapiens	7	287900
+1.2.1.12	0.062	NAD+	pH 8.0, enzyme isolated of healthy patients	Homo sapiens	7	696174
+1.2.1.12	0.071	NAD+	pH 7.3, enzyme isolated of healthy patients	Homo sapiens	7	696174
+1.2.1.12	0.1	NAD+	wild-type, pH 8.5, 25&deg;C	Homo sapiens	7	724223
+1.2.1.12	0.143	NAD+	enzyme form E6.6, pH 9	Homo sapiens	7	287913
+1.2.1.12	0.18	NAD+	free enzyme, at pH 8.6 and 25&deg;C	Homo sapiens	7	725592
+1.2.1.12	0.18	NAD+	free enzyme,25&deg;C, pH 8.6	Homo sapiens	7	725592
+1.2.1.12	0.75	NAD+	immobilized enzyme reactor, at pH 8.6 and 25&deg;C	Homo sapiens	7	725592
+1.2.1.12	0.75	NAD+	enzyme covalently immobilized onto an electrophoresis fused-silica capillary, 25&deg;C, pH 8.6	Homo sapiens	7	725592
+1.2.1.12	35	NAD+	recombinant, highly soluble form of sperm-specific glyceraldehyde-3-phosphate dehydrogenase truncated at the N-terminus, in 10 mM sodium diphosphate, 20 mM sodium phosphate (pH 8.5), 0.003 mM dithiothreitol and 10 mM sodium arsenate, at 25&deg;C	Homo sapiens	7	724223
+1.2.1.12	100	NAD+	glyceraldehyde-3-phosphate dehydrogenase, in 10 mM sodium diphosphate, 20 mM sodium phosphate (pH 8.5), 0.003 mM dithiothreitol and 10 mM sodium arsenate, at 25&deg;C	Homo sapiens	7	724223
+1.2.1.24	0.04	NAD+		Homo sapiens	7	288152
+1.2.1.24	0.04	NAD+	pH and temperature not specified in the publication	Homo sapiens	7	710898
+1.2.1.24	125	NAD+	50 microM succinate semialdehyde, 3 mM NAD+, 0.1 M sodium diphosphate pH 8.5, 25&deg;C	Homo sapiens	7	676950
+1.2.1.31	0.454	NAD+		Homo sapiens	7	288186
+1.2.1.36	0.085	NAD+	partially purified recombinant ALDH1A1 at pH 7.1 and in the presence of 0.1 mM 3-deoxyglucosone	Homo sapiens	7	691121
+1.2.1.46	0.0033	NAD+	reduction of NAD+, formaldehyde dehydrogenase	Homo sapiens	7	667724
+1.2.1.46	0.0144	NAD+	reduction of NAD+, R368L mutant	Homo sapiens	7	667724
+1.2.1.46	0.116	NAD+	reduction of NAD+, E67L mutant	Homo sapiens	7	667724
+1.2.1.48	0.18	NAD+		Homo sapiens	7	693389
+1.2.1.48	0.28	NAD+	reference substrate octadecanal	Homo sapiens	7	390324
+1.4.1.3	0.55	NAD+	pH 9.5, 25&deg;C, mutant enzyme hGDH2K94Y	Homo sapiens	7	654905
+1.4.1.3	0.58	NAD+	pH 9.5, 25&deg;C, mutant enzyme hGDH2G96Y	Homo sapiens	7	654905
+1.4.1.3	0.59	NAD+	pH 9.5, 25&deg;C, wild-type enzyme hGDH2	Homo sapiens	7	654905
+1.4.1.3	0.63	NAD+	pH 9.5, 25&deg;C, mutant enzyme hGDH2D172Y	Homo sapiens	7	654905
+1.4.1.3	0.65	NAD+	pH 9.5, 25&deg;C, mutant enzyme hGDH1G96Y	Homo sapiens	7	654905
+1.4.1.3	0.71	NAD+	pH 9.5, 25&deg;C, wild-type enzyme	Homo sapiens	7	656087
+1.4.1.3	0.71	NAD+	pH 9.5, 25&deg;C, wild-type enzyme hGDH1	Homo sapiens	7	654905
+1.4.1.3	0.75	NAD+	pH 9.5, 25&deg;C, mutant enzyme hGDH2K130Y	Homo sapiens	7	654905
+1.4.1.3	0.76	NAD+	pH 9.5, 25&deg;C, mutant enzyme hGDH1D172Y	Homo sapiens	7	654905
+1.4.1.3	0.79	NAD+	pH 9.5, 25&deg;C, mutant enzyme hGDH1K94Y	Homo sapiens	7	654905
+1.4.1.3	0.82	NAD+	pH 9.5, 25&deg;C, mutant enzyme hGDH2K118Y	Homo sapiens	7	654905
+1.4.1.3	0.92	NAD+	pH 9.5, 25&deg;C, mutant enzyme hGDH1K130Y	Homo sapiens	7	654905
+1.4.1.3	0.94	NAD+	pH 9.5, 25&deg;C, mutant enzyme hGDH1K118Y	Homo sapiens	7	654905
+1.4.1.3	6.94	NAD+	pH 9.5, 25&deg;C, mutant enzyme E279G	Homo sapiens	7	656087
+1.4.1.3	7.6	NAD+	pH 9.5, 25&deg;C, mutant enzyme E279R	Homo sapiens	7	656087
+1.4.1.3	8.35	NAD+	pH 9.5, 25&deg;C, mutant enzyme E279Y	Homo sapiens	7	656087
+1.4.1.3	9.98	NAD+	pH 9.5, 25&deg;C, mutant enzyme E279M	Homo sapiens	7	656087
+1.4.1.3	10.01	NAD+	pH 9.5, 25&deg;C, mutant enzyme E279L	Homo sapiens	7	656087
+1.5.1.2	0.151	NAD+	wild type enzyme, 1 mM fixed thioproline, thioproline dehydrogenase activity assay	Homo sapiens	7	675382
+1.5.1.2	0.235	NAD+	E221A mutant, 1 mM fixed thioproline, thioproline dehydrogenase activity assay	Homo sapiens	7	675382
+1.5.1.5	0.507	NAD+	NAD+-M2+-phopsphate-dependent mitochondrial dehydrogenase-cyclohydrolase enzyme	Homo sapiens	7	392333
+1.5.1.9	0.0645	NAD+		Homo sapiens	7	396540
+1.5.1.9	0.4	NAD+		Homo sapiens	7	396543
+1.5.1.15	0.132	NAD+		Homo sapiens	7	392091
+1.5.1.15	0.202	NAD+	wild-type, pH 7.3	Homo sapiens	7	674480
+1.5.1.15	0.918	NAD+	mutant R198K, pH 7.3	Homo sapiens	7	674480
+1.5.1.15	1.99	NAD+	mutant D133N, pH 7.3	Homo sapiens	7	674480
+1.5.1.15	2.17	NAD+	mutant D133S, pH 7.3	Homo sapiens	7	674480
+1.5.1.15	2.5	NAD+		Homo sapiens	7	392087
+1.5.1.15	3.88	NAD+	mutant D190N, pH 7.3	Homo sapiens	7	674480
+1.8.1.4	0.024	NAD+	enzyme mutant, pH 8.0, 37&deg;C	Homo sapiens	7	742221
+1.8.1.4	0.06	NAD+	mutant P325A, pH 8.0, 37&deg;C, presence of 1.5 mM EDTA	Homo sapiens	7	724686
+1.8.1.4	0.16	NAD+	mutant enzyme N286Q	Homo sapiens	7	674943
+1.8.1.4	0.16	NAD+	mutant N286Q	Homo sapiens	7	674943
+1.8.1.4	0.19	NAD+	wild-type enzyme, pH 8.0, 37&deg;C	Homo sapiens	7	742221
+1.8.1.4	0.19	NAD+	wild-type enzyme, pH 8.0, 37&deg;C	Homo sapiens	7	743050
+1.8.1.4	0.19	NAD+	wild-type enzyme, pH 8.0, 37&deg;C	Homo sapiens	7	743051
+1.8.1.4	0.19	NAD+	mutant W366A, pH 8.0, 37&deg;C, presence of 1.5 mM EDTA	Homo sapiens	7	724686
+1.8.1.4	0.19	NAD+	wild-type, pH 8.0, 37&deg;C, presence of 1.5 mM EDTA	Homo sapiens	7	724686
+1.8.1.4	0.2	NAD+	enzyme mutant C50T, pH 8.0, 37&deg;C	Homo sapiens	7	743051
+1.8.1.4	0.22	NAD+	wild-type	Homo sapiens	7	674943
+1.8.1.4	0.22	NAD+	wild type enzyme	Homo sapiens	7	674943
+1.8.1.4	0.22	NAD+	wild-type E3	Homo sapiens	7	693271
+1.8.1.4	0.24	NAD+	enzyme mutant P156A, pH 8.0, 37&deg;C	Homo sapiens	7	743050
+1.8.1.4	0.25	NAD+	mutant enzyme K37E	Homo sapiens	7	394003
+1.8.1.4	0.28	NAD+	mutant T148G	Homo sapiens	7	693271
+1.8.1.4	0.29	NAD+	mutant T148S	Homo sapiens	7	693271
+1.8.1.4	0.29	NAD+	enzyme mutant H329A, pH 8.0, 37&deg;C	Homo sapiens	7	743052
+1.8.1.4	0.3	NAD+	mutant enzyme N286D	Homo sapiens	7	674943
+1.8.1.4	0.3	NAD+	mutant N286D	Homo sapiens	7	674943
+1.8.1.4	0.31	NAD+	mutant enzyme E192Q	Homo sapiens	7	394004
+1.8.1.4	0.32	NAD+	native enzyme and mutant enzyme E457Q	Homo sapiens	7	394003
+1.8.1.4	0.34	NAD+	mutant enzyme D320N	Homo sapiens	7	674943
+1.8.1.4	0.34	NAD+	mutant D320N	Homo sapiens	7	674943
+1.8.1.4	0.38	NAD+	mutant enzyme H452Q	Homo sapiens	7	394003
+1.8.1.4	0.4	NAD+	wild-type enzyme	Homo sapiens	7	394004
+1.8.1.4	0.42	NAD+	enzyme mutant P303A, pH 8.0, 37&deg;C	Homo sapiens	7	743050
+1.8.1.4	0.43	NAD+	mutant R281K	Homo sapiens	7	693271
+1.8.1.4	0.47	NAD+	enzyme mutant C50A, pH 8.0, 37&deg;C	Homo sapiens	7	743051
+1.8.1.4	0.5	NAD+	mutant R281N	Homo sapiens	7	693271
+1.8.1.4	0.55	NAD+	mutant enzyme S53K/K54S	Homo sapiens	7	394004
+1.8.1.4	0.64	NAD+	wild-type enzyme, pH 8.0, 37&deg;C	Homo sapiens	7	743052
+1.17.1.4	0.00252	NAD+	pH 7.2, 25&deg;C	Homo sapiens	7	659580
+2.3.1.B43	0.069	NAD+	wild type enzyme, with [protein]-N6-succinyl-L-lysine as cosubstrate, at 8.0 pH and 25&deg;C	Homo sapiens	7	739445
+2.3.1.B43	0.15	NAD+	cosubstrate: Ac-(N6-succinyl)Lys-7-amido-4-methylcoumarin, pH 8.0, 37&deg;C	Homo sapiens	7	730161
+2.3.1.B43	0.321	NAD+	mutant enzyme Y102A, with [protein]-N6-succinyl-L-lysine as cosubstrate, at 8.0 pH and 25&deg;C	Homo sapiens	7	739445
+2.3.1.B43	0.609	NAD+	mutant enzyme R105I, with [protein]-N6-acetyl-L-lysine as cosubstrate, at 8.0 pH and 25&deg;C	Homo sapiens	7	739445
+2.3.1.B43	1.194	NAD+	mutant enzyme Y102A/R105I, with [protein]-N6-acetyl-L-lysine as cosubstrate, at 8.0 pH and 25&deg;C	Homo sapiens	7	739445
+2.3.1.B43	1.605	NAD+	mutant enzyme Y102A, with [protein]-N6-acetyl-L-lysine as cosubstrate, at 8.0 pH and 25&deg;C	Homo sapiens	7	739445
+2.4.2.31	0.1	NAD+		Homo sapiens	7	638117
+2.4.2.31	0.267	NAD+	pH and temperature not specified in the publication	Homo sapiens	7	722766
+2.4.2.31	0.29	NAD+	37&deg;C, pH not specified in the publication	Homo sapiens	7	723565
+2.5.1.46	0.0048	NAD+		Homo sapiens	7	638065
+2.7.1.23	0.22	NAD+	in 100 mM Tris-HCl (pH 8.0), at 37&deg;C	Homo sapiens	7	723257
+2.7.1.23	0.54	NAD+	30&deg;C	Homo sapiens	7	641193
+2.7.1.23	0.6	NAD+		Homo sapiens	7	641201
+2.7.1.23	1.07	NAD+	at pH 8.0 and 50&deg;C	Homo sapiens	7	723167
+2.7.7.1	0.059	NAD+	NMNAT1	Homo sapiens	7	662419
+2.7.7.1	0.067	NAD+	37&deg;C, pH 7.6	Homo sapiens	7	642779
+2.7.7.1	0.07	NAD+		Homo sapiens	7	703814
+2.7.7.1	0.07	NAD+	NMNAT2	Homo sapiens	7	662419
+2.7.7.1	0.13	NAD+	NMNAT3	Homo sapiens	7	662419
+2.7.7.18	0.07	NAD+		Homo sapiens	7	703814
+3.2.2.5	0.028	NAD+		Homo sapiens	7	137084
+3.2.2.5	0.2	NAD+	pH 7.2, 37&deg;C, purified enzyme	Homo sapiens	7	656684
+3.2.2.5	0.26	NAD+	membrane fraction, pH 7.0, 37&deg;C	Homo sapiens	7	656778
+3.2.2.6	0.026	NAD+		Homo sapiens	7	326409
+3.2.2.6	0.026	NAD+	pH 7.0, 28&deg;C	Homo sapiens	7	326409
+3.6.1.9	0.33	NAD+	pH and temperature not specified in the publication, membrane enzyme	Homo sapiens	7	757567
+5.5.1.4	0.008	NAD+		Homo sapiens	7	652535

@@ -1,0 +1,103 @@
+1.1.1.1	0.04	NAD+	isoenzyme ADH-2, pH 10.0 and pH 7.5	Rattus norvegicus	7	285604
+1.1.1.1	0.044	NAD+	isoenzyme 4	Rattus norvegicus	7	285606
+1.1.1.1	0.05	NAD+	isoenzyme ADH-1, pH 7.5	Rattus norvegicus	7	285604
+1.1.1.1	0.057	NAD+	isoenzyme 1	Rattus norvegicus	7	285606
+1.1.1.1	0.099	NAD+	isoenzyme 2	Rattus norvegicus	7	285606
+1.1.1.1	0.1	NAD+	isoenzyme ADH-3	Rattus norvegicus	7	285604
+1.1.1.1	0.115	NAD+	isoenzyme 2	Rattus norvegicus	7	285606
+1.1.1.1	0.2	NAD+	isoenzyme ADH-1, pH 7.5	Rattus norvegicus	7	285604
+1.1.1.1	0.25	NAD+	isoenzyme ADH-1, pH 10.0	Rattus norvegicus	7	285604
+1.1.1.8	0.03	NAD+		Rattus norvegicus	7	287336
+1.1.1.10	1.5	NAD+	pH 7.0, 25&deg;C	Rattus norvegicus	7	656049
+1.1.1.14	0.082	NAD+		Rattus norvegicus	7	285872
+1.1.1.30	0.067	NAD+	heart, soluble enzyme	Rattus norvegicus	7	286536
+1.1.1.30	0.071	NAD+	liver, soluble enzyme	Rattus norvegicus	7	286536
+1.1.1.30	0.24	NAD+	liver 3-hydroxybutyrate dehydrogenase	Rattus norvegicus	7	286521
+1.1.1.31	0.022	NAD+	wild type	Rattus norvegicus	7	286552
+1.1.1.31	1.24	NAD+	mutant D33R	Rattus norvegicus	7	286552
+1.1.1.35	0.0585	NAD+		Rattus norvegicus	7	286601
+1.1.1.B40	0.091	NAD+	temperature not specified in the publication, pH 9	Rattus norvegicus	7	285958
+1.1.1.75	4	NAD+	for both enantiomers as substrate	Rattus norvegicus	7	287300
+1.1.1.78	0.034	NAD+		Rattus norvegicus	7	207968
+1.1.1.145	0.0000047	NAD+	37&deg;C, pH 7.25	Rattus norvegicus	7	657352
+1.1.1.145	0.045	NAD+		Rattus norvegicus	7	389377
+1.1.1.205	0.065	NAD+		Rattus norvegicus	7	347915
+1.1.1.211	0.06	NAD+		Rattus norvegicus	7	288681
+1.1.1.213	0.004	NAD+		Rattus norvegicus	7	347990
+1.1.1.213	0.04	NAD+		Rattus norvegicus	7	347984
+1.1.1.213	0.76	NAD+		Rattus norvegicus	7	347979
+1.1.1.213	0.83	NAD+	Y205F	Rattus norvegicus	7	347989
+1.1.1.213	0.94	NAD+	recombinant wild type enzyme	Rattus norvegicus	7	347989
+1.1.1.239	0.0181	NAD+		Rattus norvegicus	7	287210
+1.1.1.284	0.01	NAD+		Rattus norvegicus	7	287866
+1.1.5.13	0.4	NAD+	at pH 8.7 and 37&deg;C	Rattus norvegicus	7	752792
+1.2.1.3	0.0023	NAD+	enzyme from promotion phase of hepatocarcinogenesis	Rattus norvegicus	7	348680
+1.2.1.3	0.003	NAD+	reaction with propanal	Rattus norvegicus	7	348682
+1.2.1.3	0.004	NAD+	native enzyme, pH 7.4	Rattus norvegicus	7	348690
+1.2.1.3	0.0077	NAD+	phenobarbital-inducible enzyme	Rattus norvegicus	7	348680
+1.2.1.3	0.01	NAD+	native enzyme, reaction with propanal	Rattus norvegicus	7	348695
+1.2.1.3	0.022	NAD+	reaction with propanal, enzyme II from mitochondria	Rattus norvegicus	7	348791
+1.2.1.3	0.03	NAD+	isoenzyme ALDH-II	Rattus norvegicus	7	348715
+1.2.1.3	0.035	NAD+		Rattus norvegicus	7	348717
+1.2.1.3	0.036	NAD+	reaction with propanal, enzyme I from mitochondria	Rattus norvegicus	7	348791
+1.2.1.3	0.038	NAD+	isoenzyme ALDH-I	Rattus norvegicus	7	348715
+1.2.1.3	0.041	NAD+	enzyme from phenotype Aldh2(1)/Aldh2(3)	Rattus norvegicus	7	656901
+1.2.1.3	0.041	NAD+	enzyme from phenotype Aldh2(3)/Aldh2(3)	Rattus norvegicus	7	656901
+1.2.1.3	0.043	NAD+	enzyme from phenotype Aldh2(1)/Aldh2(1)	Rattus norvegicus	7	656901
+1.2.1.3	0.05	NAD+		Rattus norvegicus	7	348707
+1.2.1.3	0.074	NAD+	native enzyme, pH 9.0	Rattus norvegicus	7	348690
+1.2.1.3	0.095	NAD+	reaction with propanal, enzyme II from microsomes	Rattus norvegicus	7	348791
+1.2.1.3	0.097	NAD+	reaction with propanal, enzyme I from microsomes	Rattus norvegicus	7	348791
+1.2.1.3	0.132	NAD+	enzyme from phenotype Aldh2(2)/Aldh2(2)	Rattus norvegicus	7	656901
+1.2.1.3	0.2	NAD+	reaction with decanal	Rattus norvegicus	7	348691
+1.2.1.3	0.7	NAD+	mutant enzyme E487K, pH 7.4	Rattus norvegicus	7	348690
+1.2.1.3	1.1	NAD+	mutant enzyme E487K, pH 9.0	Rattus norvegicus	7	348690
+1.2.1.3	1.9	NAD+	mutant enzyme S74A, reaction with propanal	Rattus norvegicus	7	348695
+1.2.1.5	0.003	NAD+		Rattus norvegicus	7	348787
+1.2.1.5	0.02	NAD+	reaction with propanal	Rattus norvegicus	7	348790
+1.2.1.5	0.074	NAD+		Rattus norvegicus	7	348788
+1.2.1.5	3	NAD+	enzyme from cornea, reaction with propanal	Rattus norvegicus	7	348787
+1.2.1.5	35	NAD+	enzyme from HTC hepatoma cells, reaction with propanal	Rattus norvegicus	7	348787
+1.2.1.8	0.028	NAD+	cytoplasmic enzyme	Rattus norvegicus	7	390357
+1.2.1.8	0.034	NAD+	mitochondrial enzyme	Rattus norvegicus	7	390357
+1.2.1.8	0.034	NAD+	mitochondrial enzyme	Rattus norvegicus	7	390362
+1.2.1.16	9.4	NAD+	mitochondria of non-synaptic origin	Rattus norvegicus	7	288050
+1.2.1.16	17	NAD+	synaptosomes	Rattus norvegicus	7	288050
+1.2.1.18	0.15	NAD+		Rattus norvegicus	7	288055
+1.2.1.19	0.07	NAD+	constant substrate 2 mM 4-aminobutyraldehyde	Rattus norvegicus	7	288081
+1.2.1.19	0.186	NAD+	constant substrate 0.1 mM capronaldehyde	Rattus norvegicus	7	288081
+1.2.1.19	0.256	NAD+	constant substrate 0.2 mM isotbutyraldehyde	Rattus norvegicus	7	288081
+1.2.1.19	0.48	NAD+		Rattus norvegicus	7	288064
+1.2.1.19	0.886	NAD+	constant substrate 2 mM acetaldehyde	Rattus norvegicus	7	288081
+1.2.1.24	0.0025	NAD+		Rattus norvegicus	7	288158
+1.2.1.24	0.02	NAD+		Rattus norvegicus	7	288166
+1.2.1.24	0.021	NAD+	wild type enzyme, at 37&deg;C, in 40 mM sodium phosphate, pH 7.4	Rattus norvegicus	7	697282
+1.2.1.24	0.03	NAD+		Rattus norvegicus	7	288158
+1.2.1.24	0.035	NAD+	mutant enzyme R166E, at 37&deg;C, in 40 mM sodium phosphate, pH 7.4	Rattus norvegicus	7	697282
+1.2.1.24	0.044	NAD+	mutant enzyme R166A, at 37&deg;C, in 40 mM sodium phosphate, pH 7.4	Rattus norvegicus	7	697282
+1.2.1.24	0.063	NAD+	mutant enzyme R166H, at 37&deg;C, in 40 mM sodium phosphate, pH 7.4	Rattus norvegicus	7	697282
+1.2.1.24	0.081	NAD+	mutant enzyme R166K, at 37&deg;C, in 40 mM sodium phosphate, pH 7.4	Rattus norvegicus	7	697282
+1.2.1.27	0.15	NAD+		Rattus norvegicus	7	288055
+1.2.1.31	0.2	NAD+		Rattus norvegicus	7	288193
+1.2.1.36	0.022	NAD+	standard deviation 0.004 mM	Rattus norvegicus	7	390270
+1.2.1.36	0.166	NAD+	microsomes, high-fate diet rats, pH and temperature not specified in the publication	Rattus norvegicus	7	743142
+1.2.1.36	0.1822	NAD+	microsomes, control rats, pH and temperature not specified in the publication	Rattus norvegicus	7	743142
+1.2.1.36	0.2269	NAD+	cytosol, control rats, pH and temperature not specified in the publication	Rattus norvegicus	7	743142
+1.2.1.36	0.2424	NAD+	cytosol, high-fate diet rats, pH and temperature not specified in the publication	Rattus norvegicus	7	743142
+1.2.1.47	0.028	NAD+		Rattus norvegicus	7	288255
+1.2.4.4	0.0387	NAD+	reaction with DL-3-methyl-2-oxopentanoate	Rattus norvegicus	7	349079
+1.2.4.4	0.0395	NAD+	reaction with 3-methyl-2-oxobutanoate	Rattus norvegicus	7	349079
+1.2.4.4	0.0423	NAD+	reaction with 4-methyl-2-oxopentanoate	Rattus norvegicus	7	349079
+1.4.1.3	0.364	NAD+	mitochondrial enzyme	Rattus norvegicus	7	391634
+1.4.1.3	0.924	NAD+	enzyme from rough ER	Rattus norvegicus	7	391634
+1.17.1.4	0.0052	NAD+	DTT-treated C-terminally truncated enzyme mutant, pH 7.8, 25&deg;C	Rattus norvegicus	7	744875
+2.4.2.30	0.02	NAD+	hydrolysis of NAD+, wild-type enzyme	Rattus norvegicus	7	657940
+2.4.2.31	0.33	NAD+		Rattus norvegicus	7	638109
+2.5.1.46	0.03	NAD+		Rattus norvegicus	7	638058
+3.2.2.5	0.03	NAD+		Rattus norvegicus	7	137071
+3.2.2.5	0.03	NAD+	chromatin	Rattus norvegicus	7	137054
+3.2.2.5	0.06	NAD+	nuclear envelope	Rattus norvegicus	7	137054
+3.2.2.5	0.2	NAD+	microsomal	Rattus norvegicus	7	137060
+3.2.2.5	0.22	NAD+	plasma membrane	Rattus norvegicus	7	137060
+3.2.2.5	0.5	NAD+		Rattus norvegicus	7	137060
+3.2.2.5	0.5	NAD+		Rattus norvegicus	7	137081

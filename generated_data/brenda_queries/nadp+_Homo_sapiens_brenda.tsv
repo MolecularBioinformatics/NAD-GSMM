@@ -1,0 +1,117 @@
+1.1.1.10	0.001	NADP+	pH 7.0, 25&deg;C	Homo sapiens	10	656049
+1.1.1.40	0.00139	NADP+		Homo sapiens	10	286741
+1.1.1.40	0.0018	NADP+	mutant enzyme S57K/N59E/E73K/S102D/H74K/D78P/D80E/D87G/D90E/K106S/Q121S/L125H, at pH 7.4 and 30&deg;C	Homo sapiens	10	737754
+1.1.1.40	0.0019	NADP+	wild type enzyme, at pH 7.4 and 30&deg;C	Homo sapiens	10	737754
+1.1.1.40	0.0019	NADP+	mutant enzyme S57K/N59E/E73K/S102D/H74K/D78P/D80E/D87G, at pH 7.4 and 30&deg;C	Homo sapiens	10	737754
+1.1.1.40	0.002	NADP+	mutant E314A, pH 7.4, 30&deg;C	Homo sapiens	10	723540
+1.1.1.40	0.0023	NADP+	mutant enzyme S57K/N59E/E73K/S102D/H74K/D78P/D80E/D87G/K106S/Q121S/L125H, at pH 7.4 and 30&deg;C	Homo sapiens	10	737754
+1.1.1.40	0.0026	NADP+	wild type enzyme, in 50 mMTris-HCl (pH 7.4), at 30&deg;C	Homo sapiens	10	698969
+1.1.1.40	0.003	NADP+	mutant E314A/S346K, pH 7.4, 30&deg;C	Homo sapiens	10	723540
+1.1.1.40	0.0031	NADP+		Homo sapiens	10	286735
+1.1.1.40	0.0031	NADP+	mutant enzyme S57K/N59E/E73K/S102D, at pH 7.4 and 30&deg;C	Homo sapiens	10	737754
+1.1.1.40	0.0037	NADP+	mutant enzyme H51A/D90A, in 50 mM Tris-HCl, pH 7.4, at 30&deg;C	Homo sapiens	10	698912
+1.1.1.40	0.0039	NADP+	mutant enzyme D90A, in 50 mM Tris-HCl, pH 7.4, at 30&deg;C	Homo sapiens	10	698912
+1.1.1.40	0.004	NADP+	mutant enzyme H142A, in 50 mM Tris-HCl, pH 7.4, at 30&deg;C	Homo sapiens	10	698912
+1.1.1.40	0.004	NADP+	mutant enzyme H51A/D139A, in 50 mM Tris-HCl, pH 7.4, at 30&deg;C	Homo sapiens	10	698912
+1.1.1.40	0.0042	NADP+	mutant enzyme H142A/D568A, in 50 mM Tris-HCl, pH 7.4, at 30&deg;C	Homo sapiens	10	698912
+1.1.1.40	0.0045	NADP+	mutant enzyme N59E/E73K/S102D, at pH 7.4 and 30&deg;C	Homo sapiens	10	737754
+1.1.1.40	0.0045	NADP+	mutant enzyme S57K, at pH 7.4 and 30&deg;C	Homo sapiens	10	737754
+1.1.1.40	0.0046	NADP+	mutant enzyme N59E/E73K, at pH 7.4 and 30&deg;C	Homo sapiens	10	737754
+1.1.1.40	0.0048	NADP+	mutant enzyme D139A, in 50 mM Tris-HCl, pH 7.4, at 30&deg;C	Homo sapiens	10	698912
+1.1.1.40	0.0049	NADP+	mutant enzyme S102D, at pH 7.4 and 30&deg;C	Homo sapiens	10	737754
+1.1.1.40	0.005	NADP+	mutant enzyme D568A, in 50 mM Tris-HCl, pH 7.4, at 30&deg;C	Homo sapiens	10	698912
+1.1.1.40	0.005	NADP+	mutant enzyme W572A, in 50 mM Tris-HCl, pH 7.4, at 30&deg;C	Homo sapiens	10	698912
+1.1.1.40	0.005	NADP+	wild-type enzyme, pH 7.4, 30&deg;C	Homo sapiens	10	723540
+1.1.1.40	0.0053	NADP+	in 50 mM Tris-HCl (pH 7.4)	Homo sapiens	10	697879
+1.1.1.40	0.0069	NADP+	mutant enzyme S57K/N59E/E73K, at pH 7.4 and 30&deg;C	Homo sapiens	10	737754
+1.1.1.40	0.0072	NADP+	mutant enzyme H51A, in 50 mM Tris-HCl, pH 7.4, at 30&deg;C	Homo sapiens	10	698912
+1.1.1.40	0.0089	NADP+	mutant enzyme N59E, at pH 7.4 and 30&deg;C	Homo sapiens	10	737754
+1.1.1.40	0.009	NADP+	wild type enzyme, in 50 mM Tris-HCl, pH 7.4, at 30&deg;C	Homo sapiens	10	698912
+1.1.1.40	0.0092	NADP+		Homo sapiens	10	286738
+1.1.1.40	0.0125	NADP+	mutant enzyme E73K, at pH 7.4 and 30&deg;C	Homo sapiens	10	737754
+1.1.1.40	0.013	NADP+	mutant S346K, pH 7.4, 30&deg;C	Homo sapiens	10	723540
+1.1.1.40	0.03	NADP+	mutant K347Y, pH 7.4, 30&deg;C	Homo sapiens	10	723540
+1.1.1.40	0.14	NADP+	mutant S346K/K347Y, pH 7.4, 30&deg;C	Homo sapiens	10	723540
+1.1.1.40	0.36	NADP+	mutant K362H, pH 7.4, 30&deg;C	Homo sapiens	10	723540
+1.1.1.40	0.76	NADP+	mutant K362Q, pH 7.4, 30&deg;C	Homo sapiens	10	723540
+1.1.1.40	3	NADP+	mutant E314A/S346K/K347Y/K362H, pH 7.4, 30&deg;C	Homo sapiens	10	723540
+1.1.1.40	5	NADP+	mutant E314A/S346K/K347Y/K362Q, pH 7.4, 30&deg;C	Homo sapiens	10	723540
+1.1.1.40	6	NADP+	mutant S346K/K362Q, pH 7.4, 30&deg;C	Homo sapiens	10	723540
+1.1.1.40	12	NADP+	mutant S347Y/K362Q, pH 7.4, 30&deg;C	Homo sapiens	10	723540
+1.1.1.40	17	NADP+	mutant S346K/K347Y/K362Q, pH 7.4, 30&deg;C	Homo sapiens	10	723540
+1.1.1.40	29	NADP+	mutants S346K/K347Y/K362H and E314A/S346I/K347D/K362H, pH 7.4, 30&deg;C	Homo sapiens	10	723540
+1.1.1.40	116	NADP+	mutant S346I/K347D/K362H, pH 7.4, 30&deg;C	Homo sapiens	10	723540
+1.1.1.42	0.0068	NADP+	recombinant mutant R132C IDH1, pH not specified in the publication, temperature not specified in the publication	Homo sapiens	10	713508
+1.1.1.42	0.0073	NADP+	recombinant wild-type IDH1, pH not specified in the publication, temperature not specified in the publication	Homo sapiens	10	713508
+1.1.1.42	0.0122	NADP+	recombinant mutant R132H IDH1, pH not specified in the publication, temperature not specified in the publication	Homo sapiens	10	713508
+1.1.1.42	0.0144	NADP+	recombinant mutant R132S IDH1, pH not specified in the publication, temperature not specified in the publication	Homo sapiens	10	713508
+1.1.1.44	0.018	NADP+	at pH 7.5 and 22&deg;C	Homo sapiens	10	741367
+1.1.1.44	0.03	NADP+		Homo sapiens	10	286837
+1.1.1.44	0.03	NADP+		Homo sapiens	10	286841
+1.1.1.44	0.03	NADP+		Homo sapiens	10	286846
+1.1.1.49	0.00238	NADP+	pH 8.0, 25&deg;C, recombinant mutant R454H, with D-glucose 6-phosphate	Homo sapiens	10	673944
+1.1.1.49	0.00276	NADP+	pH 8.0, 25&deg;C, recombinant mutant R454C, with D-glucose 6-phosphate	Homo sapiens	10	673944
+1.1.1.49	0.006	NADP+	isoenzymes I and II, with glucose 6-phosphate	Homo sapiens	10	287017
+1.1.1.49	0.00694	NADP+	refolded G6PD	Homo sapiens	10	696962
+1.1.1.49	0.00707	NADP+	pH 8.0, 25&deg;C, recombinant wild-type enzyme, with D-glucose 6-phosphate	Homo sapiens	10	673944
+1.1.1.49	0.00707	NADP+	native G6PD	Homo sapiens	10	696962
+1.1.1.49	0.0071	NADP+	pH 8.0, 25&deg;C, recombinant wild-type enzyme	Homo sapiens	10	672382
+1.1.1.49	0.0072	NADP+	at pH 8.0 and 37&deg;C	Homo sapiens	10	741011
+1.1.1.49	0.00839	NADP+	pH 8.0, 25&deg;C, recombinant mutant R454C, with deoxy-D-glucose 6-phosphate	Homo sapiens	10	673944
+1.1.1.49	0.0093	NADP+	pH 8.0, 25&deg;C, recombinant mutant R393G	Homo sapiens	10	672382
+1.1.1.49	0.0107	NADP+	clinical mutant G488V	Homo sapiens	10	696447
+1.1.1.49	0.0118	NADP+	clinical mutant G488S	Homo sapiens	10	696447
+1.1.1.49	0.012	NADP+	recombinant from E. coli	Homo sapiens	10	287004
+1.1.1.49	0.013	NADP+		Homo sapiens	10	287004
+1.1.1.49	0.0165	NADP+	pH 8.0, 25&deg;C, recombinant mutant R393H	Homo sapiens	10	672382
+1.1.1.49	0.02	NADP+	with D-glucose 6-phosphate or D-galactose 6-phosphate	Homo sapiens	10	287016
+1.1.1.49	0.025	NADP+	isoenzyme II, with 6-phosphonogluconate 0.1 mM	Homo sapiens	10	287017
+1.1.1.49	0.03	NADP+	with 2-deoxyglucose 6-phosphate, KM decreases to 10 mM with increasing substrate concentration from 0.3 to 1.5 mM	Homo sapiens	10	287016
+1.1.1.49	0.07	NADP+	pH 8.0, 25, mutant enzyme 2	Homo sapiens	10	656387
+1.1.1.49	0.085	NADP+	pH 8.0, 25, mutant enzyme 3	Homo sapiens	10	656387
+1.1.1.49	0.13	NADP+	pH 8.0, 25, mutant enzyme 1	Homo sapiens	10	656387
+1.1.1.49	0.21	NADP+	pH 8.0, 25, wild-type enzyme	Homo sapiens	10	656387
+1.1.1.49	4.67	NADP+	25&deg;C, pH 8.0, wild-type enzyme	Homo sapiens	10	689022
+1.1.1.49	4.8	NADP+	25&deg;C, pH 8.0, mutant enzyme G163D	Homo sapiens	10	689022
+1.1.1.49	6.46	NADP+	25&deg;C, pH 8.0, mutant enzyme G163S	Homo sapiens	10	689022
+1.1.1.50	0.00023	NADP+	pH 7.0, 25&deg;C	Homo sapiens	10	654626
+1.1.1.51	9.6	NADP+	pH 7.4, reaction with estradiol	Homo sapiens	10	659176
+1.1.1.71	0.65	NADP+	pH 7.4, 37&deg;C	Homo sapiens	10	655563
+1.1.1.105	0.027	NADP+	wild type enzyme, in 100 mM sodium phosphate, pH 7.4	Homo sapiens	10	690842
+1.1.1.145	0.0003	NADP+	pH 7.4, 25&deg;C	Homo sapiens	10	684725
+1.1.1.146	0.0000063	NADP+	reduction of corticosterone, pH and temperature not specified in the publication	Homo sapiens	10	285951
+1.1.1.146	0.00042	NADP+	isoform 11beta-HSD1, kidney homogenate	Homo sapiens	10	688766
+1.1.1.146	0.00042	NADP+	kidney homogenate, pH and temperature not specified in the publication	Homo sapiens	10	688766
+1.1.1.284	0.57	NADP+	pH 5.7	Homo sapiens	10	287888
+1.1.1.284	9.5	NADP+	pH 8.0	Homo sapiens	10	287888
+1.1.1.300	0.0004	NADP+	membrane-bound wild-type	Homo sapiens	10	654687
+1.1.1.300	0.001	NADP+	purified recombinant enzyme	Homo sapiens	10	654687
+1.1.1.300	0.0012	NADP+	pH 7.4, 37&deg;C	Homo sapiens	10	667674
+1.1.1.300	0.0032	NADP+	wild-type	Homo sapiens	10	685381
+1.1.1.300	0.0032	NADP+	pH 7.4, 37&deg;C	Homo sapiens	10	667674
+1.1.1.300	0.1	NADP+	mutant T49M	Homo sapiens	10	685381
+1.1.1.300	0.35	NADP+	mutant I51N	Homo sapiens	10	685381
+1.1.1.300	0.8	NADP+	pH 7.4, 37&deg;C, determined with all-trans-retinol	Homo sapiens	10	656064
+1.1.1.315	0.00069	NADP+	pH 7.4, 37&deg;C	Homo sapiens	10	692705
+1.1.1.315	0.027	NADP+	pH 7.4, 37&deg;C, wild-type enzyme	Homo sapiens	10	690842
+1.1.1.357	0.00023	NADP+	in 100 mM potassium phosphate, pH 7.0, at 25&deg;C	Homo sapiens	10	654626
+1.1.1.357	0.0005	NADP+	mutant enzyme H216Y, in 0.1 M potassium phosphate, pH 7.4, at 25&deg;C	Homo sapiens	10	724209
+1.1.1.357	0.0006	NADP+	mutant enzyme H216F, in 0.1 M potassium phosphate, pH 7.4, at 25&deg;C	Homo sapiens	10	724209
+1.1.1.357	0.0017	NADP+	wild type enzyme, in 0.1 M potassium phosphate, pH 7.4, at 25&deg;C	Homo sapiens	10	724209
+1.2.1.5	0.49	NADP+	reaction with benzaldehyde	Homo sapiens	10	348782
+1.2.1.5	0.94	NADP+	reaction with benzaldehyde, enzyme from stomach mucosa	Homo sapiens	10	348784
+1.2.1.5	1	NADP+	reaction with benzaldehyde, enzyme from adenocarcinoma cell line	Homo sapiens	10	348784
+1.2.1.48	8.7	NADP+	reference substrate octadecanal	Homo sapiens	10	390324
+1.5.1.2	0.48	NADP+	E221A mutant, 1 mM fixed thioproline, thioproline dehydrogenase activity assay	Homo sapiens	10	675382
+1.5.1.2	0.73	NADP+	E221A mutant, fixed 1 mM NADP+	Homo sapiens	10	675382
+1.5.1.2	1.26	NADP+	wild type enzyme, fixed 1 mM NADP+	Homo sapiens	10	675382
+1.5.1.2	3.06	NADP+	wild type enzyme, 1 mM fixed thioproline, thioproline dehydrogenase activity assay	Homo sapiens	10	675382
+1.5.1.5	-999	NADP+	mutation of Arg173 causes a 500fold increase in the Km value for NADP+, while mutation of Ser197 causes a 20fold increase	Homo sapiens	10	701402
+1.5.1.5	0.022	NADP+	NADP+-dependent bifunctional dehydrogenase-cyclohydrolase domain of the cytoplasmic trifunctional enzyme	Homo sapiens	10	392333
+1.5.1.15	0.255	NADP+	mutant R198S, pH 7.3	Homo sapiens	10	674480
+1.5.1.15	0.352	NADP+	wild-type, pH 7.3	Homo sapiens	10	674480
+1.5.1.15	0.503	NADP+	mutant D133S, pH 7.3	Homo sapiens	10	674480
+1.5.1.15	0.58	NADP+	mutant D133N, pH 7.3	Homo sapiens	10	674480
+1.5.1.15	0.689	NADP+	mutant D190N, pH 7.3	Homo sapiens	10	674480
+1.5.1.15	2.12	NADP+	mutant R198K, pH 7.3	Homo sapiens	10	674480
+3.2.2.6	0.065	NADP+		Homo sapiens	10	326410

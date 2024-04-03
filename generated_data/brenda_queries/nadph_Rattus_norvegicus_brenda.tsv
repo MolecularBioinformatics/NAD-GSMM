@@ -1,0 +1,119 @@
+1.1.1.2	0.003	NADPH		Rattus norvegicus	5	286175
+1.1.1.2	0.006	NADPH		Rattus norvegicus	5	286192
+1.1.1.10	0.002	NADPH	pH 7.0, 25&deg;C, mutant Y149F	Rattus norvegicus	5	655222
+1.1.1.10	0.0046	NADPH	pH 7.0, 25&deg;C, mutant S136A	Rattus norvegicus	5	655222
+1.1.1.10	0.007	NADPH	pH 7.0, 25&deg;C, wild-type enzyme	Rattus norvegicus	5	655222
+1.1.1.10	0.007	NADPH	pH 7.0, 25&deg;C	Rattus norvegicus	5	656049
+1.1.1.10	0.053	NADPH	pH 7.0, 25&deg;C, mutant K153M	Rattus norvegicus	5	655222
+1.1.1.20	0.045	NADPH	with D-glucuronic acid	Rattus norvegicus	5	286222
+1.1.1.21	0.054	NADPH	isoform ALR2, pH 6.2, 30&deg;C	Rattus norvegicus	5	685547
+1.1.1.35	0.435	NADPH		Rattus norvegicus	5	286601
+1.1.1.50	0.00071	NADPH		Rattus norvegicus	5	389544
+1.1.1.51	0.0018	NADPH	5alpha-dihydrotestosterone as substrate, 3-beta-hydroxysteroid dehydrogenase activity	Rattus norvegicus	5	287073
+1.1.1.51	0.0021	NADPH	estrone as substrate, 17beta-hydroxysteroid dehydrogenase activity	Rattus norvegicus	5	287073
+1.1.1.72	0.0067	NADPH		Rattus norvegicus	5	287287
+1.1.1.101	0.005	NADPH	cosubstrate hexadecyldihydroxyacetone phosphate, brain	Rattus norvegicus	5	285684
+1.1.1.101	0.007	NADPH	cosubstrate palmitoyldihydroxyacetone phosphate, brain	Rattus norvegicus	5	285684
+1.1.1.101	0.01	NADPH		Rattus norvegicus	5	285688
+1.1.1.101	0.01	NADPH	ascites microsomes	Rattus norvegicus	5	285684
+1.1.1.146	0.00372	NADPH	temperature not specified in the publication, pH 9	Rattus norvegicus	5	285958
+1.1.1.149	0.00138	NADPH	spectrophotometric, pH 6.8	Rattus norvegicus	5	285983
+1.1.1.149	0.014	NADPH	+/-0.004	Rattus norvegicus	5	286001
+1.1.1.153	0.0017	NADPH		Rattus norvegicus	5	286015
+1.1.1.188	0.067	NADPH		Rattus norvegicus	5	389464
+1.1.1.213	0.0022	NADPH		Rattus norvegicus	5	347990
+1.1.1.270	0.00012	NADPH	substrate: 5alpha-dihydrotestosterone, DHT	Rattus norvegicus	5	286478
+1.3.1.2	0.011	NADPH	in presence of uracil	Rattus norvegicus	5	172058
+1.3.1.2	0.011	NADPH	in presence of uracil	Rattus norvegicus	5	349212
+1.3.1.2	0.015	NADPH	in presence of thymine	Rattus norvegicus	5	349212
+1.3.1.2	0.017	NADPH		Rattus norvegicus	5	349210
+1.3.1.2	0.0206	NADPH	in presence of uracil	Rattus norvegicus	5	349227
+1.3.1.2	0.0209	NADPH	in presence of 5-fluorouracil	Rattus norvegicus	5	349227
+1.3.1.2	0.0289	NADPH	in presence of thymine	Rattus norvegicus	5	349227
+1.3.1.3	0.003	NADPH		Rattus norvegicus	5	390591
+1.3.1.3	0.014	NADPH		Rattus norvegicus	5	390647
+1.3.1.8	0.01	NADPH		Rattus norvegicus	5	390753
+1.3.1.8	0.045	NADPH		Rattus norvegicus	5	390857
+1.3.1.22	0.00102	NADPH	nuclear enzyme	Rattus norvegicus	5	396210
+1.3.1.22	0.0376	NADPH	microsomal membrane-bound enzyme	Rattus norvegicus	5	396210
+1.3.1.22	0.53	NADPH		Rattus norvegicus	5	390765
+1.3.1.24	0.0023	NADPH	in the presence of 0.005 mM biliverdin, biliverdin reductase C280A	Rattus norvegicus	5	437824
+1.3.1.24	0.0029	NADPH	in the presence of 0.005 mM biliverdin, biliverdin reductase wild-type	Rattus norvegicus	5	437824
+1.3.1.24	0.003	NADPH		Rattus norvegicus	5	437789
+1.3.1.24	0.0133	NADPH	in the presence of 0.005 mM biliverdin, biliverdin reductase C291A	Rattus norvegicus	5	437824
+1.3.1.70	0.6	NADPH	membrane-bound enzyme	Rattus norvegicus	5	288490
+1.3.1.74	0.004	NADPH	recombinant enzyme, pH 7.2, 25&deg;C, with substrate trans-2-nonenal	Rattus norvegicus	5	656210
+1.3.1.74	0.032	NADPH	recombinant enzyme, pH 7.2, 25&deg;C, with substrate trans-3-nonen-2-one	Rattus norvegicus	5	656210
+1.3.1.102	0.004	NADPH	with trans-2-nonenal as cosubstrate, in 100 mM Tris (pH 7.2), at 25&deg;C	Rattus norvegicus	5	656210
+1.3.1.102	0.032	NADPH	with trans-3-nonen-2-one as cosubstrate, in 100 mM Tris (pH 7.2), at 25&deg;C	Rattus norvegicus	5	656210
+1.3.1.124	0.0025	NADPH		Rattus norvegicus	5	390722
+1.5.1.1	0.038	NADPH	+ DELTA1-pyrroline-2-carboxylate	Rattus norvegicus	5	392038
+1.5.1.2	0.006	NADPH		Rattus norvegicus	5	392112
+1.5.1.3	0.029	NADPH		Rattus norvegicus	5	392272
+1.5.1.8	0.078	NADPH		Rattus norvegicus	5	392359
+1.5.1.34	0.076	NADPH	NADH-specific liver enzyme	Rattus norvegicus	5	484989
+1.5.1.34	0.1	NADPH		Rattus norvegicus	5	484995
+1.5.1.34	0.5	NADPH		Rattus norvegicus	5	484972
+1.6.2.2	0.001	NADPH	cytochrome b5/cytochrome b5 reductase FAD-domain fusion protein	Rattus norvegicus	5	394260
+1.6.2.2	0.009	NADPH	D239T mutant enzyme, pH 7.0, 25&deg;C	Rattus norvegicus	5	657949
+1.6.2.2	0.022	NADPH	D239S/F251R mutant enzyme, pH 7.0, 25&deg;C	Rattus norvegicus	5	657949
+1.6.2.2	0.025	NADPH	D239S/F251Y mutant enzyme, pH 7.0, 25&deg;C	Rattus norvegicus	5	657949
+1.6.2.2	0.044	NADPH	D239T/F251R mutant enzyme, pH 7.0, 25&deg;C	Rattus norvegicus	5	657949
+1.6.2.2	0.094	NADPH	D239E mutant enzyme, pH 7.0, 25&deg;C	Rattus norvegicus	5	657949
+1.6.2.2	0.138	NADPH	F251R mutant enzyme, pH 7.0, 25&deg;C	Rattus norvegicus	5	657949
+1.6.2.2	0.268	NADPH	D239S mutant enzyme, pH 7.0, 25&deg;C	Rattus norvegicus	5	657949
+1.6.2.2	0.375	NADPH	mutant G179V, pH 7.0	Rattus norvegicus	5	671983
+1.6.2.2	0.507	NADPH	mutant G179T, pH 7.0	Rattus norvegicus	5	671983
+1.6.2.2	0.617	NADPH	F251Y mutant enzyme, pH 7.0, 25&deg;C	Rattus norvegicus	5	657949
+1.6.2.2	0.924	NADPH	wild-type, pH 7.0	Rattus norvegicus	5	671983
+1.6.2.2	0.924	NADPH	wild type enzyme, pH 7.0, 25&deg;C	Rattus norvegicus	5	657949
+1.6.2.2	1.36	NADPH	mutant G179A, pH 7.0	Rattus norvegicus	5	671983
+1.6.2.2	2.317	NADPH	mutant G179P, pH 7.0	Rattus norvegicus	5	671983
+1.6.2.4	0.000001	NADPH	wild type, cosubstrate FAD, Km below	Rattus norvegicus	5	288620
+1.6.2.4	0.00012	NADPH	T491V mutant, cosubstrate FAD	Rattus norvegicus	5	288620
+1.6.2.4	0.0008	NADPH	G488L mutant, cosubstrate FAD	Rattus norvegicus	5	288620
+1.6.2.4	0.001	NADPH		Rattus norvegicus	5	288616
+1.6.2.4	0.0027	NADPH	deletion mutant T236/G237/E238/E239	Rattus norvegicus	5	698882
+1.6.2.4	0.003	NADPH	deletion mutant T236/G237	Rattus norvegicus	5	698882
+1.6.2.4	0.0062	NADPH		Rattus norvegicus	5	698882
+1.6.2.4	0.0063	NADPH		Rattus norvegicus	5	288565
+1.6.2.4	0.0064	NADPH	wild type, cosubstrate cytochrome c	Rattus norvegicus	5	288619
+1.6.2.4	0.0066	NADPH	native enzyme, liver, cosubstrate cytochrome c	Rattus norvegicus	5	288619
+1.6.2.4	0.0066	NADPH	Y140D mutant, cosubstrate cytochrome c	Rattus norvegicus	5	288619
+1.6.2.4	0.0071	NADPH	Y178F mutant, cosubstrate cytochrome c	Rattus norvegicus	5	288619
+1.6.2.4	0.0078	NADPH	Y140F mutant, cosubstrate cytochrome c	Rattus norvegicus	5	288619
+1.6.2.4	0.0078	NADPH	Y456S mutant, cosubstrate FAD	Rattus norvegicus	5	288620
+1.6.2.4	0.0085	NADPH	W677X mutant, cosubstrate cytochrome c	Rattus norvegicus	5	288620
+1.6.2.4	0.0095	NADPH	Y178D mutant, cosubstrate cytochrome c	Rattus norvegicus	5	288619
+1.6.2.4	0.0114	NADPH	Y140F/178F double mutant, cosubstrate cytochrome c	Rattus norvegicus	5	288619
+1.6.2.4	0.0134	NADPH	G488L mutant, cosubstrate cytochrome c	Rattus norvegicus	5	288620
+1.6.2.4	0.0143	NADPH	W677Y mutant, cosubstrate cytochrome c	Rattus norvegicus	5	288620
+1.6.2.4	0.0163	NADPH	wild type, cosubstrate cytochrome c	Rattus norvegicus	5	288620
+1.6.2.4	0.0166	NADPH	R454E mutant, cosubstrate cytochrome c	Rattus norvegicus	5	288620
+1.6.2.4	0.0199	NADPH	S678X mutant, cosubstrate cytochrome c	Rattus norvegicus	5	288620
+1.6.2.4	0.0201	NADPH	T491V mutant, cosubstrate cytochrome c	Rattus norvegicus	5	288620
+1.6.2.4	0.0217	NADPH	C472T mutant, cosubstrate cytochrome c	Rattus norvegicus	5	288620
+1.6.2.4	0.0251	NADPH	R454E mutant, cosubstrate FAD	Rattus norvegicus	5	288620
+1.6.2.4	0.0548	NADPH	Y456S mutant, cosubstrate cytochrome c	Rattus norvegicus	5	288620
+1.6.5.2	0.085	NADPH		Rattus norvegicus	5	394366
+1.6.5.2	0.12	NADPH		Rattus norvegicus	5	394372
+1.6.99.1	0.0011	NADPH		Rattus norvegicus	5	392789
+1.7.1.6	0.25	NADPH		Rattus norvegicus	5	394296
+1.7.1.11	0.021	NADPH		Rattus norvegicus	5	394432
+1.8.1.7	0.008	NADPH		Rattus norvegicus	5	394708
+1.8.1.7	0.008	NADPH		Rattus norvegicus	5	394711
+1.8.1.7	0.008	NADPH	liver enzyme	Rattus norvegicus	5	659860
+1.8.1.7	0.012	NADPH	25&deg;C, pH not specified in the publication	Rattus norvegicus	5	742814
+1.8.1.7	0.0153	NADPH	in 100 mM potassium phosphate buffer, pH 7.4, 4 mM EDTA, at 37&deg;C	Rattus norvegicus	5	713468
+1.8.1.9	0.006	NADPH		Rattus norvegicus	5	394921
+1.14.13.9	0.023	NADPH		Rattus norvegicus	5	348515
+1.14.13.39	0.001	NADPH	mutant D1393E	Rattus norvegicus	5	659330
+1.14.13.39	0.0013	NADPH	mutant D1393N	Rattus norvegicus	5	659330
+1.14.13.39	0.0025	NADPH	wild-type	Rattus norvegicus	5	659330
+1.14.13.39	0.0029	NADPH	mutant D1393V	Rattus norvegicus	5	659330
+1.21.1.1	0.027	NADPH	method 125I release, pH 7.4, 37&deg;C	Rattus norvegicus	5	704839
+2.3.1.85	0.0065	NADPH	wild-type, enoylreductase activity	Rattus norvegicus	5	661080
+2.3.1.85	0.02	NADPH	wild-type, beta-ketoreductase activity	Rattus norvegicus	5	661080
+2.3.1.85	0.5	NADPH	wild-type, beta-ketoreductase activity	Rattus norvegicus	5	661080
+2.3.1.85	0.9	NADPH	mutant G1888A, beta-ketoreductase activity	Rattus norvegicus	5	661080
+2.3.1.85	2.7	NADPH	mutant G1886F, beta-ketoreductase activity	Rattus norvegicus	5	661080

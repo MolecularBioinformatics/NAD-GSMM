@@ -1,0 +1,49 @@
+1.1.1.2	0.0012	NADPH	low-Km reductase	Sus scrofa	5	286166
+1.1.1.2	0.0056	NADPH		Sus scrofa	5	286172
+1.1.1.2	0.008	NADPH		Sus scrofa	5	286172
+1.1.1.2	0.25	NADPH	high-Km aldehyde reductase	Sus scrofa	5	286166
+1.1.1.19	0.009	NADPH		Sus scrofa	5	286139
+1.1.1.32	0.09	NADPH		Sus scrofa	5	286554
+1.1.1.33	0.09	NADPH		Sus scrofa	5	286556
+1.1.1.42	0.0092	NADPH		Sus scrofa	5	286749
+1.1.1.49	0.023	NADPH	isoenzyme II, with 6-phosphonogluconate 0.1 mM	Sus scrofa	5	287017
+1.1.1.64	0.0083	NADPH		Sus scrofa	5	287230
+1.1.1.64	0.0108	NADPH		Sus scrofa	5	287229
+1.1.1.64	0.011	NADPH		Sus scrofa	5	287225
+1.1.1.149	0.022	NADPH	10 mM cysteine, at 4&deg;C until activity decreases to half of the initial value	Sus scrofa	5	285988
+1.1.1.149	0.052	NADPH	10 mM cysteine	Sus scrofa	5	285988
+1.1.1.189	0.0052	NADPH		Sus scrofa	5	347776
+1.3.1.2	0.0057	NADPH	pH 7.5, 30&deg;C, recombinant wild-type enzyme	Sus scrofa	5	711309
+1.3.1.2	0.006	NADPH		Sus scrofa	5	349228
+1.3.1.2	0.0061	NADPH	pH 7.5, 30&deg;C, recombinant mutant C126A	Sus scrofa	5	711309
+1.3.1.2	0.0062	NADPH	pH 7.5, 30&deg;C, recombinant mutant H673Q	Sus scrofa	5	711309
+1.3.1.2	0.0066	NADPH	in presence of 2,6-dihydrouracil	Sus scrofa	5	349228
+1.3.1.2	0.007	NADPH		Sus scrofa	5	349219
+1.3.1.2	0.0075	NADPH	pH 7.5, 30&deg;C, recombinant mutant H673N	Sus scrofa	5	711309
+1.3.1.2	0.0082	NADPH	in presence of 5-fluorouracil	Sus scrofa	5	349227
+1.3.1.2	0.0119	NADPH	in presence of uracil	Sus scrofa	5	349227
+1.3.1.2	0.0167	NADPH	in presence of thymine	Sus scrofa	5	349227
+1.3.1.2	0.0188	NADPH	pH 7.5, 30&deg;C, recombinant mutant S670A	Sus scrofa	5	711309
+1.3.1.3	0.085	NADPH		Sus scrofa	5	390596
+1.3.1.24	0.003	NADPH	pig spleen	Sus scrofa	5	437788
+1.3.1.48	0.015	NADPH		Sus scrofa	5	390827
+1.3.1.48	0.016	NADPH	recombinant enzyme	Sus scrofa	5	390827
+1.5.1.3	0.00322	NADPH		Sus scrofa	5	392269
+1.5.1.20	0.016	NADPH		Sus scrofa	5	392151
+1.5.1.20	0.016	NADPH	5,10-methylenetetrahydrofolate reductase reaction, pH 7.2	Sus scrofa	5	392155
+1.5.1.20	0.028	NADPH	NADPH-menadione oxidoreductase reaction	Sus scrofa	5	392153
+1.5.1.20	0.033	NADPH	methylenetetrahydrofolate reductase reaction	Sus scrofa	5	392149
+1.5.1.20	0.049	NADPH	reduction of menadione	Sus scrofa	5	392149
+1.6.2.4	0.0033	NADPH	kidney	Sus scrofa	5	288579
+1.6.2.4	0.0036	NADPH		Sus scrofa	5	288545
+1.6.2.4	0.0046	NADPH		Sus scrofa	5	288576
+1.6.2.4	0.0047	NADPH	spleen	Sus scrofa	5	288579
+1.6.2.4	0.022	NADPH		Sus scrofa	5	288555
+1.6.3.1	0.01	NADPH	pH 7.4, 30&deg;C, 1.5 mM Ca2+	Sus scrofa	5	636493
+1.6.3.1	0.015	NADPH	pH 7.2, 30&deg;C, 1.5 mM Ca2+	Sus scrofa	5	636498
+1.6.3.1	0.023	NADPH	pH 7, 37&deg;C, 1.1 mM Ca2+	Sus scrofa	5	636496
+1.6.5.10	0.046	NADPH		Sus scrofa	5	392826
+1.8.1.7	0.021	NADPH		Sus scrofa	5	394721
+1.14.13.8	0.028	NADPH	with dimethylaniline	Sus scrofa	5	348505
+1.14.13.8	0.05	NADPH	with 1-methyl-4-phenyl-1,2,3,6-tetrahydropyridine	Sus scrofa	5	348505
+1.18.1.2	0.00094	NADPH		Sus scrofa	5	285507

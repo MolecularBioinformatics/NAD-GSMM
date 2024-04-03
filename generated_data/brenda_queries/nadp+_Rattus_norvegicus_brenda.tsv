@@ -1,0 +1,58 @@
+1.1.1.10	0.00067	NADP+	pH 7.0, 25&deg;C, mutant S136A	Rattus norvegicus	10	655222
+1.1.1.10	0.0013	NADP+	pH 7.0, 25&deg;C, mutant Y149F	Rattus norvegicus	10	655222
+1.1.1.10	0.003	NADP+	pH 7.0, 25&deg;C, wild-type enzyme	Rattus norvegicus	10	655222
+1.1.1.10	0.003	NADP+	pH 7.0, 25&deg;C	Rattus norvegicus	10	656049
+1.1.1.10	0.117	NADP+	pH 7.0, 25&deg;C, mutant K153M	Rattus norvegicus	10	655222
+1.1.1.31	0.24	NADP+	mutant D33R	Rattus norvegicus	10	286552
+1.1.1.31	0.24	NADP+	mutant enzyme D33R, pH and temperature not specified in the publication	Rattus norvegicus	10	286552
+1.1.1.31	0.96	NADP+	wild type	Rattus norvegicus	10	286552
+1.1.1.31	0.96	NADP+	wild type enzyme, pH and temperature not specified in the publication	Rattus norvegicus	10	286552
+1.1.1.35	11	NADP+		Rattus norvegicus	10	286601
+1.1.1.42	0.046	NADP+	enzyme from ischemic heart, pH 7.8, 25&deg;C	Rattus norvegicus	10	670236
+1.1.1.42	0.046	NADP+	enzyme from normoxic heart, pH 7.8, 25&deg;C	Rattus norvegicus	10	670236
+1.1.1.42	0.046	NADP+	pH 7.8, 25&deg;C, enzyme from ischemic heart	Rattus norvegicus	10	670236
+1.1.1.42	0.046	NADP+	pH 7.8, 25&deg;C, enzyme from normoxic heart	Rattus norvegicus	10	670236
+1.1.1.44	0.013	NADP+		Rattus norvegicus	10	286827
+1.1.1.44	0.013	NADP+		Rattus norvegicus	10	286846
+1.1.1.44	0.053	NADP+		Rattus norvegicus	10	670806
+1.1.1.44	0.258	NADP+		Rattus norvegicus	10	286895
+1.1.1.49	0.0003	NADP+	nephridic enzyme	Rattus norvegicus	10	287010
+1.1.1.49	0.001	NADP+	hepatic enzyme	Rattus norvegicus	10	287010
+1.1.1.49	0.017	NADP+	0.0025 mM glucose 6-phosphate	Rattus norvegicus	10	287014
+1.1.1.49	0.023	NADP+	pH 7.4, 37&deg;C	Rattus norvegicus	10	657284
+1.1.1.50	0.0016	NADP+		Rattus norvegicus	10	389544
+1.1.1.51	0.0082	NADP+	testosterone as substrate, 17beta-hydroxysteroid dehydrogenase activity	Rattus norvegicus	10	287073
+1.1.1.51	0.009	NADP+	3beta-hydroxy-5alpha-androstan-17-one as substrate, 3beta-hydroxysteroid dehydrogenase activity	Rattus norvegicus	10	287073
+1.1.1.72	0.0125	NADP+		Rattus norvegicus	10	287287
+1.1.1.117	0.000061	NADP+		Rattus norvegicus	10	389443
+1.1.1.145	13	NADP+		Rattus norvegicus	10	389377
+1.1.1.146	0.00427	NADP+	temperature not specified in the publication, pH 9	Rattus norvegicus	10	285958
+1.1.1.149	0.0007	NADP+	spectrophotometric, pH 6.8	Rattus norvegicus	10	285983
+1.1.1.149	0.00087	NADP+	HSD2	Rattus norvegicus	10	285978
+1.1.1.149	0.00088	NADP+	fluorometric, pH 7.8	Rattus norvegicus	10	285983
+1.1.1.149	0.00105	NADP+	HSD1	Rattus norvegicus	10	285978
+1.1.1.149	0.008	NADP+	+/-0.0011	Rattus norvegicus	10	286001
+1.1.1.149	0.0095	NADP+	37&deg;C, 7.5 min	Rattus norvegicus	10	286000
+1.1.1.149	0.025	NADP+	0.01-0.1 mM, 6 min	Rattus norvegicus	10	285984
+1.1.1.213	0.0052	NADP+		Rattus norvegicus	10	347990
+1.1.1.213	0.04	NADP+		Rattus norvegicus	10	347984
+1.2.1.3	0.27	NADP+	reaction with benzaldehyde, enzyme II from microsomes	Rattus norvegicus	10	348791
+1.2.1.3	0.44	NADP+	reaction with benzaldehyde, enzyme II from mitochondria	Rattus norvegicus	10	348791
+1.2.1.3	0.44	NADP+	reaction with benzaldehyde, enzyme I from microsomes	Rattus norvegicus	10	348791
+1.2.1.3	0.91	NADP+	reaction with benzaldehyde, enzyme I from mitochondria	Rattus norvegicus	10	348791
+1.2.1.5	0.35	NADP+	reaction with benzaldehyde	Rattus norvegicus	10	348790
+1.2.1.5	0.42	NADP+		Rattus norvegicus	10	348787
+1.2.1.5	240	NADP+	enzyme from HTC hepatoma cells, reaction with benzaldehyde	Rattus norvegicus	10	348787
+1.2.1.5	260	NADP+	enzyme from cornea, reaction with benzaldehyde	Rattus norvegicus	10	348787
+1.2.1.41	0.19	NADP+		Rattus norvegicus	10	390302
+1.2.1.47	1.63	NADP+		Rattus norvegicus	10	288255
+1.2.1.49	0.8	NADP+		Rattus norvegicus	10	288259
+1.3.1.2	0.0029	NADP+	in presence of dihydrouracil	Rattus norvegicus	10	349212
+1.3.1.2	0.0038	NADP+	in presence of dihydrothymine	Rattus norvegicus	10	349212
+1.4.1.3	0.443	NADP+	enzyme from rough ER	Rattus norvegicus	10	391634
+1.4.1.3	0.637	NADP+	mitochondrial enzyme	Rattus norvegicus	10	391634
+1.5.1.6	0.00086	NADP+	with 10-formyl-5,8-dideazafolate as substrate	Rattus norvegicus	10	392351
+1.5.1.6	0.00088	NADP+	with 10-formyltetrahydrofolate as substrate	Rattus norvegicus	10	392351
+1.5.1.6	0.00092	NADP+	at pH 7	Rattus norvegicus	10	392341
+1.5.1.6	0.001	NADP+		Rattus norvegicus	10	392336
+1.5.1.6	0.001	NADP+		Rattus norvegicus	10	392342

@@ -1,0 +1,18 @@
+1.1.1.10	0.99	NAD+	pH 7.0, 25&deg;C	Mus musculus	7	656049
+1.1.1.103	1.67	NAD+	wild type enzyme, at pH 7.5 and 37&deg;C	Mus musculus	7	738933
+1.1.1.103	2.06	NAD+	mutant enzyme R180K, at pH 7.5 and 37&deg;C	Mus musculus	7	738933
+1.1.1.205	0.025	NAD+		Mus musculus	7	347914
+1.1.1.209	0.26	NAD+		Mus musculus	7	286234
+1.1.1.232	0.06	NAD+		Mus musculus	7	286345
+1.2.1.5	0.06	NAD+		Mus musculus	7	348780
+1.2.1.24	0.227	NAD+	in 100 mM Na2HPO4/NaH2PO4 buffer, 1 mM dithiothreitol, at pH 8.5 and 22&deg;C	Mus musculus	7	700082
+1.2.1.24	0.227	NAD+	pH and temperature not specified in the publication	Mus musculus	7	710898
+1.2.1.36	0.0431	NAD+	F471L mutant	Mus musculus	7	671851
+1.2.1.36	0.0528	NAD+	wild-type	Mus musculus	7	671851
+1.2.1.36	0.067	NAD+	recombinant wild-type enzyme, pH 8.5, 25&deg;C	Mus musculus	7	656252
+1.2.1.36	0.39	NAD+	recombinant mutant L459F/N460G, pH 8.5, 25&deg;C	Mus musculus	7	656252
+1.5.1.5	0.147	NAD+	pH 8.0, 30&deg;C	Mus musculus	7	742856
+1.5.1.15	0.111	NAD+		Mus musculus	7	392078
+1.5.1.15	0.111	NAD+		Mus musculus	7	392091
+2.4.2.31	0.118	NAD+	reaction with 20 mM agmatine, enzyme Yac-1	Mus musculus	7	638124
+2.4.2.31	0.142	NAD+	reaction with 20 mM agmatine, enzyme Yac-2	Mus musculus	7	638124
