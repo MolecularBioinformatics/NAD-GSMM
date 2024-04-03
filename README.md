@@ -18,7 +18,7 @@ Of the two packages provided, `cofactors` provides the relevant modeling code, w
 The proteomics data from mitoPARP cell lines and parental HEK293 used are included under `external_data`,
 the raw data contained in `proteomics.xlsx`, the processed data integrated into the models are in `293parp_abundance_ratios_mapped.csv`.
 `uniprot_acc_to_ensemble_gene.tsv` contains mappings to convert between the identifiers in the data and the model. 
-They were downloaded from taken from [david.ncifcrf.gov](david.ncifcrf.gov).
+They were downloaded from taken from [david.ncifcrf.gov](https://david.ncifcrf.gov/).
 All the steps performed can be followed in `code_modeling/extract_proteomics.ipynb`
 
 ### Extracting Km
