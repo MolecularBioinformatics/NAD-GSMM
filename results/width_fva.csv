@@ -1,0 +1,475 @@
+,293,mitoparp,293 + high NAD,mitoparp + high NAD,nad,nadp,subsystem
+ACOAHi,0.0,0.01,0.0,0.01,False,False,Acetate production
+ALCD2if,0.0,0.0,0.0,0.0,True,False,Alcohol metabolism
+ALCD2yf,0.0,0.0,0.0,0.0,False,True,Alcohol metabolism
+ALDD2x,0.0,0.0,0.0,0.0,True,False,Alcohol metabolism
+ALDD2xm,0.0,0.0,0.0,0.0,True,False,Alcohol metabolism
+ACALDtm,0.0,0.0,0.0,0.0,False,False,Alcohol metabolism
+ACSm,0.1644999999999977,0.0,0.1645000000000003,0.0,False,False,Alcohol metabolism
+PTRCAT1m_MitoCore,0.1644999999999977,0.0,0.164500000000007,0.0,False,False,Arginine degradation
+AGMTm,0.1644999999999977,0.0,0.164500000000007,0.0,False,False,Arginine degradation
+ARGDCm,0.1644999999999976,0.0,0.164500000000007,0.0,False,False,Arginine degradation
+4aabutn_MitoCore,0.1644999999999976,0.0,0.164500000000007,0.0,False,False,Arginine degradation
+NABTNOm,0.1644999999999976,0.0,0.164500000000007,0.0,True,False,Arginine degradation
+APRTO2m_MitoCore,0.1644999999999977,0.0,0.164500000000007,0.0,False,False,Arginine degradation
+r0127,6.734949896135967,6.735478988242457,6.734949896135973,6.735478988242461,False,False,Asparagine degradation
+ASNS1,6.724949896135967,6.7254789882424575,6.724949896135973,6.7254789882424575,False,False,Asparagine synthesis
+APAT2rm,0.0,0.0,0.0,0.0,False,False,Beta-alanine degradation
+MMSAD3m,0.0,0.0,0.0,0.0,True,False,Beta-alanine degradation
+MMSAD3m2_MitoCore,0.0,0.0,0.0,0.0,False,True,Beta-alanine degradation
+ASP1DC,0.0,0.0,0.0,0.0,False,False,Beta-alanine synthesis
+MERCPLACt_MitoCore,0.005999999999994,0.0060000000001071,0.0059999999999968,0.006,False,False,Boundary Conditions - Biomarkers
+ACt2r,0.0,0.01,0.0,0.01,False,False,Boundary Conditions - Biomarkers
+AKGt_MitoCore,1.9180000000000008,1.918000000000002,1.918000000000006,1.917999999999996,False,False,Boundary Conditions - Biomarkers
+SUMt_MitoCore,1.9179999999999915,1.917999999999893,1.9180000000001056,1.917999999999992,False,False,Boundary Conditions - Biomarkers
+UREAt,0.3289999999999931,0.3290000000001082,0.3289999999999962,0.3289999999999927,False,False,Boundary Conditions - Biomarkers
+ICITt_MitoCore,1.9180000000000024,1.9180000000000108,1.917999999999984,1.9179999999999944,False,False,Boundary Conditions - Biomarkers
+MAL_Lte,1.918,1.9179999999999933,1.9180000000002528,1.918,False,False,Boundary Conditions - Biomarkers
+r0817,0.1609999999999768,0.1609999999999977,0.1610000000000516,0.1609999999999999,False,False,Boundary Conditions - Biomarkers
+ARGSUCt_MitoCore,0.1096666666666651,0.1096666666667012,0.1096666666666651,0.1096666666666666,False,False,Boundary Conditions - Biomarkers
+OAAt_MitoCore,1.917999999999992,1.9179999999999453,1.917999999999649,1.917999999999996,False,False,Boundary Conditions - Biomarkers
+r1088,1.9180000000000004,1.9180000000000967,1.917999999999984,1.9179999999999813,False,False,Boundary Conditions - Biomarkers
+FUMt_MitoCore,1.9180000000000024,1.9180000000000008,1.9179999999998865,1.9179999999999944,False,False,Boundary Conditions - Biomarkers
+r1512,0.0,0.0,0.0,0.0,False,False,Boundary Conditions - Biomarkers
+NH4t3r,0.7039999999999821,0.7039999999999954,0.704,0.7040000000000001,False,False,Boundary Conditions - Biomarkers
+2HBt2,0.0169999999999812,0.0170000000000997,0.0169999999999853,0.017,False,False,Boundary Conditions - Biomarkers
+CHOLtu,3.086151688188515,0.0,3.086151688188504,0.0,False,False,Boundary Conditions - Biomarkers
+PPAt,0.0319999999999875,1.950000000000044,0.0319999999999812,1.9499999999999995,False,False,Boundary Conditions - Biomarkers
+PEt,2.914698816622493,0.0,2.9146988166224905,0.0,False,False,Boundary Conditions - Lipids
+PCHOLHSTDe,6.515209119509092,0.0,6.51520911950883,0.0,False,False,Boundary Conditions - Lipids
+PSt3,2.5717930734904333,0.0,2.5717930734904155,0.0,False,False,Boundary Conditions - Lipids
+NADHt_MitoCore,0.0,0.0,0.0,0.0,True,False,Boundary Conditions - Misc
+NADHtm_MitoCore,0.0,0.0,0.0,0.0,True,False,Boundary Conditions - Misc
+NOt,0.3219999999999954,0.3220000000001092,0.322,0.3219999999999987,False,False,Boundary Conditions - Misc
+NADtm_MitoCore,0.0,0.0,0.0,0.0,True,False,Boundary Conditions - Misc
+SO3t_MitoCore,0.0059999999999954,0.005999999999991,0.006,0.006,False,False,Boundary Conditions - Misc
+TSULt_MitoCore,0.0059999999999954,0.0060000000001095,0.0059999999999954,0.006,False,False,Boundary Conditions - Misc
+Hmt_MitoCore,421.5023772209012,418.880096867868,421.50237722089634,418.88009686786626,False,False,Boundary Conditions - Misc
+Hct_MitoCore,420.97271934820736,419.14468045761265,420.9727193482068,419.14468045761237,False,False,Boundary Conditions - Misc
+H2Ot,19.649519525368135,12.859868713379043,19.649519525368074,12.859868713378646,False,False,Boundary Conditions - Misc
+r0899,0.0,0.0,0.0,0.0,False,False,Boundary Conditions - Misc
+r0940,0.0059999999999982,0.0059999999999954,0.006,0.006,False,False,Boundary Conditions - Misc
+COt,0.0,0.0,0.0,0.0,False,False,Boundary Conditions - Misc
+CYANt,0.0059999999999954,0.0059999999999954,0.006,0.006,False,False,Boundary Conditions - Misc
+r1423,0.0,0.0,0.0,0.0,False,False,Boundary Conditions - Misc
+FORt_MitoCore,0.0,0.0,0.0,0.0,False,False,Boundary Conditions - Misc
+FOLt_MitoCore,0.0,0.0,0.0,0.0,False,False,Boundary Conditions - Misc
+FE2t,0.0,0.0,0.0,0.0,False,False,Boundary Conditions - Misc
+TCYNTt,0.0059999999999954,0.0059999999999919,0.006,0.006,False,False,Boundary Conditions - Misc
+NADt_MitoCore,0.0,0.0,0.0,0.0,True,False,Boundary Conditions - Misc
+BUTt2r,0.006,0.006,0.006,0.006,False,False,Boundary conditions - alternative fuels
+GLYCt,1.1157499999999922,0.01,1.1157499999999918,0.01,False,False,Boundary conditions - alternative fuels
+ETOHt,0.0,0.0,0.0,0.0,False,False,Boundary conditions - alternative fuels
+r0942b_MitoCore,0.0,0.0,0.0,0.0,False,False,Boundary conditions - alternative fuels
+r0942,0.0,0.0,0.0,0.0,False,False,Boundary conditions - alternative fuels
+HDCAtr,0.7158274592643006,0.7207607444137041,0.7158274592643401,0.7207607444136891,False,False,Boundary conditions - core
+BHBt,0.048,0.048,0.048,0.048,False,False,Boundary conditions - core
+Biomass_MitoCore,20.174849688408088,20.17643696472716,20.174849688407832,20.17643696472726,False,False,Boundary conditions - core
+ACACt2,0.114,0.114,0.114,0.114,False,False,Boundary conditions - core
+HDCAtm_MitoCore,0.7032446396410782,0.7080912074727752,0.7032446396410781,0.7080912074727533,False,False,Boundary conditions - core
+L_LACt2r,2.6305000000000005,2.662500000000061,2.6304999999999996,2.6624999999999996,False,False,Boundary conditions - core
+HCO3t_MitoCore,1.71,1.71,1.71,1.71,False,False,Boundary conditions - core
+GLCt1r,0.9,0.9,0.9,0.9,False,False,Boundary conditions - core
+O2t,4.151257646102241,4.151584250417045,4.151257646102245,4.15158425041699,False,False,Boundary conditions - core
+CO2t,8.633854755632624,8.660862187611706,8.633854755633047,8.660862187611798,False,False,Boundary conditions - core
+LYStiDF,0.03,0.03,0.03,0.03,False,False,Boundary conditions - essential amino acids
+HIStiDF,0.01,0.01,0.01,0.01,False,False,Boundary conditions - essential amino acids
+ILEtec,0.004,0.004,0.004,0.004,False,False,Boundary conditions - essential amino acids
+LEUtec,0.016,0.016,0.016,0.016,False,False,Boundary conditions - essential amino acids
+TRPt,0.0001860465116279,0.0001860465116279,0.0001860465116279,0.0001860465116279,False,False,Boundary conditions - essential amino acids
+VALtec,0.011,0.011,0.011,0.011,False,False,Boundary conditions - essential amino acids
+r2534,0.012,0.012,0.012,0.012,False,False,Boundary conditions - essential amino acids
+PHEtec,0.012,0.012,0.012,0.012,False,False,Boundary conditions - essential amino acids
+METtec,0.005,0.005,0.005,0.005,False,False,Boundary conditions - essential amino acids
+TYRt,0.023,0.023,0.023,0.023,False,False,Boundary conditions - nonessential amino acids
+ALAt2r,0.3219999999999954,0.3220000000001092,0.3219999999999931,0.3219999999999999,False,False,Boundary conditions - nonessential amino acids
+GLYt2r,0.6870000000000007,0.6869999999999999,0.687,0.687,False,False,Boundary conditions - nonessential amino acids
+ARGtiDF,0.10966666666666891,0.10966666666670301,0.1096666666666644,0.1096666666666666,False,False,Boundary conditions - nonessential amino acids
+ASPte,0.3219999999999944,0.32199999999999573,0.322,0.32199999999999973,False,False,Boundary conditions - nonessential amino acids
+PROt2r,0.3219999999999955,0.322000000000108,0.3219999999999955,0.3219999999999999,False,False,Boundary conditions - nonessential amino acids
+r2525,0.3219999999999954,0.3220000000001068,0.3219999999999929,0.3219999999999992,False,False,Boundary conditions - nonessential amino acids
+CYStec,0.0059999999999959,0.0060000000001085,0.0059999999999954,0.006,False,False,Boundary conditions - nonessential amino acids
+r2526,0.3435,0.3434999999999977,0.3434999999999977,0.3435,False,False,Boundary conditions - nonessential amino acids
+r2532,0.3219999999999954,0.3220000000001091,0.322000000000006,0.322,False,False,Boundary conditions - nonessential amino acids
+GLUt_MitoCore,0.3219999999999938,0.3220000000001068,0.3219999999999954,0.3219999999999992,False,False,Boundary conditions - nonessential amino acids
+FACOAL40im,0.006,0.006,0.006,0.006,False,False,Butanoate metabolism
+PCHOLPm_hs,3.0861516881885227,0.0,3.0861516881885045,0.0,False,False,Cardiolipin synthesis
+GLYC3Ptm,2.9823588154770544,0.0,2.98235881547706,0.0,False,False,Cardiolipin synthesis
+CYTK1m,3.086151688188527,0.0,3.0861516881885067,0.0,False,False,Cardiolipin synthesis
+GLYK,1.501179407738529,0.01,1.5011794077385312,0.01,False,False,Cardiolipin synthesis
+GPAMm_hsB_MitoCore,0.0,0.0,0.0,0.0,False,False,Cardiolipin synthesis
+PGPPTm,2.982358815477058,0.0,2.9823588154770624,0.0,False,False,Cardiolipin synthesis
+NDPK3m,3.0861516881885227,0.0,3.0861516881885045,0.0,False,False,Cardiolipin synthesis
+CLPN_MitoCore,1.5011794077385272,0.0,1.5011794077385303,0.0,False,False,Cardiolipin synthesis
+CLS_hsm_MitoCore,1.5530758440942636,0.0,1.5530758440942534,0.0,False,False,Cardiolipin synthesis
+PGPP_hsm_MitoCore,2.9823588154770544,0.0,2.98235881547706,0.0,False,False,Cardiolipin synthesis
+CDSm,3.086151688188527,0.0,3.0861516881885067,0.0,False,False,Cardiolipin synthesis
+PPA,7.0904235225891235,7.093148817945227,7.0904235225890835,7.093148817945209,False,False,Carnitine shuttle
+FACOAL160i,0.7158274592643468,0.9650464586994187,0.7158274592641574,0.9650464586994194,False,False,Carnitine shuttle
+r2435,0.7158274592643468,0.965046458699419,0.7158274592643422,0.9650464586994187,False,False,Carnitine shuttle
+C160CPT2,0.7158274592643468,0.965046458699419,0.7158274592643422,0.965046458699419,False,False,Carnitine shuttle
+C160CPT1,0.7158274592643468,0.9650464586994187,0.7158274592643339,0.96504645869942,False,False,Carnitine shuttle
+PPAm,13.828142908235051,13.82923048645396,13.82814290823508,13.829230486453952,False,False,Carnitine shuttle
+OCBTm,0.3219999999999954,0.3219999999999956,0.32199999999998,0.322,False,False,Citrulline biosynthesis
+CBPSam,0.3219999999999954,0.3219999999999952,0.3219999999999803,0.322,False,False,Citrulline biosynthesis
+CKc,1922.4167360230208,1920.543977604273,1922.4167360230208,1920.543977604273,False,False,Creatine ATP buffer
+CK,1922.4167360230203,1920.543977604273,1922.4167360230203,1920.543977604273,False,False,Creatine ATP buffer
+3SPYRSP,0.0,0.0,0.0,0.0,False,False,Cysteine degradation I
+3SALATAi,0.0,0.0,0.0,0.0,False,False,Cysteine degradation I
+r0595B_MitoCore,0.006,0.006,0.006,0.006,False,False,Cysteine degradation II
+r0595m_MitoCore,0.006,0.006,0.006,0.006,False,False,Cysteine degradation II
+MCPSTm_MitoCore,0.006,0.006,0.006,0.006,False,False,Cysteine degradation II
+MCLOR,0.0059999999999967,0.0059999999999954,0.0059999999999954,0.006,True,False,Cysteine degradation II
+MCPST,0.006,0.006,0.006,0.006,False,False,Cysteine degradation II
+CYSTA,0.006,0.006,0.006,0.006,False,False,Cysteine degradation II
+CYSTAm,0.006,0.006,0.006,0.006,False,False,Cysteine degradation II
+r0193,0.006,0.006,0.006,0.006,False,False,Cysteine degradation III
+ME2,0.7539999999999996,1.5193333333333308,0.754,1.5193333333333343,False,True,Cytosolic misc
+ALATA_L,414.9172435950481,414.9498709416188,414.91724359504957,414.9498709416185,False,False,Cytosolic misc
+FUM,42.90980431159826,42.91303119202823,42.909804311598414,42.913031192028214,False,False,Cytosolic misc
+ADK1,7.090423522589086,7.093148817945223,7.090423522589005,7.093148817945213,False,False,Cytosolic misc
+NDPK1,5.952000000000196,4.0339999999999865,5.9520000000001785,4.033999999999996,False,False,Cytosolic misc
+CIV_MitoCore,4.176678480118378,4.1769915778042215,4.176678480118309,4.17699157780422,False,False,Electron transport chain
+CV_MitoCore,27.730693233046978,27.697407867398226,27.730693233047077,27.69740786739831,False,False,Electron transport chain
+CII_MitoCore,3.3927276186200523,3.0427076866411853,3.3927276186200666,3.0427076866411835,False,False,Electron transport chain
+CIII_MitoCore,8.353356960236848,8.353983155608447,8.35335696023661,8.35398315560844,False,False,Electron transport chain
+CI_MitoCore,19.331665408997374,19.311192908213663,19.331665408997463,19.31119290821365,True,False,Electron transport chain
+ACACT1rm,0.8597140130110625,0.9125567184502785,0.8597140130110612,0.9125567184502805,False,False,FA and ketone body metabolism / Ketogenesis
+r0730,0.7158274592643578,0.7751520487615307,0.7158274592643414,0.7751520487615307,True,False,FA metabolism
+r0731,0.7158274592643433,0.7751520487615307,0.7158274592643412,0.7751520487615303,False,False,FA metabolism
+r0732,0.7158274592643578,0.7751520487615307,0.7158274592643414,0.7751520487615307,False,False,FA metabolism
+r0733,0.7158274592643573,0.7751520487615307,0.7158274592643414,0.7751520487615311,True,False,FA metabolism
+HACD1m,0.7408209294144061,0.7940585623898546,0.7408209294144064,0.7940585623898575,True,False,FA metabolism
+ACADLC14_MitoCore,16.640760533728706,9.613760433356504,16.640760533728706,9.613760433356502,False,False,FA metabolism
+r0726,0.7158274592643573,0.775152048761531,0.7158274592643414,0.7751520487615307,True,False,FA metabolism
+r0722,0.7158274592643573,0.7751520487615295,0.7158274592643417,0.7751520487615309,True,False,FA metabolism
+r0660,0.7158274592643399,0.7751520487615318,0.7158274592643411,0.7751520487615307,False,False,FA metabolism
+MTPC16_MitoCore,0.7158274592643468,0.7751520487615307,0.7158274592643422,0.7751520487615307,True,False,FA metabolism
+MTPC14_MitoCore,0.7158274592643468,0.7751520487615304,0.7158274592643422,0.7751520487615307,True,False,FA metabolism
+r0634,0.7158274592643412,0.7751520487615318,0.7158274592643414,0.7751520487615309,False,False,FA metabolism
+r0287,0.7158274592643573,0.7751520487615307,0.7158274592643414,0.7751520487615311,False,False,FA metabolism
+r0728,0.7158274592643413,0.775152048761534,0.7158274592643419,0.7751520487615313,False,False,FA metabolism
+r0724,0.7158274592643372,0.775152048761534,0.7158274592643408,0.7751520487615311,False,False,FA metabolism
+r0734,0.7158274592643573,0.7751520487615307,0.7158274592643414,0.7751520487615311,False,False,FA metabolism
+r1446,0.7205409366029276,0.7785611782740144,0.7205409366029123,0.7785611782740154,False,False,FA metabolism
+r1451,16.6407605337287,9.613760433356509,16.640760533728702,9.613760433356502,False,False,FA metabolism
+r1447,16.640760533728706,9.613760433356502,16.640760533728717,9.613760433356502,False,False,FA metabolism
+r1448,16.6407605337287,9.613760433356509,16.640760533728717,9.613760433356502,False,False,FA metabolism
+ACADLC16_MitoCore,16.6407605337287,9.613760433356498,16.6407605337287,9.613760433356502,False,False,FA metabolism
+r1450,16.640760533728706,9.613760433356509,16.640760533728706,9.613760433356504,False,False,FA metabolism
+ECOAH1m,0.7408209294144061,0.7940585623898554,0.7408209294144064,0.7940585623898575,False,False,FA metabolism
+r0761,0.0,0.2442857142857142,0.0,0.2442857142857143,False,True,FA synthesis - cytosolic
+r0701,0.0,0.2442857142857137,0.0,0.2442857142857143,False,True,FA synthesis - cytosolic
+r0678,0.0,0.2442857142857143,0.0,0.2442857142857143,False,False,FA synthesis - cytosolic
+r0681,0.0,0.2442857142857148,0.0,0.2442857142857143,False,False,FA synthesis - cytosolic
+r0682,0.0,0.2442857142857142,0.0,0.2442857142857142,False,True,FA synthesis - cytosolic
+r0691,0.0,0.2442857142857137,0.0,0.2442857142857143,False,True,FA synthesis - cytosolic
+r0692,0.0,0.2442857142857148,0.0,0.2442857142857142,False,True,FA synthesis - cytosolic
+r0693,0.0,0.2442857142857142,0.0,0.2442857142857142,False,False,FA synthesis - cytosolic
+r0762,0.0,0.2442857142857142,0.0,0.2442857142857142,False,False,FA synthesis - cytosolic
+r0694,0.0,0.2442857142857142,0.0,0.2442857142857142,False,True,FA synthesis - cytosolic
+r0695,0.0,0.2442857142857143,0.0,0.2442857142857143,False,False,FA synthesis - cytosolic
+r0702,0.0,0.2442857142857142,0.0,0.2442857142857141,False,False,FA synthesis - cytosolic
+r0713,0.0,0.2442857142857142,0.0,0.2442857142857141,False,False,FA synthesis - cytosolic
+r0696,0.0,0.2442857142857146,0.0,0.2442857142857143,False,True,FA synthesis - cytosolic
+r0712,0.0,0.2442857142857144,0.0,0.2442857142857143,False,True,FA synthesis - cytosolic
+ACOATA,0.0,0.2442857142857143,0.0,0.2442857142857143,False,False,FA synthesis - cytosolic
+r0760,0.0,0.2442857142857143,0.0,0.2442857142857142,False,False,FA synthesis - cytosolic
+MCOATA,0.0,1.71,0.0,1.71,False,False,FA synthesis - cytosolic
+ACCOAC,0.0,1.71,0.0,1.71,False,False,FA synthesis - cytosolic
+r0771,0.0,0.2442857142857143,0.0,0.2442857142857142,False,True,FA synthesis - cytosolic
+r0770,0.0,0.2442857142857142,0.0,0.2442857142857143,False,False,FA synthesis - cytosolic
+r0772,0.0,0.2442857142857142,0.0,0.2442857142857142,False,False,FA synthesis - cytosolic
+FA160ACPH,0.0,0.2442857142857142,0.0,0.2442857142857143,False,False,FA synthesis - cytosolic
+r0769,0.0,0.2442857142857137,0.0,0.2442857142857142,False,True,FA synthesis - cytosolic
+r0768,0.0,0.2442857142857142,0.0,0.2442857142857142,False,False,FA synthesis - cytosolic
+r0763,0.0,0.2442857142857137,0.0,0.2442857142857142,False,True,FA synthesis - cytosolic
+r0697,0.0,0.2442857142857142,0.0,0.2442857142857143,False,False,FA synthesis - cytosolic
+r0764,0.0,0.2442857142857142,0.0,0.2442857142857141,False,False,FA synthesis - cytosolic
+r0765,0.0,0.2442857142857142,0.0,0.2442857142857142,False,True,FA synthesis - cytosolic
+r0773,0.0,0.2442857142857144,0.0,0.244285714285714,False,True,FA synthesis - cytosolic
+r0766,0.0,0.2442857142857142,0.0,0.2442857142857142,False,False,FA synthesis - cytosolic
+r0767,0.0,0.2442857142857137,0.0,0.2442857142857143,False,True,FA synthesis - cytosolic
+r0638,16.450628726638243,9.141912732421057,16.45062872663829,9.14191273242106,False,True,Fatty acid elongation in mitochondria
+MECR14C_MitoCore,16.450628726638264,9.141912732421062,16.450628726638275,9.141912732421062,False,True,Fatty acid elongation in mitochondria
+MECR16C_MitoCore,16.450628726638264,9.141912732421057,16.45062872663826,9.14191273242106,False,True,Fatty acid elongation in mitochondria
+ACOT2_MitoCore,0.7032446396410771,0.7080912074727681,0.7032446396410779,0.708091207472768,False,False,Fatty acid elongation in mitochondria
+r0633,16.450628726638268,9.141912732421057,16.450628726638275,9.14191273242106,False,True,Fatty acid elongation in mitochondria
+r0735,16.450628726638243,9.141912732421057,16.450628726638268,9.14191273242106,False,True,Fatty acid elongation in mitochondria
+r0791,16.450628726638264,9.141912732421062,16.450628726638275,9.14191273242106,False,True,Fatty acid elongation in mitochondria
+FOLR2,0.0,0.0,0.0,0.0,False,True,Folate cytosolic
+DHFR,0.0,0.0,0.0,0.0,False,True,Folate cytosolic
+FTCD,0.01,0.01,0.01,0.01,False,False,Folate cytosolic
+MTHFC,0.2656666666666666,0.6869999999999995,0.2656666666666543,0.687,False,False,Folate cytosolic
+FTHFDH,0.2656666666666666,0.6869999999999995,0.2656666666666543,0.687,False,True,Folate cytosolic
+FTHFL,0.0,0.0,0.0,0.0,False,False,Folate cytosolic
+MTHFD,0.2656666666666666,0.6869999999999995,0.2656666666666543,0.687,False,True,Folate cytosolic
+MTHFCm,0.0,0.0,0.0,0.0,False,False,Folate mitochondrial
+r0514,0.0,0.0,0.0,0.0,False,True,Folate mitochondrial
+MTHFDm,0.0,0.0,0.0,0.0,False,True,Folate mitochondrial
+MTHFD2m,0.0,0.0,0.0,0.0,True,False,Folate mitochondrial
+r0226,0.0,0.0,0.0,0.0,False,True,Folate mitochondrial
+FTHFDHm_MitoCore,0.0,0.0,0.0,0.0,False,True,Folate mitochondrial
+FTHFLm,0.0,0.0,0.0,0.0,False,False,Folate mitochondrial
+GLUDC,7.452565217391305,0.0,7.452565217391304,0.0,False,False,GABA shunt
+r0178,7.452565217391305,0.0,7.452565217391304,0.0,True,False,GABA shunt
+ABTArm,7.452565217391305,0.0,7.452565217391304,0.0,False,False,GABA shunt
+4ABUTtm,7.452565217391305,0.0,7.452565217391304,0.0,False,False,GABA shunt - transport
+G6PPer,0.0,0.0,0.0,0.0,False,False,Gluconeogenesis
+PEPCK,1.918,1.917999999999999,1.9180000000000013,1.917999999999996,False,False,Gluconeogenesis
+FBP,0.0,0.0,0.0,0.0,False,False,Gluconeogenesis
+GLUDxm,0.3219999999999919,0.3219999999999959,0.3220000000000113,0.322,True,False,Glutamate degradation/synthesis
+GLUDym,0.3219999999999967,0.3219999999999954,0.322,0.322,False,True,Glutamate degradation/synthesis
+GLUDxi,0.3219999999999957,0.3219999999999954,0.3220000000000198,0.3220000000000005,True,False,Glutamate degradation/synthesis - cytosolic
+GLUDy,0.2513333333333341,0.3219999999999954,0.2513333333333447,0.322,False,True,Glutamate degradation/synthesis - cytosolic
+GLUNm,25.9305152246908,25.932554433851163,25.93051522469069,25.93255443385115,False,False,Glutamine degradation
+GLUN_MitoCore,20.17484968840791,20.176436964727387,20.17484968840792,20.176436964727376,False,False,Glutamine degradation - cytosolic
+GLNS,25.930515224690712,25.93255443385116,25.93051522469069,25.93255443385113,False,False,Glutamine synthesis
+r0129,10.087424844203964,10.088218482363692,10.08742484420396,10.088218482363686,False,False,Glutathione degradation
+AMPTASECG,10.087424844203966,10.088218482363692,10.08742484420396,10.088218482363686,False,False,Glutathione degradation
+GTHS,10.087424844203966,10.088218482363692,10.08742484420396,10.088218482363686,False,False,Glutathione synthesis
+GLUCYS,10.087424844203966,10.088218482363692,10.08742484420396,10.088218482363686,False,False,Glutathione synthesis
+G3PD1,4.442999999999994,4.442999999999995,4.443,4.443,True,False,Glycerol phosphate shuttle
+r0205,4.443,4.442999999999996,4.443,4.443,False,False,Glycerol phosphate shuttle
+GCCcm,0.4763333333333264,0.6870000000000016,0.4763333333333335,0.6869999999999998,True,False,Glycine cleavage system (GCS)
+GCCbim,0.4763333333333264,0.6870000000000016,0.4763333333333273,0.6869999999999998,False,False,Glycine cleavage system (GCS)
+GCCam,0.4763333333333264,0.6870000000000016,0.4763333333333277,0.6869999999999998,False,False,Glycine cleavage system (GCS)
+GLYOXm,0.0,0.0,0.0,0.0,False,False,Glycine degradation
+LDH_Dm_MitoCore,0.0,0.0,0.0,0.0,True,False,Glycine degradation
+LGTHLm_MitoCore,0.0,0.0,0.0,0.0,False,False,Glycine degradation
+AOBUTDsm,0.0,0.0,0.0,0.0,False,False,Glycine degradation
+AACTOORm_MitoCore,0.0,0.0,0.0,0.0,False,False,Glycine degradation
+HEX1,0.9,0.9,0.9,0.9,False,False,Glycolysis
+PFK,0.9,0.9,0.9,0.9,False,False,Glycolysis
+r0122,3.7279999999999935,3.7279999999999993,3.727999999999999,3.7279999999999984,False,False,Glycolysis
+ENO,2.952499999999995,2.1319999999999957,2.9524999999999744,2.132,False,False,Glycolysis/gluconeogenesis
+LDH_L,2.630499999999989,2.662499999999995,2.630499999999998,2.6624999999999996,True,False,Glycolysis/gluconeogenesis
+PYK,3.7279999999999935,3.727999999999999,3.728,3.7279999999999966,False,False,Glycolysis/gluconeogenesis
+PGM,2.9524999999999957,2.131999999999996,2.9524999999999744,2.132,False,False,Glycolysis/gluconeogenesis
+PGI,1.1513333333333255,0.9,1.1513333333333333,0.9,False,False,Glycolysis/gluconeogenesis
+GAPD,2.6304999999999983,1.8100000000000005,2.6305,1.81,True,False,Glycolysis/gluconeogenesis
+FBA,0.9,0.9,0.9,0.9,False,False,Glycolysis/gluconeogenesis
+TPI,2.261650107202592,0.91,2.2616501072025903,0.91,False,False,Glycolysis/gluconeogenesis
+PGK,2.6304999999999996,1.81,2.6304999999999876,1.81,False,False,Glycolysis/gluconeogenesis
+HOXG,0.0,0.0,0.0,0.0,False,True,Haem Degradation
+BILIRED2_MitoCore,0.0,0.0,0.0,0.0,True,False,Haem Degradation
+BILIRED,0.0,0.0,0.0,0.0,False,True,Haem Degradation
+PPPGOmB_MitoCore,0.0,0.0,0.0,0.0,False,False,Haem Synthesis
+CPPPGO,0.0,0.0,0.0,0.0,False,False,Haem Synthesis
+HMBS,0.0,0.0,0.0,0.0,False,False,Haem Synthesis
+5AOPtm,0.0,0.0,0.0,0.0,False,False,Haem Synthesis
+PHEMEtm,0.0,0.0,0.0,0.0,False,False,Haem Synthesis
+FCLTm,0.0,0.0,0.0,0.0,False,False,Haem Synthesis
+ALASm,0.0,0.0,0.0,0.0,False,False,Haem Synthesis
+UPPDC1,0.0,0.0,0.0,0.0,False,False,Haem Synthesis
+IZPN,0.01,0.01,0.01,0.01,False,False,Histidine degradation
+GluForTx,0.01,0.01,0.01,0.01,False,False,Histidine degradation
+HISD,0.01,0.01,0.01,0.01,False,False,Histidine degradation
+URCN,0.01,0.01,0.01,0.01,False,False,Histidine degradation
+ACACT10m,0.004,0.004,0.004,0.004,False,False,Isoleucine degradation
+ECOAH9m,0.004,0.004,0.004,0.004,False,False,Isoleucine degradation
+ILETAm,0.004,0.004,0.004,0.004,False,False,Isoleucine degradation
+OIVD3m,0.004,0.004,0.004,0.004,True,False,Isoleucine degradation
+HACD9m,0.004,0.004,0.004,0.004,True,False,Isoleucine degradation
+r0603,0.004,0.004,0.004,0.004,False,False,Isoleucine degradation
+HMGCOASim,0.0,0.0,0.0,0.0,False,False,Ketogenesis
+HMGLm,0.016,0.016,0.016,0.016,False,False,Ketogenesis / Leucine degradation
+OCOAT1m,0.201,0.2009999999999999,0.201,0.201,False,False,Ketone bodies - degradation
+BDHm,0.048,0.048,0.048,0.048,True,False,Ketone bodies - degradation
+MGCHrm,0.016,0.016,0.016,0.016,False,False,Leucine degradation
+LEUTAm,0.016,0.016,0.016,0.016,False,False,Leucine degradation
+r0655,0.016,0.016,0.016,0.016,False,False,Leucine degradation
+MCCCrm,0.016,0.016,0.016,0.016,False,False,Leucine degradation
+OIVD1m,0.016,0.016,0.016,0.016,True,False,Leucine degradation
+RE1254C,0.0,0.0,0.0,0.0,False,False,Lysine degradation (L-pipecolate pathway)
+r0594,0.0,0.0,0.0,0.0,True,False,Lysine degradation (L-pipecolate pathway)
+1PPDCRc_NADPH_MitoCore,0.0,0.0,0.0,0.0,False,True,Lysine degradation (L-pipecolate pathway)
+PPD2CSPc_MitoCore,0.0,0.0,0.0,0.0,False,False,Lysine degradation (L-pipecolate pathway)
+1PPDCRc_MitoCore,0.0,0.0,0.0,0.0,True,False,Lysine degradation (L-pipecolate pathway)
+LYSOXc_MitoCore,0.0,0.0,0.0,0.0,False,False,Lysine degradation (L-pipecolate pathway)
+LPCOXc_MitoCore,0.0,0.0,0.0,0.0,False,False,Lysine degradation (L-pipecolate pathway)
+r0450,0.03,0.03,0.03,0.03,False,False,Lysine degradation (saccharopine pathway)
+SACCD3m,0.03,0.03,0.03,0.03,False,True,Lysine degradation (saccharopine pathway)
+R03103_MitoCore,0.03,0.03,0.03,0.03,False,True,Lysine degradation (saccharopine pathway)
+AASAD3m,0.03,0.03,0.03,0.03,True,False,Lysine degradation (saccharopine pathway)
+r0525,0.03,0.03,0.03,0.03,True,False,Lysine degradation (saccharopine pathway)
+ASPTAm,4.443000000000065,4.442999999999995,4.4429999999997625,4.442999999999999,False,False,Malate aspartate shuttle
+MDH,4.76499999999999,4.764999999999995,4.765000000000022,4.765000000000001,True,False,Malate aspartate shuttle
+ASPTA,4.764999999999767,4.764999999999997,4.764999999999801,4.764999999999995,False,False,Malate aspartate shuttle
+ASPGLUmB_MitoCore,4.442999999999996,4.442999999999994,4.443000000000011,4.442999999999995,False,False,Malate aspartate shuttle
+AKGMALtm,417.8685193917187,421.19387094161874,417.8685193917192,421.1938709416184,False,False,Malate aspartate shuttle
+CYSTS,0.005,0.005,0.005,0.005,False,False,Methionine and Serine degradation
+CYSTGL,0.005,0.005,0.005,0.005,False,False,Methionine and Serine degradation
+ADNK1,0.005,0.005,0.005,0.005,False,False,Methionine degradation
+METAT,0.005,0.005,0.005,0.005,False,False,Methionine degradation
+METAT2_MitoCore,0.005,0.005,0.005,0.005,False,False,Methionine degradation
+AHC,0.005,0.005,0.005,0.005,False,False,Methionine degradation
+r0838B_MitoCore,26.594515224690642,26.572554433850968,26.594515224691055,26.57255443385097,False,False,Mitochondrial transport - diffusion / artificial
+GLYCtm,1.501179407738526,0.0,1.501179407738551,0.0,False,False,Mitochondrial transport - diffusion / artificial
+CREATtmdiffir,1922.4167360230203,1920.543977604273,1922.4167360230206,1920.543977604273,False,False,Mitochondrial transport - diffusion / artificial
+CYANtm,0.006,0.006,0.006,0.006,False,False,Mitochondrial transport - diffusion / artificial
+O2tm,4.1629262010723505,4.163252805387097,4.162926201072395,4.163252805387106,False,False,Mitochondrial transport - diffusion / artificial
+CO2tm,13.597694826411777,9.37976518351731,13.597694826412141,9.379765183517536,False,False,Mitochondrial transport - diffusion / artificial
+r0941,1.71,1.71,1.71,1.71,False,False,Mitochondrial transport - diffusion / artificial
+Biomasst_MitoCore,8.572643578301426,0.0093023255813953,8.572643578301525,0.0093023255813953,False,False,Mitochondrial transport - diffusion / artificial
+PCREATtmdiffirB_MitoCore,1922.4167360230203,1920.543977604273,1922.4167360230206,1920.543977604273,False,False,Mitochondrial transport - diffusion / artificial
+H2Otm,58.373951085525974,51.58715004470095,58.37395108552779,51.58715004470163,False,False,Mitochondrial transport - diffusion / artificial
+TCYNTtmB_MitoCore,0.006,0.006,0.006,0.006,False,False,Mitochondrial transport - diffusion / artificial
+PSFLIPm,2.571793073490402,0.0,2.5717930734904324,0.0,False,False,Mitochondrial transport - lipids
+PCFLOPm,6.515209119509094,0.0,6.515209119509096,0.0,False,False,Mitochondrial transport - lipids
+PEFLIPm,2.9146988166224563,0.0,2.9146988166224905,0.0,False,False,Mitochondrial transport - lipids
+PIt2mB_MitoCore,455.8018388245256,455.75826474356495,455.80183882452445,455.75826474356506,False,False,Mitochondrial transporters - characterised
+COAtmC_MitoCore,0.0,0.0,0.0,0.0,False,False,Mitochondrial transporters - characterised
+COAtmB_MitoCore,0.0,0.0,0.0,0.0,False,False,Mitochondrial transporters - characterised
+SUCCt2m,2000.0,2000.0,2000.0,2000.0,False,False,Mitochondrial transporters - characterised
+SUCCt3m_MitoCore,2000.0,2000.0,2000.0,2000.0,False,False,Mitochondrial transporters - characterised
+ARGtmB_MitoCore,2000.0,2000.0,2000.0,2000.0,False,False,Mitochondrial transporters - characterised
+CITtamB,2.5559999999999903,6.214285714285705,2.555999999999993,6.2142857142857135,False,False,Mitochondrial transporters - characterised
+HtmB_MitoCore,74.64694384710934,74.65281676949085,74.64694384710936,74.65281676949085,False,False,Mitochondrial transporters - characterised
+r2398B_MitoCore,2000.0,2000.0,2000.0,2000.0,False,False,Mitochondrial transporters - characterised
+r2402B_MitoCore,2000.0,2000.0,2000.0,2000.0,False,False,Mitochondrial transporters - characterised
+LYStmB_MitoCore,2000.0,2000.0,2000.0,2000.0,False,False,Mitochondrial transporters - characterised
+MALSO3tm,2000.0,2000.0,2000.0,2000.0,False,False,Mitochondrial transporters - characterised
+MALSO4tm,2000.0,2000.0,2000.0,2000.0,False,False,Mitochondrial transporters - characterised
+MALTSULtm,2000.0,2000.0,2000.0,2000.0,False,False,Mitochondrial transporters - characterised
+MALtm,2000.0,2000.0,2000.0,2000.0,False,False,Mitochondrial transporters - characterised
+ACACt2mB_MitoCore,0.137,0.137,0.137,0.137,False,False,Mitochondrial transporters - characterised
+ORNt3mB_MitoCore,2000.0,2000.0,2000.0,2000.0,False,False,Mitochondrial transporters - characterised
+r1427,0.0017674418604651,0.0017674418604651,0.0017674418604651,0.0017674418604651,False,False,Mitochondrial transporters - characterised
+CITtbm,1.918,0.0,1.918,0.0,False,False,Mitochondrial transporters - characterised
+GLUt2mB_MitoCore,414.8882435950503,414.9208709416191,414.8882435950526,414.920870941618,False,False,Mitochondrial transporters - characterised
+r0913,2.555999999999992,6.214285714285715,2.5560000000001133,6.214285714285822,False,False,Mitochondrial transporters - characterised
+r0917,74.64694384710926,74.65281676949166,74.64694384710903,74.65281676949054,False,False,Mitochondrial transporters - characterised
+r0917b_MitoCore,74.64694384710924,74.65281676949093,74.64694384710928,74.65281676949104,False,False,Mitochondrial transporters - characterised
+r0830B_MitoCore,2000.0,2000.0,2000.0,2000.0,False,False,Mitochondrial transporters - characterised
+r0829,2000.0,2000.0,2000.0,2000.0,False,False,Mitochondrial transporters - characterised
+r0830,2000.0,2000.0,2000.0,2000.0,False,False,Mitochondrial transporters - characterised
+ATPtmB_MitoCore,1922.4167360230203,1920.543977604273,1922.4167360230203,1920.5439776042726,False,False,Mitochondrial transporters - characterised
+PYRt2m,417.1992435950469,417.1558709416176,417.19924359505006,417.1558709416154,False,False,Mitochondrial transporters - characterised
+ORNt4mB_MitoCore,2000.0,2000.0,2000.0,2000.0,False,False,Mitochondrial transporters - characterised
+FE2tm,0.0,0.0,0.0,0.0,False,False,Mitochondrial transporters - characterised
+BALAtmr,0.0,0.0,0.0,0.0,False,False,Mitochondrial transporters - uncharacterised
+PPAtmB_MitoCore,0.031999999999916,1.9500000000000064,0.032,1.9499999999999869,False,False,Mitochondrial transporters - uncharacterised
+BHBtmB_MitoCore,0.048,0.048,0.048,0.048,False,False,Mitochondrial transporters - uncharacterised
+PROtm,0.322,0.3219999999999391,0.3219999999998973,0.3220000000001237,False,False,Mitochondrial transporters - uncharacterised
+r1455,0.0036279069767441,0.0036279069767441,0.0036279069767441,0.0036279069767441,False,False,Mitochondrial transporters - uncharacterised
+VALt5m,0.011,0.011,0.011,0.011,False,False,Mitochondrial transporters - uncharacterised
+UREAtm,0.3289999999999509,0.3289999999998372,0.3289999999998372,0.3289999999998372,False,False,Mitochondrial transporters - uncharacterised
+FUMtmB_MitoCore,41.014804311598354,41.018031192027706,41.014804311598255,41.01803119202796,False,False,Mitochondrial transporters - uncharacterised
+FORt2mB_MitoCore,0.0,0.0,0.0,0.0,False,False,Mitochondrial transporters - uncharacterised
+r1440,0.0043720930232558,0.0043720930232558,0.0043720930232558,0.0043720930232558,False,False,Mitochondrial transporters - uncharacterised
+GLYtm,0.9526666666665546,1.3739999999996881,0.9526666666666677,1.374,False,False,Mitochondrial transporters - uncharacterised
+r1078,0.0022325581395348,0.0022325581395348,0.0022325581395348,0.0022325581395348,False,False,Mitochondrial transporters - uncharacterised
+GLNtm,25.93051522469032,25.932554433851067,25.93051522469058,25.93255443385101,False,False,Mitochondrial transporters - uncharacterised
+r1434,414.7052435950564,414.7378709416172,414.70524359505004,414.7378709416211,False,False,Mitochondrial transporters - uncharacterised
+r1435,0.47633333333314354,0.686999999999685,0.476333333333317,0.6869999999999374,False,False,Mitochondrial transporters - uncharacterised
+r0962B_MitoCore,0.0,0.0,0.0,0.0,False,False,Mitochondrial transporters - uncharacterised
+BUTt2mB_MitoCore,0.006,0.006,0.006,0.006,False,False,Mitochondrial transporters - uncharacterised
+ILEt5m,0.004,0.004,0.004,0.004,False,False,Mitochondrial transporters - uncharacterised
+r1436,0.0021395348837209,0.0021395348837209,0.0021395348837209,0.0021395348837209,False,False,Mitochondrial transporters - uncharacterised
+ASNtm,0.003906976744186,0.003906976744186,0.003906976744186,0.003906976744186,False,False,Mitochondrial transporters - uncharacterised
+LEUt5m,0.016,0.016,0.016,0.016,False,False,Mitochondrial transporters - uncharacterised
+r1437,0.006,0.006,0.006,0.006,False,False,Mitochondrial transporters - uncharacterised
+TRPtm_MitoCore,0.0001860465116279,0.0001860465116279,0.0001860465116279,0.0001860465116279,False,False,Mitochondrial transporters - uncharacterised
+CHLtmB_MitoCore,3.0861516881884827,0.0,3.086151688188487,0.0,False,False,Mitochondrial transporters - uncharacterised
+NOS2,0.3219999999999955,0.3219999999999956,0.322,0.322,False,True,NOS Signalling
+NOS1,0.3219999999999955,0.3219999999999956,0.322,0.322,False,True,NOS Signalling
+OF_ATP_MitoCore,20.17484968840793,20.1764369647274,20.174849688407946,20.176436964727387,False,False,Objective Function - ATP 
+OF_HEME_MitoCore,0.0,0.0,0.0,0.0,False,False,Objective Function - Heme
+OF_LIPID_MitoCore,8.572643578301438,0.0,8.572643578301438,0.0,False,False,Objective Function - Lipid synthesis 
+OF_PROTEIN_MitoCore,0.0093023255813953,0.0093023255813953,0.0093023255813953,0.0093023255813953,False,False,Objective Function - Protein Synthesis
+ORNTArm,0.3219999999999932,0.161,0.322,0.1609999999999994,False,False,Ornithine degradation
+r0464c_MitoCore,0.3219999999999954,0.0,0.322,0.0,False,True,Ornithine degradation (cytosolic)
+PTRCOX1,0.3219999999999955,0.0,0.322,0.0,False,False,Ornithine degradation (cytosolic)
+ABUTD,0.3219999999999931,0.0,0.322,0.0,True,False,Ornithine degradation (cytosolic)
+ORNDC,0.3219999999999932,0.0,0.322,0.0,False,False,Ornithine degradation (cytosolic)
+TALA,0.1256666666666648,0.0,0.1256666666666666,0.0,False,False,Pentose phosphate pathway
+GND,0.3769999999999928,0.0,0.377,0.0,False,True,Pentose phosphate pathway
+PGL,0.3769999999999928,0.0,0.377,0.0,False,False,Pentose phosphate pathway
+RPI,0.1256666666666666,0.0,0.1256666666666666,0.0,False,False,Pentose phosphate pathway
+RPE,0.2513333333333256,0.0,0.2513333333333333,0.0,False,False,Pentose phosphate pathway
+TKT1,0.1256666666666648,0.0,0.1256666666666666,0.0,False,False,Pentose phosphate pathway
+TKT2,0.1256666666666648,0.0,0.1256666666666666,0.0,False,False,Pentose phosphate pathway
+G6PDH2r,0.3769999999999979,0.0,0.377,0.0,False,True,Pentose phosphate pathway
+r0399,0.012,0.012,0.012,0.012,False,False,Phenylalanine degradation
+DHPR,0.012,0.012,0.012,0.012,True,False,Phenylalanine degradation
+r0074,22.148304202166788,9.146721354996735,22.148304202166813,9.14672135499674,True,False,Proline / ornithine degradation
+PROD2mB_MitoCore,18.759419375240068,18.760894976471103,18.759419375240093,18.760894976471093,False,False,Proline degradation
+G5SADrm,0.3219999999999804,0.3219999999999954,0.3220000000000124,0.322,False,False,Proline degradation/synthesis
+P5CRm,16.450628726638243,9.14191273242106,16.45062872663828,9.141912732421057,False,True,Proline synthesis
+P5CRxm,18.75541937524008,18.75689497647109,18.75541937524008,18.75689497647109,True,False,Proline synthesis
+G5SDym,22.13730420216679,9.135721354996738,22.137304202166813,9.13572135499674,False,True,Proline synthesis
+GLU5Km,22.13730420216676,9.135721354996734,22.137304202166806,9.13572135499674,False,False,Proline synthesis
+MMSAD1m,0.011,0.011,0.011,0.011,True,False,Propanoate metabolism
+PPCOACm,0.0,1.71,0.0,1.71,False,False,Propanoate metabolism
+ACCOALm,13.823508119835054,13.824595698053932,13.823508119835097,13.824595698053956,False,False,Propanoate metabolism
+MMEm,0.0,1.9499999999999955,0.0,1.9499999999999889,False,False,Propanoate metabolism
+MMMm,0.0,1.9499999999999973,0.0,1.95,False,False,Propanoate metabolism
+MMCDm,0.0,1.918,0.0,1.918,False,False,Propanoate synthesis
+RE2649M,13.850459839612872,13.84657889022409,13.85045983961288,13.846578890224093,False,False,Propanoate synthesis
+AMPD1,0.321999999999939,0.322,0.3219999999999998,0.322,False,False,Purine Nucleotide Cycle
+ADSL1,0.321999999999939,0.322,0.3220000000001091,0.322000000000109,False,False,Purine Nucleotide Cycle
+ADSS,0.321999999999939,0.322,0.3219999999999998,0.322,False,False,Purine Nucleotide Cycle
+GTHP,0.3219999999999954,0.322,0.322,0.322,False,False,ROS defense
+GTHO,0.3219999999999954,0.322,0.322,0.322,False,True,ROS defense
+GTHOm,0.1834624476702406,0.0193111929082137,0.1834624476702147,0.0193111929082136,False,True,ROS defense
+GTHPm,0.1834624476701784,0.0193111929082137,0.1834624476702142,0.0193111929082136,False,False,ROS defense
+SPODMm,0.019331665408997202,0.0193111929082137,0.0193316654089973,0.019311192908213703,False,False,ROS defense
+ACONT,149.3557272146914,149.30563353898268,149.3557272146984,149.30563353898248,False,False,Reductive carboxylation
+ICDHy,0.7540000000000001,4.141999999999967,0.754,4.1419999999999995,False,True,Reductive carboxylation
+ACITL,0.0,1.9642857142857144,0.0,1.964285714285716,False,False,Reductive carboxylation / Acetyl-CoA production for biosynthesis
+PSERT,0.3219999999999958,0.3219999999999954,0.322,0.322,False,False,Serine and glycine biosynthesis
+PSP_L,0.3219999999999958,0.3219999999999954,0.322,0.322,False,False,Serine and glycine biosynthesis
+PGCD,0.3219999999999954,0.3219999999999954,0.322,0.322,True,False,Serine and glycine biosynthesis
+GHMT2r,0.2656666666666666,0.6869999999999999,0.265666666666655,0.687,False,False,Serine and glycine biosynthesis
+GHMT2rm,0.4763333333333333,0.6869999999999998,0.476333333333313,0.687,False,False,Serine and glycine biosynthesis
+r0060,0.3435,0.3435,0.3434999999999796,0.3434999999999996,False,False,Serine degradation
+AKGDm,7.452565217391303,2.9041202168876197,7.452565217391304,2.9041202168876143,True,False,TCA cycle
+MDHm,5.781968524736276,5.804470640472104,5.781968524736171,5.804470640472104,True,False,TCA cycle
+FUMm,41.55111758432642,41.15533553985433,41.55111758432657,41.155335539854285,False,False,TCA cycle
+ACONTm,149.33564041454187,149.30563353898265,149.33564041454179,149.30563353898248,False,False,TCA cycle
+SUCOAS1m,2000.0,0.0,2000.0,0.0,False,False,TCA cycle
+SUCOASm,2000.0,3.244020805297984,2000.0,3.24402080529798,False,False,TCA cycle
+CSm,2.9087242947906784,29.19184390577019,2.9087242947906784,29.191843905770174,False,False,TCA cycle
+ICDHxm,81.9080255480171,9.14191273242106,81.90802554801715,9.14191273242106,True,False,TCA cycle
+PDHm,2.6305,2.662499999999996,2.6305,2.662499999999996,True,False,TCA cycle
+ICDHyrm,83.02752208799883,9.994292838279264,83.02752208799886,9.994292838279264,False,True,TCA cycle
+r0081,414.70524359505197,414.73787094161884,414.70524359505055,414.737870941618,False,False,TCA cycle periphery
+ME1m,1.9180000000000013,1.9180000000000064,1.918,1.918,True,False,TCA cycle periphery
+PCm,1.71,1.71,1.71,1.71,False,False,TCA cycle periphery
+ACITLm_MitoCore,0.0,27.64919139610789,0.0,27.649191396107867,False,False,TCA cycle periphery
+NDPK1m,2000.0,0.0,2000.0,0.0,False,False,TCA cycle periphery
+PEPCKm,1.918,0.0,1.9180000000000008,0.0,False,False,TCA cycle periphery
+NNT_MitoCore,74.64694384710845,0.0,74.64694384710846,0.0,True,True,TCA cycle periphery
+ME2m,1.918,1.9180000000000004,1.918,1.918,False,True,TCA cycle periphery
+ADK1m,13.82814290823503,13.829230486453936,13.828142908235094,13.829230486453945,False,False,TCA cycle periphery
+r1154,0.017,0.017,0.017,0.017,True,False,Threonine and Methionine degradation
+2HBO,0.0169999999999954,0.0169999999999954,0.0169999999999954,0.017,True,False,Threonine and Methionine degradation
+r1155,0.017,0.017,0.017,0.017,False,False,Threonine degradation
+THRD_L,0.012,0.012,0.012,0.012,False,False,Threonine degradation
+r0541,0.03,0.03,0.03,0.03,False,False,Tryptophan / Lysine Metabolism 
+2OXOADOXm,0.03,0.03,0.03,0.03,True,False,Tryptophan / Lysine Metabolism 
+FKYNH,0.0,0.0,0.0,0.0,False,False,Tryptophan Metabolism 
+AMCOXO,0.0,0.0,0.0,0.0,False,True,Tryptophan Metabolism 
+AMCOXO2_MitoCore,0.0,0.0,0.0,0.0,True,False,Tryptophan Metabolism 
+PCLAD,0.0,0.0,0.0,0.0,False,False,Tryptophan Metabolism 
+r0645,0.0,0.0,0.0,0.0,True,False,Tryptophan Metabolism 
+TRPO2,0.0,0.0,0.0,0.0,False,False,Tryptophan Metabolism 
+HKYNH,0.0,0.0,0.0,0.0,False,False,Tryptophan Metabolism 
+KYN3OX,0.0,0.0,0.0,0.0,False,True,Tryptophan Metabolism 
+FUMAC,0.023,0.023,0.023,0.023,False,False,Tyrosine degradation
+34HPPOR,0.023,0.023,0.023,0.023,False,False,Tyrosine degradation
+MACACI,0.023,0.023,0.023,0.023,False,False,Tyrosine degradation
+TYRTB_MitoCore,0.3219999999999955,0.3219999999999999,0.3220000000000002,0.322,False,False,Tyrosine degradation
+TYRTA,0.3219999999999955,0.3219999999999905,0.3219999999999955,0.322,False,False,Tyrosine degradation
+HGNTOR,0.023,0.023,0.023,0.023,False,False,Tyrosine degradation
+ARGSL,0.3289999999999955,0.329,0.329,0.329,False,False,Urea Cycle
+ARGNm,0.3289999999999954,0.329,0.3289999999999995,0.329,False,False,Urea Cycle
+ARGN,0.3289999999999955,0.329,0.3289999999999983,0.329,False,False,Urea Cycle
+ARGSS,0.3219999999999955,0.322,0.322,0.322,False,False,Urea Cycle
+3HBCOAHLm,0.011,0.011,0.011,0.011,False,False,Valine degradation
+VALTAm,0.011,0.011,0.0110000000000134,0.011,False,False,Valine degradation
+r0560,0.011,0.011,0.0110000000000134,0.011,False,False,Valine degradation
+OIVD2m,0.011,0.011,0.0110000000000134,0.011,True,False,Valine degradation
+ECOAH12m,0.011,0.011,0.0110000000000134,0.011,False,False,Valine degradation
+HIBDm,0.011,0.011,0.011,0.011,True,False,Valine degradation
