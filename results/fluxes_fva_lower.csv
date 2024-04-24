@@ -1,475 +1,475 @@
 ,293,mitoparp,293 + low NAD,mitoparp + low NAD,subsystem
-1PPDCRc_MitoCore,0.0,0.0,0.0,0.0,Lysine degradation (L-pipecolate pathway)
-1PPDCRc_NADPH_MitoCore,0.0,0.0,0.0,0.0,Lysine degradation (L-pipecolate pathway)
-2HBO,-0.017,-0.016999999999995453,-0.0109929328621879,-0.0109929328621908,Threonine and Methionine degradation
-2HBt2,-0.016999999999995453,-0.017,-0.0109929328621879,-0.0109929328621908,Boundary Conditions - Biomarkers
-2OXOADOXm,0.0,0.0,0.0,0.0,Tryptophan / Lysine Metabolism 
-34HPPOR,0.0,0.0,0.0,0.0,Tyrosine degradation
-3HBCOAHLm,0.0,0.0,0.0,0.0,Valine degradation
-3SALATAi,0.0,0.0,0.0,0.0,Cysteine degradation I
-3SPYRSP,0.0,0.0,0.0,0.0,Cysteine degradation I
-4ABUTtm,0.0,0.0,0.0,0.0,GABA shunt - transport
-4aabutn_MitoCore,0.0,0.0,0.0,0.0,Arginine degradation
-5AOPtm,0.0,0.0,0.0,0.0,Haem Synthesis
-AACTOORm_MitoCore,0.0,0.0,0.0,0.0,Glycine degradation
-AASAD3m,0.0,0.0,0.0,0.0,Lysine degradation (saccharopine pathway)
-ABTArm,0.0,0.0,0.0,0.0,GABA shunt
-ABUTD,0.0,0.0,0.0,0.0,Ornithine degradation (cytosolic)
-ACACT10m,0.0,0.0,0.0,0.0,Isoleucine degradation
-ACACT1rm,-1.1984673913043478,-1.2463768115942033,-0.5604710494605727,-0.5813334675665875,FA and ketone body metabolism / Ketogenesis
-ACACt2,0.0,0.0,0.0,0.0,Boundary conditions - core
-ACACt2mB_MitoCore,0.0,0.0,0.0,0.0,Mitochondrial transporters - characterised
-ACADLC14_MitoCore,0.2841725407356587,0.2792392555862951,0.2449140731298522,0.20818472069813368,FA metabolism
-ACADLC16_MitoCore,0.2841725407356587,0.27923925558629525,0.2449140731298522,0.20818472069813254,FA metabolism
-ACALDtm,0.0,0.0,0.0,0.0,Alcohol metabolism
-ACCOAC,0.0,0.0,0.0,0.0,FA synthesis - cytosolic
-ACCOALm,0.0,0.0,0.0,0.0,Propanoate metabolism
-ACITL,0.0,0.0,0.0,0.0,Reductive carboxylation / Acetyl-CoA production for biosynthesis
-ACITLm_MitoCore,0.0,0.0,0.0,0.0,TCA cycle periphery
 ACOAHi,0.0,0.0,0.0,0.0,Acetate production
-ACOATA,0.0,0.0,0.0,0.0,FA synthesis - cytosolic
-ACONT,-74.74622384710928,-74.65281676949134,-53.053464142657454,-49.300394676843545,Reductive carboxylation
-ACONTm,-67.77798178482385,-67.82742546514343,-48.00622683585827,-44.32634909994693,TCA cycle
-ACOT2_MitoCore,0.0,0.0,0.0,0.0,Fatty acid elongation in mitochondria
-ACSm,0.0,0.0,0.0,0.0,Alcohol metabolism
-ACt2r,0.0,-0.01,0.0,-0.01,Boundary Conditions - Biomarkers
-ADK1,0.2842607946291196,0.28013726840869646,0.24491407312984137,0.2081847206981351,Cytosolic misc
-ADK1m,0.0,0.0,0.0,0.0,TCA cycle periphery
-ADNK1,0.0,0.0,0.0,0.0,Methionine degradation
-ADSL1,0.0,0.0,0.0,0.0,Purine Nucleotide Cycle
-ADSS,0.0,0.0,0.0,0.0,Purine Nucleotide Cycle
-AGMTm,0.0,0.0,0.0,0.0,Arginine degradation
-AHC,0.0,0.0,0.0,0.0,Methionine degradation
-AKGDm,0.0,4.423488478764553,0.17455853830209075,2.722618507153346,TCA cycle
-AKGMALtm,-0.6639999999999909,-4.052,-0.540582132617245,-2.243093959159793,Malate aspartate shuttle
-AKGt_MitoCore,-1.918,-1.917999999999998,-1.3083018028323479,-1.6068343929806013,Boundary Conditions - Biomarkers
-ALASm,0.0,0.0,0.0,0.0,Haem Synthesis
-ALATA_L,-0.20299999999999563,-0.203,-0.20285882352941437,-0.20285882352941176,Cytosolic misc
-ALAt2r,-0.311999999999986,-0.312,-0.25129106630861925,-0.2512910663086193,Boundary conditions - nonessential amino acids
 ALCD2if,0.0,0.0,0.0,0.0,Alcohol metabolism
 ALCD2yf,0.0,0.0,0.0,0.0,Alcohol metabolism
 ALDD2x,0.0,0.0,0.0,0.0,Alcohol metabolism
 ALDD2xm,0.0,0.0,0.0,0.0,Alcohol metabolism
-AMCOXO,0.0,0.0,0.0,0.0,Tryptophan Metabolism 
-AMCOXO2_MitoCore,0.0,0.0,0.0,0.0,Tryptophan Metabolism 
-AMPD1,0.0,0.0,0.0,0.0,Purine Nucleotide Cycle
-AMPTASECG,0.0,0.0,0.0,0.0,Glutathione degradation
-AOBUTDsm,0.0,0.0,0.0,0.0,Glycine degradation
-APAT2rm,0.0,0.0,0.0,0.0,Beta-alanine degradation
-APRTO2m_MitoCore,0.0,0.0,0.0,0.0,Arginine degradation
+ACALDtm,0.0,0.0,0.0,0.0,Alcohol metabolism
+ACSm,0.0,0.0,0.0,0.0,Alcohol metabolism
+PTRCAT1m_MitoCore,0.0,0.0,0.0,0.0,Arginine degradation
+AGMTm,0.0,0.0,0.0,0.0,Arginine degradation
 ARGDCm,0.0,0.0,0.0,0.0,Arginine degradation
-ARGN,0.0,0.0,0.0,0.0,Urea Cycle
-ARGNm,0.0,0.0,0.0,0.0,Urea Cycle
-ARGSL,-0.007,-0.007,-0.007,-0.007,Urea Cycle
-ARGSS,0.0,0.0,0.0,0.0,Urea Cycle
-ARGSUCt_MitoCore,-0.10966666666666566,-0.10966666666666669,-0.08943035543620892,-0.08943035543620677,Boundary Conditions - Biomarkers
-ARGtiDF,-0.10266666666666516,-0.10266666666666668,-0.08243035543620536,-0.08243035543620929,Boundary conditions - nonessential amino acids
-ARGtmB_MitoCore,-1000.0,-1000.0,-1000.0,-1000.0,Mitochondrial transporters - characterised
+4aabutn_MitoCore,0.0,0.0,0.0,0.0,Arginine degradation
+NABTNOm,0.0,0.0,0.0,0.0,Arginine degradation
+APRTO2m_MitoCore,0.0,0.0,0.0,0.0,Arginine degradation
+r0127,0.0,0.0,0.0,0.0,Asparagine degradation
 ASNS1,0.0,0.0,0.0,0.0,Asparagine synthesis
-ASNtm,0.0,0.0,0.0,0.0,Mitochondrial transporters - uncharacterised
-ASP1DC,0.0,0.0,0.0,0.0,Beta-alanine synthesis
-ASPGLUmB_MitoCore,0.0,0.0,0.0,0.0,Malate aspartate shuttle
-ASPTA,-0.158,-0.15799999999999997,-0.09729106630862516,-0.09729106630861925,Malate aspartate shuttle
-ASPTAm,-4.443000000000065,-4.442999999999995,-4.09091919774834,-4.090919197748269,Malate aspartate shuttle
-ASPte,-0.154,-0.154,-0.154,-0.154,Boundary conditions - nonessential amino acids
-ATPtmB_MitoCore,-922.4167360230203,-920.5439776042731,-945.829326142073,-948.1047123298118,Mitochondrial transporters - characterised
-BALAtmr,0.0,0.0,0.0,0.0,Mitochondrial transporters - uncharacterised
-BDHm,0.0,0.0,0.0,0.0,Ketone bodies - degradation
-BHBt,0.0,0.0,0.0,0.0,Boundary conditions - core
-BHBtmB_MitoCore,0.0,0.0,0.0,0.0,Mitochondrial transporters - uncharacterised
-BILIRED,0.0,0.0,0.0,0.0,Haem Degradation
-BILIRED2_MitoCore,0.0,0.0,0.0,0.0,Haem Degradation
-BUTt2mB_MitoCore,0.0,0.0,0.0,0.0,Mitochondrial transporters - uncharacterised
-BUTt2r,0.0,0.0,0.0,0.0,Boundary conditions - alternative fuels
-Biomass_MitoCore,-100.87424844203969,-100.88218482363732,-71.56378433296909,-66.49206883862075,Boundary conditions - core
-Biomasst_MitoCore,-8.57264357830128,-0.009302325581395349,-5.35514015849039,-0.009302325581395349,Mitochondrial transport - diffusion / artificial
-C160CPT1,0.28417254073565323,0.27923925558629537,0.24491407312984306,0.20818472069813368,Carnitine shuttle
-C160CPT2,0.2841725407356587,0.27923925558629537,0.2449140731298522,0.20818472069813368,Carnitine shuttle
-CBPSam,0.0,0.0,0.0,0.0,Citrulline biosynthesis
-CDSm,0.0,0.0,0.0,0.0,Cardiolipin synthesis
-CHLtmB_MitoCore,-3.086151688188598,0.0,-1.9278504570566382,0.0,Mitochondrial transporters - uncharacterised
-CHOLtu,-3.0861516881885165,0.0,-1.9278504570566426,0.0,Boundary Conditions - Biomarkers
-CIII_MitoCore,31.226572930108585,31.225937670897732,22.101768327157163,20.4261707298365,Electron transport chain
-CII_MitoCore,3.9719897726842857,3.967987965532726,2.6907535273114003,2.176541942764035,Electron transport chain
-CITtamB,-2.5559999999999956,-6.214285714285705,-2.439794147635892,-3.622095286919665,Mitochondrial transporters - characterised
-CITtbm,-1.917999999999996,0.0,-1.9178588235294125,0.0,Mitochondrial transporters - characterised
-CIV_MitoCore,15.613286465054342,15.612968835448866,11.050884163578667,10.21308536491825,Electron transport chain
-CI_MitoCore,10.035054827288084,10.039586746913814,6.8451963397305295,6.718587016366688,Electron transport chain
-CK,-922.4167360230207,-920.5439776042731,-945.8293261420727,-948.1047123298117,Creatine ATP buffer
-CKc,-1000.0,-1000.0,-1000.0,-1000.0,Creatine ATP buffer
-CLPN_MitoCore,-0.01,0.0,-0.01,0.0,Cardiolipin synthesis
-CLS_hsm_MitoCore,0.0,0.0,0.0,0.0,Cardiolipin synthesis
-CO2t,-18.346086956521933,-18.36417391304356,-13.461538465033966,-11.966066114290733,Boundary conditions - core
-CO2tm,-18.423086956521953,-18.35633695652167,-12.42988344284874,-11.44660184448243,Mitochondrial transport - diffusion / artificial
-COAtmB_MitoCore,0.0,0.0,0.0,0.0,Mitochondrial transporters - characterised
-COAtmC_MitoCore,0.0,0.0,0.0,0.0,Mitochondrial transporters - characterised
-COt,0.0,0.0,0.0,0.0,Boundary Conditions - Misc
-CPPPGO,0.0,0.0,0.0,0.0,Haem Synthesis
-CREATtmdiffir,-922.4167360230202,-920.5439776042731,-945.8293261420728,-948.1047123298118,Mitochondrial transport - diffusion / artificial
-CSm,5.2730148356441,5.283127665074408,3.6647627709523976,3.388221568519925,TCA cycle
-CV_MitoCore,73.13698571015357,73.14316090238789,52.15013358021634,48.13908505152767,Electron transport chain
-CYANt,0.0,0.0,0.0,0.0,Boundary Conditions - Misc
-CYANtm,0.0,0.0,0.0,0.0,Mitochondrial transport - diffusion / artificial
-CYSTA,0.0,0.0,0.0,0.0,Cysteine degradation II
-CYSTAm,0.0,0.0,0.0,0.0,Cysteine degradation II
-CYSTGL,0.0,0.0,0.0,0.0,Methionine and Serine degradation
-CYSTS,0.0,0.0,0.0,0.0,Methionine and Serine degradation
-CYStec,-0.0049999999999954525,-0.005,-0.005,-0.005,Boundary conditions - nonessential amino acids
-CYTK1m,0.0,0.0,0.0,0.0,Cardiolipin synthesis
-DHFR,0.0,0.0,0.0,0.0,Folate cytosolic
-DHPR,0.0,0.0,0.0,0.0,Phenylalanine degradation
-ECOAH12m,0.0,0.0,0.0,0.0,Valine degradation
-ECOAH1m,-1.036,-1.0843043478260919,-0.3981654174205221,-0.41902783552653744,FA metabolism
-ECOAH9m,0.0,0.0,0.0,0.0,Isoleucine degradation
-ENO,-1.1424999999999947,-0.3219999999999955,-0.22135492520295774,-0.26129106630861926,Glycolysis/gluconeogenesis
-ETOHt,0.0,0.0,0.0,0.0,Boundary conditions - alternative fuels
-FA160ACPH,0.0,0.0,0.0,0.0,FA synthesis - cytosolic
-FACOAL160i,0.28417254073565323,0.27923925558629537,0.24491407312984306,0.20818472069813154,Carnitine shuttle
-FACOAL40im,0.0,0.0,0.0,0.0,Butanoate metabolism
-FBA,0.0,0.0,0.0,0.0,Glycolysis/gluconeogenesis
-FBP,0.0,0.0,0.0,0.0,Gluconeogenesis
-FCLTm,0.0,0.0,0.0,0.0,Haem Synthesis
-FE2t,0.0,0.0,0.0,0.0,Boundary Conditions - Misc
-FE2tm,0.0,0.0,0.0,0.0,Mitochondrial transporters - characterised
-FKYNH,0.0,0.0,0.0,0.0,Tryptophan Metabolism 
-FOLR2,0.0,0.0,0.0,0.0,Folate cytosolic
-FOLt_MitoCore,0.0,0.0,0.0,0.0,Boundary Conditions - Misc
-FORt2mB_MitoCore,0.0,0.0,0.0,0.0,Mitochondrial transporters - uncharacterised
-FORt_MitoCore,0.0,0.0,0.0,0.0,Boundary Conditions - Misc
-FTCD,0.0,0.0,0.0,0.0,Folate cytosolic
-FTHFDH,0.0,0.0,0.0,0.0,Folate cytosolic
-FTHFDHm_MitoCore,0.0,0.0,0.0,0.0,Folate mitochondrial
-FTHFL,0.0,0.0,0.0,0.0,Folate cytosolic
-FTHFLm,0.0,0.0,0.0,0.0,Folate mitochondrial
-FUM,-1.8949999999999056,-1.8949999999999987,-1.6831541828751337,-1.8949999999999998,Cytosolic misc
-FUMAC,0.0,0.0,0.0,0.0,Tyrosine degradation
-FUMm,-34.186400193022074,-34.14463988768042,-24.2216530263808,-23.06144483238506,TCA cycle
-FUMt_MitoCore,-1.918,-1.9179999999999995,-1.7060130064044816,-1.917858823529411,Boundary Conditions - Biomarkers
-FUMtmB_MitoCore,-41.01480431159814,-41.01803119202793,-29.097362860658222,-27.035236780537684,Mitochondrial transporters - uncharacterised
-G3PD1,-4.4329999999999945,-4.432999999999995,-4.081200887889126,-4.081200887889113,Glycerol phosphate shuttle
-G5SADrm,-0.004,-0.004,-0.004,-0.004,Proline degradation/synthesis
-G5SDym,0.0,0.0,0.0,0.0,Proline synthesis
-G6PDH2r,0.0,0.0,0.0,0.0,Pentose phosphate pathway
-G6PPer,0.0,0.0,0.0,0.0,Gluconeogenesis
-GAPD,-0.8204999999999982,0.0,0.01605616457468173,0.0,Glycolysis/gluconeogenesis
-GCCam,-0.34400000000000003,-0.34400000000000003,-0.1859063829787234,-0.1859063829787234,Glycine cleavage system (GCS)
-GCCbim,-0.34400000000000003,-0.34400000000000003,-0.1859063829787234,-0.1859063829787234,Glycine cleavage system (GCS)
-GCCcm,-0.34400000000000003,-0.34400000000000003,-0.1859063829787234,-0.1859063829787234,Glycine cleavage system (GCS)
-GHMT2r,-0.01,-0.01,-0.009,-0.009,Serine and glycine biosynthesis
-GHMT2rm,-0.13233333333333336,-0.34299999999999997,-0.0715163120567376,-0.1853659574468085,Serine and glycine biosynthesis
-GLCt1r,0.0,0.0,0.009744124135455445,0.0,Boundary conditions - core
-GLNS,0.0,0.0,0.0,0.0,Glutamine synthesis
-GLNtm,0.0,0.0,0.0,0.0,Mitochondrial transporters - uncharacterised
-GLU5Km,0.0,0.0,0.0,0.0,Proline synthesis
-GLUCYS,0.0,0.0,0.0,0.0,Glutathione synthesis
-GLUDC,0.0,0.0,0.0,0.0,GABA shunt
-GLUDxi,0.0,0.0,0.0,0.0,Glutamate degradation/synthesis - cytosolic
-GLUDxm,0.0,0.0,0.0,0.0,Glutamate degradation/synthesis
-GLUDy,0.0,0.0,0.0,0.0,Glutamate degradation/synthesis - cytosolic
-GLUDym,0.0,0.0,0.0,0.0,Glutamate degradation/synthesis
-GLUN_MitoCore,0.0,0.0,0.0,0.0,Glutamine degradation - cytosolic
-GLUNm,0.0,0.0,0.0,0.0,Glutamine degradation
-GLUt2mB_MitoCore,0.0,0.0,0.0,0.0,Mitochondrial transporters - characterised
-GLUt_MitoCore,-0.32199999999999984,-0.322,-0.2612910663086203,-0.2612910663086193,Boundary conditions - nonessential amino acids
-GLYC3Ptm,0.0,0.0,0.0,0.0,Cardiolipin synthesis
-GLYCt,-0.01,-0.01,-0.01,-0.01,Boundary conditions - alternative fuels
-GLYCtm,-1.4911794077386256,0.0,-0.9345627605001353,0.0,Mitochondrial transport - diffusion / artificial
-GLYK,0.0,0.0,0.0,0.0,Cardiolipin synthesis
-GLYOXm,0.0,0.0,0.0,0.0,Glycine degradation
-GLYt2r,-0.678,-0.678,-0.4370710416883288,-0.4591974492873427,Boundary conditions - nonessential amino acids
-GLYtm,-0.6880000000000001,-0.6879999999997968,-0.3718127659574468,-0.3718127659574468,Mitochondrial transporters - uncharacterised
-GND,0.0,0.0,0.0,0.0,Pentose phosphate pathway
-GPAMm_hsB_MitoCore,0.0,0.0,0.0,0.0,Cardiolipin synthesis
-GTHO,0.0,0.0,0.0,0.0,ROS defense
-GTHOm,0.01003505482728813,0.01003958674691377,0.006845196339732007,0.006718587016366748,ROS defense
-GTHP,0.0,0.0,0.0,0.0,ROS defense
-GTHPm,0.01003505482728813,0.01003958674691377,0.006845196339732007,0.006718587016366748,ROS defense
-GTHS,0.0,0.0,0.0,0.0,Glutathione synthesis
-GluForTx,0.0,0.0,0.0,0.0,Histidine degradation
-H2Ot,-16.99573913043477,-17.01991304347827,-13.127618741121182,-12.040838704053773,Boundary Conditions - Misc
-H2Otm,-135.46109030340878,-135.46436225368862,-97.7053979641769,-89.9245305277429,Mitochondrial transport - diffusion / artificial
-HACD1m,-1.036,-1.0843043478260919,-0.3981654174205221,-0.41902783552653744,FA metabolism
-HACD9m,0.0,0.0,0.0,0.0,Isoleucine degradation
-HCO3t_MitoCore,0.0,0.0,0.0,0.0,Boundary conditions - core
-HDCAtm_MitoCore,-0.7032446396410728,-0.708091207472804,-0.7418130216540834,-0.7911272496314026,Boundary conditions - core
-HDCAtr,0.2841725407356587,0.2792392555862787,0.24491407312986102,0.1947174892830119,Boundary conditions - core
-HEX1,0.0,0.0,0.00974412413546033,0.0,Glycolysis
-HGNTOR,0.0,0.0,0.0,0.0,Tyrosine degradation
-HIBDm,0.0,0.0,0.0,0.0,Valine degradation
-HISD,0.0,0.0,0.0,0.0,Histidine degradation
-HIStiDF,0.0,0.0,0.0,0.0,Boundary conditions - essential amino acids
-HKYNH,0.0,0.0,0.0,0.0,Tryptophan Metabolism 
-HMBS,0.0,0.0,0.0,0.0,Haem Synthesis
-HMGCOASim,0.0,0.0,0.0,0.0,Ketogenesis
-HMGLm,0.0,0.0,0.0,0.0,Ketogenesis / Leucine degradation
-HOXG,0.0,0.0,0.0,0.0,Haem Degradation
-Hct_MitoCore,-3.6901564782278546,-1.9091356029503872,-1.8797381956073627,-2.0028940377885056,Boundary Conditions - Misc
-Hmt_MitoCore,-416.6650733884465,-416.5691818481032,-296.8689288975015,-275.07805975504795,Boundary Conditions - Misc
-HtmB_MitoCore,0.0,0.0,0.0,0.0,Mitochondrial transporters - characterised
-ICDHxm,0.0,0.0,0.0,0.0,TCA cycle
-ICDHy,-0.1,-0.1,-0.0962637362637363,-0.0962637362637363,Reductive carboxylation
-ICDHyrm,-75.05917426191188,-2.2126406643662255,-53.817673603438436,-1.758232581617189,TCA cycle
-ICITt_MitoCore,-1.9180000000000006,-1.9179999999999955,-1.1541747364954986,-1.4143764546481554,Boundary Conditions - Biomarkers
-ILETAm,0.0,0.0,0.0,0.0,Isoleucine degradation
-ILEt5m,0.0,0.0,0.0,0.0,Mitochondrial transporters - uncharacterised
-ILEtec,0.0,0.0,0.0,0.0,Boundary conditions - essential amino acids
-IZPN,0.0,0.0,0.0,0.0,Histidine degradation
-KYN3OX,0.0,0.0,0.0,0.0,Tryptophan Metabolism 
-LDH_Dm_MitoCore,0.0,0.0,0.0,0.0,Glycine degradation
-LDH_L,-2.0554999999999892,-2.087499999999995,-1.329174911660769,-1.349867491166074,Glycolysis/gluconeogenesis
-LEUTAm,0.0,0.0,0.0,0.0,Leucine degradation
-LEUt5m,0.0,0.0,0.0,0.0,Mitochondrial transporters - uncharacterised
-LEUtec,0.0,0.0,0.0,0.0,Boundary conditions - essential amino acids
-LGTHLm_MitoCore,0.0,0.0,0.0,0.0,Glycine degradation
-LPCOXc_MitoCore,0.0,0.0,0.0,0.0,Lysine degradation (L-pipecolate pathway)
-LYSOXc_MitoCore,0.0,0.0,0.0,0.0,Lysine degradation (L-pipecolate pathway)
-LYStiDF,0.0,0.0,0.0,0.0,Boundary conditions - essential amino acids
-LYStmB_MitoCore,-1000.0,-1000.0,-1000.0,-1000.0,Mitochondrial transporters - characterised
-L_LACt2r,-2.055500000000001,-2.087500000000076,-1.329174911660769,-1.349867491166074,Boundary conditions - core
-MACACI,0.0,0.0,0.0,0.0,Tyrosine degradation
-MALSO3tm,-1000.0,-1000.0,-1000.0,-1000.0,Mitochondrial transporters - characterised
-MALSO4tm,-1000.0,-1000.0,-1000.0,-1000.0,Mitochondrial transporters - characterised
-MALTSULtm,-1000.0,-1000.0,-1000.0,-1000.0,Mitochondrial transporters - characterised
-MAL_Lte,-1.9180000000000001,-1.918,-1.7060130064045058,-1.9178588235294134,Boundary Conditions - Biomarkers
-MALtm,-1000.0,-1000.0,-1000.0,-1000.0,Mitochondrial transporters - characterised
-MCCCrm,0.0,0.0,0.0,0.0,Leucine degradation
-MCLOR,-0.006,-0.0059999999999954525,-0.00387985865724173,-0.00387985865724382,Cysteine degradation II
-MCOATA,0.0,0.0,0.0,0.0,FA synthesis - cytosolic
-MCPST,0.0,0.0,0.0,0.0,Cysteine degradation II
-MCPSTm_MitoCore,0.0,0.0,0.0,0.0,Cysteine degradation II
-MDH,-2.705,-2.705,-2.3457071827294937,-2.345707182729491,Malate aspartate shuttle
-MDHm,3.80855321439416,3.8090076203974554,2.1892990320109114,1.8986708509750732,TCA cycle
-ME1m,0.0,0.0,0.0,0.0,TCA cycle periphery
-ME2,0.0,0.0,0.0,0.0,Cytosolic misc
-ME2m,0.0,0.0,0.0,0.0,TCA cycle periphery
-MECR14C_MitoCore,0.0,0.0,0.0,0.0,Fatty acid elongation in mitochondria
-MECR16C_MitoCore,0.0,0.0,0.0,0.0,Fatty acid elongation in mitochondria
-MERCPLACt_MitoCore,-0.0059999999999957865,-0.006,-0.00387985865724173,-0.00387985865724382,Boundary Conditions - Biomarkers
-METAT,0.0,0.0,0.0,0.0,Methionine degradation
-METAT2_MitoCore,0.0,0.0,0.0,0.0,Methionine degradation
-METtec,0.0,0.0,0.0,0.0,Boundary conditions - essential amino acids
-MGCHrm,0.0,0.0,0.0,0.0,Leucine degradation
-MMCDm,0.0,0.0,0.0,0.0,Propanoate synthesis
-MMEm,0.0,-0.03199999999999559,0.0,-0.01376512114130731,Propanoate metabolism
-MMMm,0.0,-1.9179999999999975,0.0,-1.5842222043481577,Propanoate metabolism
-MMSAD1m,0.0,0.0,0.0,0.0,Propanoate metabolism
+APAT2rm,0.0,0.0,0.0,0.0,Beta-alanine degradation
 MMSAD3m,0.0,0.0,0.0,0.0,Beta-alanine degradation
 MMSAD3m2_MitoCore,0.0,0.0,0.0,0.0,Beta-alanine degradation
-MTHFC,0.0,0.0,0.0,0.0,Folate cytosolic
-MTHFCm,0.0,0.0,0.0,0.0,Folate mitochondrial
-MTHFD,-0.01,-0.01,-0.009,-0.009,Folate cytosolic
-MTHFD2m,0.0,0.0,0.0,0.0,Folate mitochondrial
-MTHFDm,0.0,0.0,0.0,0.0,Folate mitochondrial
-MTPC14_MitoCore,0.2841725407356587,0.2792392555862951,0.2449140731298522,0.20818472069813368,FA metabolism
-MTPC16_MitoCore,0.2841725407356587,0.2792392555862951,0.2449140731298522,0.20818472069813368,FA metabolism
-NABTNOm,0.0,0.0,0.0,0.0,Arginine degradation
+ASP1DC,0.0,0.0,0.0,0.0,Beta-alanine synthesis
+MERCPLACt_MitoCore,-0.0059999999999957,-0.006,-0.0038798586572417,-0.0038798586572438,Boundary Conditions - Biomarkers
+ACt2r,0.0,-0.01,0.0,-0.01,Boundary Conditions - Biomarkers
+AKGt_MitoCore,-1.918,-1.917999999999998,-1.308301802832348,-1.6068343929806013,Boundary Conditions - Biomarkers
+SUMt_MitoCore,-1.918000000000001,-1.917999999999996,-1.547391199441056,-1.7972500053892966,Boundary Conditions - Biomarkers
+UREAt,-0.3289999999999955,-0.329,-0.2682910663086187,-0.2682910663086225,Boundary Conditions - Biomarkers
+ICITt_MitoCore,-1.9180000000000008,-1.917999999999996,-1.1541747364954986,-1.4143764546481554,Boundary Conditions - Biomarkers
+MAL_Lte,-1.918,-1.918,-1.7060130064045058,-1.9178588235294127,Boundary Conditions - Biomarkers
+r1088,-1.918,-1.917999999999996,-1.1541747364954986,-1.4143764546481554,Boundary Conditions - Biomarkers
+r0817,0.0,0.0,0.0,0.0,Boundary Conditions - Biomarkers
+OAAt_MitoCore,-1.918000000000001,-1.9179999999999988,-1.9178588235294152,-1.9178588235294136,Boundary Conditions - Biomarkers
+ARGSUCt_MitoCore,-0.1096666666666656,-0.1096666666666666,-0.0894303554362089,-0.0894303554362067,Boundary Conditions - Biomarkers
+FUMt_MitoCore,-1.918,-1.918,-1.7060130064044816,-1.917858823529411,Boundary Conditions - Biomarkers
+r1512,0.0,0.0,0.0,0.0,Boundary Conditions - Biomarkers
+NH4t3r,-0.314,-0.314,-0.2532910663086191,-0.2532910663086209,Boundary Conditions - Biomarkers
+2HBt2,-0.0169999999999954,-0.017,-0.0109929328621879,-0.0109929328621908,Boundary Conditions - Biomarkers
+CHOLtu,-3.0861516881885165,0.0,-1.9278504570566424,0.0,Boundary Conditions - Biomarkers
+PPAt,-0.0319999999999954,-1.949999999999992,-0.0137651211413088,-1.5979873254894654,Boundary Conditions - Biomarkers
+PEt,0.0,0.0,0.0,0.0,Boundary Conditions - Lipids
+PCHOLHSTDe,-6.51520911950909,0.0,-4.069906520452903,0.0,Boundary Conditions - Lipids
+PSt3,0.0,0.0,0.0,0.0,Boundary Conditions - Lipids
 NADHt_MitoCore,0.0,0.0,0.0,0.0,Boundary Conditions - Misc
 NADHtm_MitoCore,0.0,0.0,0.0,0.0,Boundary Conditions - Misc
-NADt_MitoCore,0.0,0.0,0.0,0.0,Boundary Conditions - Misc
+NOt,-0.3219999999999956,-0.321999999999993,-0.2612910663086192,-0.2612910663086194,Boundary Conditions - Misc
 NADtm_MitoCore,0.0,0.0,0.0,0.0,Boundary Conditions - Misc
-NDPK1,-3.7280000000001037,-1.81,-3.632595665634663,-1.714736842105263,Cytosolic misc
-NDPK1m,-1000.0,0.0,-1000.0,0.0,TCA cycle periphery
-NDPK3m,0.0,0.0,0.0,0.0,Cardiolipin synthesis
-NH4t3r,-0.31400000000000006,-0.31400000000000006,-0.2532910663086191,-0.25329106630862097,Boundary Conditions - Biomarkers
-NNT_MitoCore,0.0,0.0,0.0,0.0,TCA cycle periphery
-NOS1,0.0,0.0,0.0,0.0,NOS Signalling
-NOS2,0.0,0.0,0.0,0.0,NOS Signalling
-NOt,-0.3219999999999956,-0.32199999999999307,-0.2612910663086192,-0.2612910663086194,Boundary Conditions - Misc
+r0899,0.0,0.0,0.0,0.0,Boundary Conditions - Misc
+TSULt_MitoCore,-0.0059999999999954,-0.006,-0.006,-0.006,Boundary Conditions - Misc
+Hmt_MitoCore,-416.6650733884465,-416.5691818481032,-296.8689288975015,-275.07805975504795,Boundary Conditions - Misc
+Hct_MitoCore,-3.690156478227855,-1.9091356029503872,-1.8797381956073629,-2.0028940377885056,Boundary Conditions - Misc
+H2Ot,-16.99573913043477,-17.01991304347827,-13.127618741121182,-12.040838704053773,Boundary Conditions - Misc
+NADt_MitoCore,0.0,0.0,0.0,0.0,Boundary Conditions - Misc
+r0940,0.0,0.0,0.0,0.0,Boundary Conditions - Misc
+COt,0.0,0.0,0.0,0.0,Boundary Conditions - Misc
+CYANt,0.0,0.0,0.0,0.0,Boundary Conditions - Misc
+r1423,0.0,0.0,0.0,0.0,Boundary Conditions - Misc
+FORt_MitoCore,0.0,0.0,0.0,0.0,Boundary Conditions - Misc
+FOLt_MitoCore,0.0,0.0,0.0,0.0,Boundary Conditions - Misc
+FE2t,0.0,0.0,0.0,0.0,Boundary Conditions - Misc
+TCYNTt,0.0,0.0,0.0,0.0,Boundary Conditions - Misc
+SO3t_MitoCore,0.0,0.0,0.0,0.0,Boundary Conditions - Misc
+ETOHt,0.0,0.0,0.0,0.0,Boundary conditions - alternative fuels
+BUTt2r,0.0,0.0,0.0,0.0,Boundary conditions - alternative fuels
+r0942b_MitoCore,0.0,0.0,0.0,0.0,Boundary conditions - alternative fuels
+r0942,0.0,0.0,0.0,0.0,Boundary conditions - alternative fuels
+GLYCt,-0.01,-0.01,-0.01,-0.01,Boundary conditions - alternative fuels
+GLCt1r,0.0,0.0,0.0097441241354554,0.0,Boundary conditions - core
 O2t,15.648742353897726,15.648415749582927,11.076158160212426,10.237314971543322,Boundary conditions - core
-O2tm,15.637073798927641,15.636747194612841,11.067392766523904,10.228487710309208,Mitochondrial transport - diffusion / artificial
-OAAt_MitoCore,-1.918000000000001,-1.9179999999999988,-1.9178588235294152,-1.9178588235294138,Boundary Conditions - Biomarkers
+HDCAtr,0.2841725407356587,0.2792392555862787,0.244914073129861,0.1947174892830119,Boundary conditions - core
+BHBt,0.0,0.0,0.0,0.0,Boundary conditions - core
+Biomass_MitoCore,-100.87424844203969,-100.88218482363732,-71.56378433296909,-66.49206883862075,Boundary conditions - core
+ACACt2,0.0,0.0,0.0,0.0,Boundary conditions - core
+HDCAtm_MitoCore,-0.7032446396410728,-0.708091207472804,-0.7418130216540834,-0.7911272496314026,Boundary conditions - core
+L_LACt2r,-2.055500000000001,-2.087500000000076,-1.329174911660769,-1.349867491166074,Boundary conditions - core
+HCO3t_MitoCore,0.0,0.0,0.0,0.0,Boundary conditions - core
+CO2t,-18.346086956521933,-18.36417391304356,-13.461538465033966,-11.966066114290731,Boundary conditions - core
+METtec,0.0,0.0,0.0,0.0,Boundary conditions - essential amino acids
+HIStiDF,0.0,0.0,0.0,0.0,Boundary conditions - essential amino acids
+ILEtec,0.0,0.0,0.0,0.0,Boundary conditions - essential amino acids
+LYStiDF,0.0,0.0,0.0,0.0,Boundary conditions - essential amino acids
+PHEtec,0.0,0.0,0.0,0.0,Boundary conditions - essential amino acids
+VALtec,0.0,0.0,0.0,0.0,Boundary conditions - essential amino acids
+r2534,0.0,0.0,0.0,0.0,Boundary conditions - essential amino acids
+LEUtec,0.0,0.0,0.0,0.0,Boundary conditions - essential amino acids
+TRPt,0.0,0.0,0.0,0.0,Boundary conditions - essential amino acids
+TYRt,-0.012,-0.012,-0.0118588235294118,-0.0118588235294118,Boundary conditions - nonessential amino acids
+ALAt2r,-0.311999999999986,-0.312,-0.2512910663086192,-0.2512910663086193,Boundary conditions - nonessential amino acids
+GLYt2r,-0.678,-0.678,-0.4370710416883288,-0.4591974492873427,Boundary conditions - nonessential amino acids
+ASPte,-0.154,-0.154,-0.154,-0.154,Boundary conditions - nonessential amino acids
+r2525,-0.3219999999999999,-0.322,-0.2612910663086207,-0.2612910663086193,Boundary conditions - nonessential amino acids
+ARGtiDF,-0.1026666666666651,-0.1026666666666666,-0.0824303554362053,-0.0824303554362092,Boundary conditions - nonessential amino acids
+GLUt_MitoCore,-0.3219999999999998,-0.322,-0.2612910663086203,-0.2612910663086193,Boundary conditions - nonessential amino acids
+CYStec,-0.0049999999999954,-0.005,-0.005,-0.005,Boundary conditions - nonessential amino acids
+r2526,-0.3265,-0.3265,-0.2652910663086192,-0.26529106630862,Boundary conditions - nonessential amino acids
+r2532,-0.3119999999999954,-0.3119999999999996,-0.2512910663086193,-0.2512910663086188,Boundary conditions - nonessential amino acids
+PROt2r,-0.3179999999999955,-0.318,-0.2572910663086193,-0.2572910663086221,Boundary conditions - nonessential amino acids
+FACOAL40im,0.0,0.0,0.0,0.0,Butanoate metabolism
+GLYC3Ptm,0.0,0.0,0.0,0.0,Cardiolipin synthesis
+GPAMm_hsB_MitoCore,0.0,0.0,0.0,0.0,Cardiolipin synthesis
+PCHOLPm_hs,0.0,0.0,0.0,0.0,Cardiolipin synthesis
+GLYK,0.0,0.0,0.0,0.0,Cardiolipin synthesis
+CLPN_MitoCore,-0.01,0.0,-0.01,0.0,Cardiolipin synthesis
+CYTK1m,0.0,0.0,0.0,0.0,Cardiolipin synthesis
+NDPK3m,0.0,0.0,0.0,0.0,Cardiolipin synthesis
+PGPP_hsm_MitoCore,0.0,0.0,0.0,0.0,Cardiolipin synthesis
+CDSm,0.0,0.0,0.0,0.0,Cardiolipin synthesis
+CLS_hsm_MitoCore,0.0,0.0,0.0,0.0,Cardiolipin synthesis
+PGPPTm,0.0,0.0,0.0,0.0,Cardiolipin synthesis
+PPA,0.2842607946290907,0.2801372684086964,0.2449140731298411,0.2081847206981325,Carnitine shuttle
+FACOAL160i,0.2841725407356532,0.2792392555862953,0.244914073129843,0.2081847206981315,Carnitine shuttle
+r2435,0.2841725407356588,0.2792392555862953,0.2449140731298522,0.2081847206981325,Carnitine shuttle
+C160CPT2,0.2841725407356587,0.2792392555862953,0.2449140731298522,0.2081847206981336,Carnitine shuttle
+C160CPT1,0.2841725407356532,0.2792392555862953,0.244914073129843,0.2081847206981336,Carnitine shuttle
+PPAm,0.0,0.0,0.0,0.0,Carnitine shuttle
 OCBTm,0.0,0.0,0.0,0.0,Citrulline biosynthesis
+CBPSam,0.0,0.0,0.0,0.0,Citrulline biosynthesis
+CKc,-1000.0,-1000.0,-1000.0,-1000.0,Creatine ATP buffer
+CK,-922.4167360230208,-920.5439776042732,-945.8293261420728,-948.1047123298116,Creatine ATP buffer
+3SPYRSP,0.0,0.0,0.0,0.0,Cysteine degradation I
+3SALATAi,0.0,0.0,0.0,0.0,Cysteine degradation I
+MCLOR,-0.006,-0.0059999999999954,-0.0038798586572417,-0.0038798586572438,Cysteine degradation II
+r0595B_MitoCore,0.0,0.0,0.0,0.0,Cysteine degradation II
+MCPSTm_MitoCore,0.0,0.0,0.0,0.0,Cysteine degradation II
+CYSTAm,0.0,0.0,0.0,0.0,Cysteine degradation II
+MCPST,0.0,0.0,0.0,0.0,Cysteine degradation II
+r0595m_MitoCore,0.0,0.0,0.0,0.0,Cysteine degradation II
+CYSTA,0.0,0.0,0.0,0.0,Cysteine degradation II
+r0193,0.0,0.0,0.0,0.0,Cysteine degradation III
+ME2,0.0,0.0,0.0,0.0,Cytosolic misc
+ALATA_L,-0.2029999999999956,-0.203,-0.2028588235294143,-0.2028588235294117,Cytosolic misc
+FUM,-1.8949999999999056,-1.894999999999999,-1.6831541828751335,-1.895,Cytosolic misc
+ADK1,0.2842607946291196,0.2801372684086964,0.2449140731298413,0.2081847206981351,Cytosolic misc
+NDPK1,-3.728000000000104,-1.81,-3.632595665634663,-1.714736842105263,Cytosolic misc
+CV_MitoCore,73.13698571015357,73.14316090238789,52.15013358021634,48.13908505152767,Electron transport chain
+CIII_MitoCore,31.226572930108585,31.22593767089773,22.101768327157163,20.4261707298365,Electron transport chain
+CIV_MitoCore,15.613286465054342,15.612968835448866,11.050884163578669,10.21308536491825,Electron transport chain
+CI_MitoCore,10.035054827288084,10.039586746913814,6.8451963397305295,6.718587016366688,Electron transport chain
+CII_MitoCore,3.9719897726842857,3.967987965532726,2.6907535273114003,2.176541942764035,Electron transport chain
+ACACT1rm,-1.1984673913043478,-1.246376811594203,-0.5604710494605727,-0.5813334675665875,FA and ketone body metabolism / Ketogenesis
+r0730,0.284172540735659,0.2792392555862952,0.2449140731298522,0.2081847206981339,FA metabolism
+ACADLC14_MitoCore,0.2841725407356587,0.2792392555862951,0.2449140731298522,0.2081847206981336,FA metabolism
+MTPC16_MitoCore,0.2841725407356587,0.2792392555862951,0.2449140731298522,0.2081847206981336,FA metabolism
+r0660,-1.0,-1.0543913043478257,-0.3835616438356162,-0.4044240619416315,FA metabolism
+r0722,0.2841725407356588,0.2792392555862952,0.2449140731298518,0.2081847206981336,FA metabolism
+r0726,0.2841725407356587,0.2792392555862951,0.2449140731298522,0.2081847206981339,FA metabolism
+r0732,0.284172540735659,0.2792392555862952,0.2449140731298522,0.2081847206981339,FA metabolism
+HACD1m,-1.036,-1.084304347826092,-0.3981654174205221,-0.4190278355265374,FA metabolism
+r0733,0.284172540735659,0.2792392555862953,0.2449140731298522,0.2081847206981339,FA metabolism
+r0731,0.2841725407356587,0.2792392555862953,0.2449140731298522,0.2081847206981336,FA metabolism
+MTPC14_MitoCore,0.2841725407356587,0.2792392555862951,0.2449140731298522,0.2081847206981336,FA metabolism
+r0634,-1.0,-1.054391304347825,-0.3835616438356164,-0.4044240619416318,FA metabolism
+r0287,0.284172540735659,0.2792392555862953,0.2449140731298522,0.2081847206981339,FA metabolism
+r0728,-1.0,-1.0543913043478277,-0.3835616438356162,-0.4044240619416319,FA metabolism
+ECOAH1m,-1.036,-1.084304347826092,-0.3981654174205221,-0.4190278355265374,FA metabolism
+ACADLC16_MitoCore,0.2841725407356587,0.2792392555862952,0.2449140731298522,0.2081847206981325,FA metabolism
+r1448,0.2841725407356587,0.2792392555862953,0.2449140731298522,0.2081847206981336,FA metabolism
+r1450,0.284172540735659,0.2792392555862952,0.2449140731298522,0.2081847206981339,FA metabolism
+r1451,0.2841725407356589,0.2792392555862953,0.2449140731298518,0.2081847206981336,FA metabolism
+r1446,0.2854590633970871,0.2805257782477244,0.246200595791281,0.2094712433595625,FA metabolism
+r0734,0.284172540735659,0.2792392555862953,0.2449140731298522,0.2081847206981339,FA metabolism
+r0724,-1.0,-1.054391304347826,-0.3835616438356164,-0.4044240619416318,FA metabolism
+r1447,0.2841725407356587,0.2792392555862951,0.2449140731298522,0.2081847206981336,FA metabolism
+r0682,0.0,-0.2442857142857142,0.0,-0.1793206719924576,FA synthesis - cytosolic
+r0761,0.0,-0.2442857142857142,0.0,-0.1793206719924572,FA synthesis - cytosolic
+r0693,0.0,0.0,0.0,0.0,FA synthesis - cytosolic
+r0678,0.0,0.0,0.0,0.0,FA synthesis - cytosolic
+r0681,0.0,0.0,0.0,0.0,FA synthesis - cytosolic
+r0692,0.0,-0.2442857142857142,0.0,-0.179320671992458,FA synthesis - cytosolic
+r0713,0.0,0.0,0.0,0.0,FA synthesis - cytosolic
+r0762,0.0,0.0,0.0,0.0,FA synthesis - cytosolic
+r0694,0.0,-0.2442857142857142,0.0,-0.179320671992458,FA synthesis - cytosolic
+r0695,0.0,0.0,0.0,0.0,FA synthesis - cytosolic
+r0702,0.0,0.0,0.0,0.0,FA synthesis - cytosolic
+ACOATA,0.0,0.0,0.0,0.0,FA synthesis - cytosolic
+r0696,0.0,-0.2442857142857143,0.0,-0.179320671992458,FA synthesis - cytosolic
+r0691,0.0,-0.2442857142857142,0.0,-0.1793206719924578,FA synthesis - cytosolic
+r0712,0.0,-0.2442857142857143,0.0,-0.1793206719924572,FA synthesis - cytosolic
+r0701,0.0,-0.2442857142857143,0.0,-0.179320671992458,FA synthesis - cytosolic
+r0760,0.0,0.0,0.0,0.0,FA synthesis - cytosolic
+r0771,0.0,-0.2442857142857143,0.0,-0.1793206719924572,FA synthesis - cytosolic
+FA160ACPH,0.0,0.0,0.0,0.0,FA synthesis - cytosolic
+ACCOAC,0.0,0.0,0.0,0.0,FA synthesis - cytosolic
+r0767,0.0,-0.2442857142857143,0.0,-0.1793206719924572,FA synthesis - cytosolic
+r0770,0.0,0.0,0.0,0.0,FA synthesis - cytosolic
+r0772,0.0,0.0,0.0,0.0,FA synthesis - cytosolic
+r0773,0.0,-0.2442857142857146,0.0,-0.1793206719924573,FA synthesis - cytosolic
+r0769,0.0,-0.2442857142857143,0.0,-0.179320671992458,FA synthesis - cytosolic
+r0697,0.0,0.0,0.0,0.0,FA synthesis - cytosolic
+r0764,0.0,0.0,0.0,0.0,FA synthesis - cytosolic
+r0765,0.0,-0.2442857142857142,0.0,-0.1793206719924572,FA synthesis - cytosolic
+MCOATA,0.0,0.0,0.0,0.0,FA synthesis - cytosolic
+r0766,0.0,0.0,0.0,0.0,FA synthesis - cytosolic
+r0768,0.0,0.0,0.0,0.0,FA synthesis - cytosolic
+r0763,0.0,-0.2442857142857142,0.0,-0.1793206719924575,FA synthesis - cytosolic
+MECR14C_MitoCore,0.0,0.0,0.0,0.0,Fatty acid elongation in mitochondria
+ACOT2_MitoCore,0.0,0.0,0.0,0.0,Fatty acid elongation in mitochondria
+MECR16C_MitoCore,0.0,0.0,0.0,0.0,Fatty acid elongation in mitochondria
+r0735,-16.450628726638268,-9.14191273242106,-4.284814924147645,-2.381149362863159,Fatty acid elongation in mitochondria
+r0633,-16.45062872663827,-9.14191273242106,-4.284814924147645,-2.381149362863159,Fatty acid elongation in mitochondria
+r0791,0.0,0.0,0.0,0.0,Fatty acid elongation in mitochondria
+r0638,-16.45062872663828,-9.14191273242106,-4.284814924147646,-2.381149362863159,Fatty acid elongation in mitochondria
+FOLR2,0.0,0.0,0.0,0.0,Folate cytosolic
+DHFR,0.0,0.0,0.0,0.0,Folate cytosolic
+FTCD,0.0,0.0,0.0,0.0,Folate cytosolic
+MTHFC,0.0,0.0,0.0,0.0,Folate cytosolic
+FTHFDH,0.0,0.0,0.0,0.0,Folate cytosolic
+FTHFL,0.0,0.0,0.0,0.0,Folate cytosolic
+MTHFD,-0.01,-0.01,-0.009,-0.009,Folate cytosolic
+r0514,0.0,0.0,0.0,0.0,Folate mitochondrial
+MTHFD2m,0.0,0.0,0.0,0.0,Folate mitochondrial
+MTHFDm,0.0,0.0,0.0,0.0,Folate mitochondrial
+FTHFDHm_MitoCore,0.0,0.0,0.0,0.0,Folate mitochondrial
+r0226,0.0,0.0,0.0,0.0,Folate mitochondrial
+FTHFLm,0.0,0.0,0.0,0.0,Folate mitochondrial
+MTHFCm,0.0,0.0,0.0,0.0,Folate mitochondrial
+GLUDC,0.0,0.0,0.0,0.0,GABA shunt
+r0178,0.0,0.0,0.0,0.0,GABA shunt
+ABTArm,0.0,0.0,0.0,0.0,GABA shunt
+4ABUTtm,0.0,0.0,0.0,0.0,GABA shunt - transport
+G6PPer,0.0,0.0,0.0,0.0,Gluconeogenesis
+PEPCK,0.0,0.0,0.0,0.0,Gluconeogenesis
+FBP,0.0,0.0,0.0,0.0,Gluconeogenesis
+GLUDxm,0.0,0.0,0.0,0.0,Glutamate degradation/synthesis
+GLUDym,0.0,0.0,0.0,0.0,Glutamate degradation/synthesis
+GLUDxi,0.0,0.0,0.0,0.0,Glutamate degradation/synthesis - cytosolic
+GLUDy,0.0,0.0,0.0,0.0,Glutamate degradation/synthesis - cytosolic
+GLUNm,0.0,0.0,0.0,0.0,Glutamine degradation
+GLUN_MitoCore,0.0,0.0,0.0,0.0,Glutamine degradation - cytosolic
+GLNS,0.0,0.0,0.0,0.0,Glutamine synthesis
+r0129,0.0,0.0,0.0,0.0,Glutathione degradation
+AMPTASECG,0.0,0.0,0.0,0.0,Glutathione degradation
+GTHS,0.0,0.0,0.0,0.0,Glutathione synthesis
+GLUCYS,0.0,0.0,0.0,0.0,Glutathione synthesis
+G3PD1,-4.4329999999999945,-4.432999999999995,-4.081200887889126,-4.081200887889113,Glycerol phosphate shuttle
+r0205,0.0,0.0,0.0,0.0,Glycerol phosphate shuttle
+GCCcm,-0.344,-0.344,-0.1859063829787234,-0.1859063829787234,Glycine cleavage system (GCS)
+GCCbim,-0.344,-0.344,-0.1859063829787234,-0.1859063829787234,Glycine cleavage system (GCS)
+GCCam,-0.344,-0.344,-0.1859063829787234,-0.1859063829787234,Glycine cleavage system (GCS)
+GLYOXm,0.0,0.0,0.0,0.0,Glycine degradation
+LGTHLm_MitoCore,0.0,0.0,0.0,0.0,Glycine degradation
+AOBUTDsm,0.0,0.0,0.0,0.0,Glycine degradation
+LDH_Dm_MitoCore,0.0,0.0,0.0,0.0,Glycine degradation
+AACTOORm_MitoCore,0.0,0.0,0.0,0.0,Glycine degradation
+HEX1,0.0,0.0,0.0097441241354603,0.0,Glycolysis
+PFK,0.0,0.0,0.0,0.0,Glycolysis
+r0122,0.0,0.0,0.0,0.0,Glycolysis
+PGM,-1.81,-1.81,-1.714736842105263,-1.714736842105263,Glycolysis/gluconeogenesis
+LDH_L,-2.055499999999989,-2.087499999999995,-1.329174911660769,-1.349867491166074,Glycolysis/gluconeogenesis
+PYK,0.0,0.0,0.0,0.0,Glycolysis/gluconeogenesis
+TPI,-1.351650107202592,0.0,-0.2901181182073897,0.0,Glycolysis/gluconeogenesis
+ENO,-1.1424999999999947,-0.3219999999999955,-0.2213549252029577,-0.2612910663086192,Glycolysis/gluconeogenesis
+GAPD,-0.8204999999999982,0.0,0.0160561645746817,0.0,Glycolysis/gluconeogenesis
+FBA,0.0,0.0,0.0,0.0,Glycolysis/gluconeogenesis
+PGK,-1.81,-1.81,-1.714736842105263,-1.714736842105263,Glycolysis/gluconeogenesis
+PGI,-0.2513333333333255,0.0,-0.2089486229603252,0.0,Glycolysis/gluconeogenesis
+HOXG,0.0,0.0,0.0,0.0,Haem Degradation
+BILIRED2_MitoCore,0.0,0.0,0.0,0.0,Haem Degradation
+BILIRED,0.0,0.0,0.0,0.0,Haem Degradation
+ALASm,0.0,0.0,0.0,0.0,Haem Synthesis
+UPPDC1,0.0,0.0,0.0,0.0,Haem Synthesis
+PPPGOmB_MitoCore,0.0,0.0,0.0,0.0,Haem Synthesis
+CPPPGO,0.0,0.0,0.0,0.0,Haem Synthesis
+HMBS,0.0,0.0,0.0,0.0,Haem Synthesis
+5AOPtm,0.0,0.0,0.0,0.0,Haem Synthesis
+PHEMEtm,0.0,0.0,0.0,0.0,Haem Synthesis
+FCLTm,0.0,0.0,0.0,0.0,Haem Synthesis
+IZPN,0.0,0.0,0.0,0.0,Histidine degradation
+GluForTx,0.0,0.0,0.0,0.0,Histidine degradation
+HISD,0.0,0.0,0.0,0.0,Histidine degradation
+URCN,0.0,0.0,0.0,0.0,Histidine degradation
+ILETAm,0.0,0.0,0.0,0.0,Isoleucine degradation
+ACACT10m,0.0,0.0,0.0,0.0,Isoleucine degradation
+ECOAH9m,0.0,0.0,0.0,0.0,Isoleucine degradation
+HACD9m,0.0,0.0,0.0,0.0,Isoleucine degradation
+r0603,0.0,0.0,0.0,0.0,Isoleucine degradation
+OIVD3m,0.0,0.0,0.0,0.0,Isoleucine degradation
+HMGCOASim,0.0,0.0,0.0,0.0,Ketogenesis
+HMGLm,0.0,0.0,0.0,0.0,Ketogenesis / Leucine degradation
 OCOAT1m,0.0,0.0,0.0,0.0,Ketone bodies - degradation
+BDHm,0.0,0.0,0.0,0.0,Ketone bodies - degradation
+r0655,0.0,0.0,0.0,0.0,Leucine degradation
+MCCCrm,0.0,0.0,0.0,0.0,Leucine degradation
+MGCHrm,0.0,0.0,0.0,0.0,Leucine degradation
+LEUTAm,0.0,0.0,0.0,0.0,Leucine degradation
+OIVD1m,0.0,0.0,0.0,0.0,Leucine degradation
+PPD2CSPc_MitoCore,0.0,0.0,0.0,0.0,Lysine degradation (L-pipecolate pathway)
+RE1254C,0.0,0.0,0.0,0.0,Lysine degradation (L-pipecolate pathway)
+1PPDCRc_NADPH_MitoCore,0.0,0.0,0.0,0.0,Lysine degradation (L-pipecolate pathway)
+LYSOXc_MitoCore,0.0,0.0,0.0,0.0,Lysine degradation (L-pipecolate pathway)
+1PPDCRc_MitoCore,0.0,0.0,0.0,0.0,Lysine degradation (L-pipecolate pathway)
+LPCOXc_MitoCore,0.0,0.0,0.0,0.0,Lysine degradation (L-pipecolate pathway)
+r0594,0.0,0.0,0.0,0.0,Lysine degradation (L-pipecolate pathway)
+r0450,0.0,0.0,0.0,0.0,Lysine degradation (saccharopine pathway)
+SACCD3m,0.0,0.0,0.0,0.0,Lysine degradation (saccharopine pathway)
+R03103_MitoCore,0.0,0.0,0.0,0.0,Lysine degradation (saccharopine pathway)
+AASAD3m,0.0,0.0,0.0,0.0,Lysine degradation (saccharopine pathway)
+r0525,0.0,0.0,0.0,0.0,Lysine degradation (saccharopine pathway)
+MDH,-2.705,-2.705,-2.3457071827294937,-2.345707182729491,Malate aspartate shuttle
+AKGMALtm,-0.6639999999999909,-4.052,-0.540582132617245,-2.243093959159793,Malate aspartate shuttle
+ASPGLUmB_MitoCore,0.0,0.0,0.0,0.0,Malate aspartate shuttle
+ASPTAm,-4.443000000000065,-4.442999999999995,-4.09091919774834,-4.090919197748269,Malate aspartate shuttle
+ASPTA,-0.158,-0.1579999999999999,-0.0972910663086251,-0.0972910663086192,Malate aspartate shuttle
+CYSTS,0.0,0.0,0.0,0.0,Methionine and Serine degradation
+CYSTGL,0.0,0.0,0.0,0.0,Methionine and Serine degradation
+ADNK1,0.0,0.0,0.0,0.0,Methionine degradation
+METAT,0.0,0.0,0.0,0.0,Methionine degradation
+METAT2_MitoCore,0.0,0.0,0.0,0.0,Methionine degradation
+AHC,0.0,0.0,0.0,0.0,Methionine degradation
+r0838B_MitoCore,-26.25051522469075,-26.22855443385182,-18.61441131327078,-17.358377348351,Mitochondrial transport - diffusion / artificial
+GLYCtm,-1.4911794077386256,0.0,-0.9345627605001352,0.0,Mitochondrial transport - diffusion / artificial
+CREATtmdiffir,-922.4167360230202,-920.5439776042732,-945.8293261420728,-948.1047123298118,Mitochondrial transport - diffusion / artificial
+CYANtm,0.0,0.0,0.0,0.0,Mitochondrial transport - diffusion / artificial
+O2tm,15.63707379892764,15.63674719461284,11.067392766523904,10.228487710309208,Mitochondrial transport - diffusion / artificial
+CO2tm,-18.42308695652196,-18.35633695652167,-12.42988344284874,-11.44660184448243,Mitochondrial transport - diffusion / artificial
+r0941,0.0,0.0,0.0,0.0,Mitochondrial transport - diffusion / artificial
+Biomasst_MitoCore,-8.57264357830128,-0.0093023255813953,-5.35514015849039,-0.0093023255813953,Mitochondrial transport - diffusion / artificial
+PCREATtmdiffirB_MitoCore,-922.4167360230202,-920.5439776042732,-945.8293261420728,-948.1047123298118,Mitochondrial transport - diffusion / artificial
+H2Otm,-135.46109030340878,-135.46436225368862,-97.7053979641769,-89.9245305277429,Mitochondrial transport - diffusion / artificial
+TCYNTtmB_MitoCore,0.0,0.0,0.0,0.0,Mitochondrial transport - diffusion / artificial
+PSFLIPm,0.0,0.0,0.0,0.0,Mitochondrial transport - lipids
+PCFLOPm,0.0,0.0,0.0,0.0,Mitochondrial transport - lipids
+PEFLIPm,0.0,0.0,0.0,0.0,Mitochondrial transport - lipids
+CITtamB,-2.555999999999996,-6.214285714285705,-2.439794147635892,-3.622095286919665,Mitochondrial transporters - characterised
+MALSO4tm,-1000.0,-1000.0,-1000.0,-1000.0,Mitochondrial transporters - characterised
+MALSO3tm,-1000.0,-1000.0,-1000.0,-1000.0,Mitochondrial transporters - characterised
+LYStmB_MitoCore,-1000.0,-1000.0,-1000.0,-1000.0,Mitochondrial transporters - characterised
+r2402B_MitoCore,-1000.0,-1000.0,-1000.0,-1000.0,Mitochondrial transporters - characterised
+r2398B_MitoCore,-1000.0,-1000.0,-1000.0,-1000.0,Mitochondrial transporters - characterised
+ARGtmB_MitoCore,-1000.0,-1000.0,-1000.0,-1000.0,Mitochondrial transporters - characterised
+MALtm,-1000.0,-1000.0,-1000.0,-1000.0,Mitochondrial transporters - characterised
+SUCCt3m_MitoCore,-1000.0,-1000.0,-1000.0,-1000.0,Mitochondrial transporters - characterised
+SUCCt2m,-1000.0,-1000.0,-1000.0,-1000.0,Mitochondrial transporters - characterised
+COAtmB_MitoCore,0.0,0.0,0.0,0.0,Mitochondrial transporters - characterised
+COAtmC_MitoCore,0.0,0.0,0.0,0.0,Mitochondrial transporters - characterised
+PIt2mB_MitoCore,-334.9762361457665,-334.9117752566225,-239.534507461544,-221.65459460884315,Mitochondrial transporters - characterised
+MALTSULtm,-1000.0,-1000.0,-1000.0,-1000.0,Mitochondrial transporters - characterised
+HtmB_MitoCore,0.0,0.0,0.0,0.0,Mitochondrial transporters - characterised
+r0917b_MitoCore,-74.64694384710955,-74.65281676949093,-52.957200406397305,-49.20413094057964,Mitochondrial transporters - characterised
+ORNt3mB_MitoCore,-1000.0,-1000.0,-1000.0,-1000.0,Mitochondrial transporters - characterised
+FE2tm,0.0,0.0,0.0,0.0,Mitochondrial transporters - characterised
+ORNt4mB_MitoCore,-1000.0,-1000.0,-1000.0,-1000.0,Mitochondrial transporters - characterised
+PYRt2m,0.0,0.0,0.3021837266149418,0.0,Mitochondrial transporters - characterised
+ATPtmB_MitoCore,-922.4167360230203,-920.5439776042732,-945.829326142073,-948.1047123298118,Mitochondrial transporters - characterised
+r0830,-1000.0,-1000.0,-1000.0,-1000.0,Mitochondrial transporters - characterised
+ACACt2mB_MitoCore,0.0,0.0,0.0,0.0,Mitochondrial transporters - characterised
+r0829,-1000.0,-1000.0,-1000.0,-1000.0,Mitochondrial transporters - characterised
+r0917,0.0,0.0,0.0,0.0,Mitochondrial transporters - characterised
+r0913,0.0,0.0,0.0,0.0,Mitochondrial transporters - characterised
+GLUt2mB_MitoCore,0.0,0.0,0.0,0.0,Mitochondrial transporters - characterised
+CITtbm,-1.917999999999996,0.0,-1.9178588235294125,0.0,Mitochondrial transporters - characterised
+r1427,0.0,0.0,0.0,0.0,Mitochondrial transporters - characterised
+r0830B_MitoCore,-1000.0,-1000.0,-1000.0,-1000.0,Mitochondrial transporters - characterised
+r1440,0.0,0.0,0.0,0.0,Mitochondrial transporters - uncharacterised
+FORt2mB_MitoCore,0.0,0.0,0.0,0.0,Mitochondrial transporters - uncharacterised
+FUMtmB_MitoCore,-41.01480431159814,-41.01803119202793,-29.097362860658222,-27.035236780537684,Mitochondrial transporters - uncharacterised
+VALt5m,0.0,0.0,0.0,0.0,Mitochondrial transporters - uncharacterised
+r1437,0.0,0.0,0.0,0.0,Mitochondrial transporters - uncharacterised
+PROtm,-0.3179999999999955,-0.3180000000001186,-0.2572910663086207,-0.2572910663085181,Mitochondrial transporters - uncharacterised
+BHBtmB_MitoCore,0.0,0.0,0.0,0.0,Mitochondrial transporters - uncharacterised
+PPAtmB_MitoCore,-0.0319999999999196,-1.949999999999944,-0.013765121141311,-1.5979873254894024,Mitochondrial transporters - uncharacterised
+BALAtmr,0.0,0.0,0.0,0.0,Mitochondrial transporters - uncharacterised
+GLYtm,-0.6880000000000001,-0.6879999999997968,-0.3718127659574468,-0.3718127659574468,Mitochondrial transporters - uncharacterised
+GLNtm,0.0,0.0,0.0,0.0,Mitochondrial transporters - uncharacterised
+r1078,0.0,0.0,0.0,0.0,Mitochondrial transporters - uncharacterised
+UREAtm,-0.3289999999998372,-0.3289999999998372,-0.2682910663085259,-0.2682910663085067,Mitochondrial transporters - uncharacterised
+r1434,-414.7042435950498,-414.73687094161534,-294.9038259083143,-273.35528300321187,Mitochondrial transporters - uncharacterised
+ASNtm,0.0,0.0,0.0,0.0,Mitochondrial transporters - uncharacterised
+r1435,-0.1323333333332985,-0.3429999999998964,-0.0715163120567376,-0.1853659574468085,Mitochondrial transporters - uncharacterised
+CHLtmB_MitoCore,-3.086151688188598,0.0,-1.9278504570566384,0.0,Mitochondrial transporters - uncharacterised
+TRPtm_MitoCore,0.0,0.0,0.0,0.0,Mitochondrial transporters - uncharacterised
+LEUt5m,0.0,0.0,0.0,0.0,Mitochondrial transporters - uncharacterised
+r1455,0.0,0.0,0.0,0.0,Mitochondrial transporters - uncharacterised
+r1436,0.0,0.0,0.0,0.0,Mitochondrial transporters - uncharacterised
+ILEt5m,0.0,0.0,0.0,0.0,Mitochondrial transporters - uncharacterised
+BUTt2mB_MitoCore,0.0,0.0,0.0,0.0,Mitochondrial transporters - uncharacterised
+r0962B_MitoCore,0.0,0.0,0.0,0.0,Mitochondrial transporters - uncharacterised
+NOS2,0.0,0.0,0.0,0.0,NOS Signalling
+NOS1,0.0,0.0,0.0,0.0,NOS Signalling
 OF_ATP_MitoCore,80.69939875363183,80.7057478589096,57.25102746637582,53.19365507089717,Objective Function - ATP 
 OF_HEME_MitoCore,0.0,0.0,0.0,0.0,Objective Function - Heme
 OF_LIPID_MitoCore,0.0,0.0,0.0,0.0,Objective Function - Lipid synthesis 
 OF_PROTEIN_MitoCore,0.0,0.0,0.0,0.0,Objective Function - Protein Synthesis
-OIVD1m,0.0,0.0,0.0,0.0,Leucine degradation
-OIVD2m,0.0,0.0,0.0,0.0,Valine degradation
-OIVD3m,0.0,0.0,0.0,0.0,Isoleucine degradation
+ORNTArm,-0.315,-0.154,-0.2542910663086218,-0.1236455331543096,Ornithine degradation
+r0464c_MitoCore,0.0,0.0,0.0,0.0,Ornithine degradation (cytosolic)
+PTRCOX1,0.0,0.0,0.0,0.0,Ornithine degradation (cytosolic)
+ABUTD,0.0,0.0,0.0,0.0,Ornithine degradation (cytosolic)
 ORNDC,0.0,0.0,0.0,0.0,Ornithine degradation (cytosolic)
-ORNTArm,-0.31500000000000006,-0.15400000000000003,-0.25429106630862186,-0.12364553315430965,Ornithine degradation
-ORNt3mB_MitoCore,-1000.0,-1000.0,-1000.0,-1000.0,Mitochondrial transporters - characterised
-ORNt4mB_MitoCore,-1000.0,-1000.0,-1000.0,-1000.0,Mitochondrial transporters - characterised
+PGL,0.0,0.0,0.0,0.0,Pentose phosphate pathway
+TALA,0.0,0.0,0.0,0.0,Pentose phosphate pathway
+GND,0.0,0.0,0.0,0.0,Pentose phosphate pathway
+RPI,-0.1256666666666666,0.0,-0.1044743114801655,0.0,Pentose phosphate pathway
+RPE,0.0,0.0,0.0,0.0,Pentose phosphate pathway
+TKT2,0.0,0.0,0.0,0.0,Pentose phosphate pathway
+G6PDH2r,0.0,0.0,0.0,0.0,Pentose phosphate pathway
+TKT1,0.0,0.0,0.0,0.0,Pentose phosphate pathway
+r0399,0.0,0.0,0.0,0.0,Phenylalanine degradation
+DHPR,0.0,0.0,0.0,0.0,Phenylalanine degradation
+r0074,0.0,0.0,0.0,0.0,Proline / ornithine degradation
+PROD2mB_MitoCore,0.0,0.0,0.0,0.0,Proline degradation
+G5SADrm,-0.004,-0.004,-0.004,-0.004,Proline degradation/synthesis
 P5CRm,0.0,0.0,0.0,0.0,Proline synthesis
 P5CRxm,0.0,0.0,0.0,0.0,Proline synthesis
-PCFLOPm,0.0,0.0,0.0,0.0,Mitochondrial transport - lipids
-PCHOLHSTDe,-6.51520911950909,0.0,-4.069906520452903,0.0,Boundary Conditions - Lipids
-PCHOLPm_hs,0.0,0.0,0.0,0.0,Cardiolipin synthesis
-PCLAD,0.0,0.0,0.0,0.0,Tryptophan Metabolism 
-PCREATtmdiffirB_MitoCore,-922.4167360230202,-920.5439776042731,-945.8293261420728,-948.1047123298118,Mitochondrial transport - diffusion / artificial
-PCm,0.0,0.0,0.0,0.0,TCA cycle periphery
-PDHm,0.0,0.0,0.32569364812244994,0.0,TCA cycle
-PEFLIPm,0.0,0.0,0.0,0.0,Mitochondrial transport - lipids
-PEPCK,0.0,0.0,0.0,0.0,Gluconeogenesis
-PEPCKm,0.0,0.0,0.0,0.0,TCA cycle periphery
-PEt,0.0,0.0,0.0,0.0,Boundary Conditions - Lipids
-PFK,0.0,0.0,0.0,0.0,Glycolysis
-PGCD,0.0,0.0,0.0,0.0,Serine and glycine biosynthesis
-PGI,-0.2513333333333255,0.0,-0.20894862296032524,0.0,Glycolysis/gluconeogenesis
-PGK,-1.81,-1.81,-1.714736842105263,-1.714736842105263,Glycolysis/gluconeogenesis
-PGL,0.0,0.0,0.0,0.0,Pentose phosphate pathway
-PGM,-1.81,-1.81,-1.714736842105263,-1.714736842105263,Glycolysis/gluconeogenesis
-PGPPTm,0.0,0.0,0.0,0.0,Cardiolipin synthesis
-PGPP_hsm_MitoCore,0.0,0.0,0.0,0.0,Cardiolipin synthesis
-PHEMEtm,0.0,0.0,0.0,0.0,Haem Synthesis
-PHEtec,0.0,0.0,0.0,0.0,Boundary conditions - essential amino acids
-PIt2mB_MitoCore,-334.9762361457665,-334.9117752566225,-239.53450746154397,-221.65459460884313,Mitochondrial transporters - characterised
-PPA,0.2842607946290907,0.2801372684086964,0.24491407312984112,0.20818472069813254,Carnitine shuttle
-PPAm,0.0,0.0,0.0,0.0,Carnitine shuttle
-PPAt,-0.03199999999999545,-1.9499999999999922,-0.013765121141308888,-1.5979873254894654,Boundary Conditions - Biomarkers
-PPAtmB_MitoCore,-0.03199999999991962,-1.9499999999999433,-0.01376512114131103,-1.5979873254894024,Mitochondrial transporters - uncharacterised
+G5SDym,0.0,0.0,0.0,0.0,Proline synthesis
+GLU5Km,0.0,0.0,0.0,0.0,Proline synthesis
+MMSAD1m,0.0,0.0,0.0,0.0,Propanoate metabolism
 PPCOACm,0.0,0.0,0.0,0.0,Propanoate metabolism
-PPD2CSPc_MitoCore,0.0,0.0,0.0,0.0,Lysine degradation (L-pipecolate pathway)
-PPPGOmB_MitoCore,0.0,0.0,0.0,0.0,Haem Synthesis
-PROD2mB_MitoCore,0.0,0.0,0.0,0.0,Proline degradation
-PROt2r,-0.3179999999999955,-0.31800000000000006,-0.2572910663086193,-0.2572910663086221,Boundary conditions - nonessential amino acids
-PROtm,-0.3179999999999955,-0.31800000000011863,-0.25729106630862075,-0.25729106630851817,Mitochondrial transporters - uncharacterised
-PSERT,0.0,0.0,0.0,0.0,Serine and glycine biosynthesis
-PSFLIPm,0.0,0.0,0.0,0.0,Mitochondrial transport - lipids
-PSP_L,0.0,0.0,0.0,0.0,Serine and glycine biosynthesis
-PSt3,0.0,0.0,0.0,0.0,Boundary Conditions - Lipids
-PTRCAT1m_MitoCore,0.0,0.0,0.0,0.0,Arginine degradation
-PTRCOX1,0.0,0.0,0.0,0.0,Ornithine degradation (cytosolic)
-PYK,0.0,0.0,0.0,0.0,Glycolysis/gluconeogenesis
-PYRt2m,0.0,0.0,0.30218372661494186,0.0,Mitochondrial transporters - characterised
-R03103_MitoCore,0.0,0.0,0.0,0.0,Lysine degradation (saccharopine pathway)
-RE1254C,0.0,0.0,0.0,0.0,Lysine degradation (L-pipecolate pathway)
+ACCOALm,0.0,0.0,0.0,0.0,Propanoate metabolism
+MMEm,0.0,-0.0319999999999955,0.0,-0.0137651211413073,Propanoate metabolism
+MMMm,0.0,-1.9179999999999973,0.0,-1.5842222043481575,Propanoate metabolism
+MMCDm,0.0,0.0,0.0,0.0,Propanoate synthesis
 RE2649M,0.0,0.0,0.0,0.0,Propanoate synthesis
-RPE,0.0,0.0,0.0,0.0,Pentose phosphate pathway
-RPI,-0.12566666666666668,0.0,-0.10447431148016557,0.0,Pentose phosphate pathway
-SACCD3m,0.0,0.0,0.0,0.0,Lysine degradation (saccharopine pathway)
-SO3t_MitoCore,0.0,0.0,0.0,0.0,Boundary Conditions - Misc
-SPODMm,0.01003505482728813,0.010039586746913768,0.0068451963397318984,0.006718587016366748,ROS defense
-SUCCt2m,-1000.0,-1000.0,-1000.0,-1000.0,Mitochondrial transporters - characterised
-SUCCt3m_MitoCore,-1000.0,-1000.0,-1000.0,-1000.0,Mitochondrial transporters - characterised
-SUCOAS1m,-1000.0,0.0,-1000.0,0.0,TCA cycle
-SUCOASm,-1000.0,-7.243739130434781,-1000.0,-3.9737919481533335,TCA cycle
-SUMt_MitoCore,-1.918000000000001,-1.9179999999999957,-1.5473911994410559,-1.7972500053892966,Boundary Conditions - Biomarkers
-TALA,0.0,0.0,0.0,0.0,Pentose phosphate pathway
-TCYNTt,0.0,0.0,0.0,0.0,Boundary Conditions - Misc
-TCYNTtmB_MitoCore,0.0,0.0,0.0,0.0,Mitochondrial transport - diffusion / artificial
-THRD_L,0.0,0.0,0.0,0.0,Threonine degradation
-TKT1,0.0,0.0,0.0,0.0,Pentose phosphate pathway
-TKT2,0.0,0.0,0.0,0.0,Pentose phosphate pathway
-TPI,-1.351650107202592,0.0,-0.29011811820738975,0.0,Glycolysis/gluconeogenesis
-TRPO2,0.0,0.0,0.0,0.0,Tryptophan Metabolism 
-TRPt,0.0,0.0,0.0,0.0,Boundary conditions - essential amino acids
-TRPtm_MitoCore,0.0,0.0,0.0,0.0,Mitochondrial transporters - uncharacterised
-TSULt_MitoCore,-0.0059999999999954525,-0.006,-0.006,-0.006,Boundary Conditions - Misc
-TYRTA,-0.29900000000000004,-0.29899999999999055,-0.23843224277921005,-0.23843224277920747,Tyrosine degradation
-TYRTB_MitoCore,0.0,0.0,0.0,0.0,Tyrosine degradation
-TYRt,-0.012,-0.012,-0.0118588235294118,-0.0118588235294118,Boundary conditions - nonessential amino acids
-UPPDC1,0.0,0.0,0.0,0.0,Haem Synthesis
-URCN,0.0,0.0,0.0,0.0,Histidine degradation
-UREAt,-0.3289999999999955,-0.329,-0.26829106630861876,-0.26829106630862254,Boundary Conditions - Biomarkers
-UREAtm,-0.3289999999998372,-0.3289999999998372,-0.2682910663085259,-0.26829106630850674,Mitochondrial transporters - uncharacterised
-VALTAm,0.0,0.0,0.0,0.0,Valine degradation
-VALt5m,0.0,0.0,0.0,0.0,Mitochondrial transporters - uncharacterised
-VALtec,0.0,0.0,0.0,0.0,Boundary conditions - essential amino acids
+AMPD1,0.0,0.0,0.0,0.0,Purine Nucleotide Cycle
+ADSL1,0.0,0.0,0.0,0.0,Purine Nucleotide Cycle
+ADSS,0.0,0.0,0.0,0.0,Purine Nucleotide Cycle
+GTHP,0.0,0.0,0.0,0.0,ROS defense
+SPODMm,0.0100350548272881,0.0100395867469137,0.0068451963397318,0.0067185870163667,ROS defense
+GTHO,0.0,0.0,0.0,0.0,ROS defense
+GTHPm,0.0100350548272881,0.0100395867469137,0.006845196339732,0.0067185870163667,ROS defense
+GTHOm,0.0100350548272881,0.0100395867469137,0.006845196339732,0.0067185870163667,ROS defense
+ACONT,-74.74622384710928,-74.65281676949134,-53.053464142657454,-49.300394676843545,Reductive carboxylation
+ICDHy,-0.1,-0.1,-0.0962637362637363,-0.0962637362637363,Reductive carboxylation
+ACITL,0.0,0.0,0.0,0.0,Reductive carboxylation / Acetyl-CoA production for biosynthesis
+PSERT,0.0,0.0,0.0,0.0,Serine and glycine biosynthesis
+PSP_L,0.0,0.0,0.0,0.0,Serine and glycine biosynthesis
+PGCD,0.0,0.0,0.0,0.0,Serine and glycine biosynthesis
+GHMT2r,-0.01,-0.01,-0.009,-0.009,Serine and glycine biosynthesis
+GHMT2rm,-0.1323333333333333,-0.3429999999999999,-0.0715163120567376,-0.1853659574468085,Serine and glycine biosynthesis
 r0060,0.0,0.0,0.0,0.0,Serine degradation
-r0074,0.0,0.0,0.0,0.0,Proline / ornithine degradation
+SUCOAS1m,-1000.0,0.0,-1000.0,0.0,TCA cycle
+AKGDm,0.0,4.423488478764553,0.1745585383020907,2.722618507153346,TCA cycle
+FUMm,-34.186400193022074,-34.14463988768042,-24.2216530263808,-23.06144483238506,TCA cycle
+ACONTm,-67.77798178482385,-67.82742546514343,-48.00622683585827,-44.32634909994693,TCA cycle
+MDHm,3.80855321439416,3.809007620397456,2.189299032010912,1.8986708509750727,TCA cycle
+PDHm,0.0,0.0,0.3256936481224499,0.0,TCA cycle
+CSm,5.2730148356441,5.283127665074408,3.6647627709523976,3.388221568519925,TCA cycle
+ICDHxm,0.0,0.0,0.0,0.0,TCA cycle
+ICDHyrm,-75.05917426191188,-2.212640664366225,-53.81767360343844,-1.758232581617189,TCA cycle
+SUCOASm,-1000.0,-7.243739130434781,-1000.0,-3.9737919481533335,TCA cycle
+PCm,0.0,0.0,0.0,0.0,TCA cycle periphery
 r0081,-414.704243595052,-414.73687094161886,-294.90382590829626,-273.3552830032213,TCA cycle periphery
-r0122,0.0,0.0,0.0,0.0,Glycolysis
-r0127,0.0,0.0,0.0,0.0,Asparagine degradation
-r0129,0.0,0.0,0.0,0.0,Glutathione degradation
-r0178,0.0,0.0,0.0,0.0,GABA shunt
-r0193,0.0,0.0,0.0,0.0,Cysteine degradation III
-r0205,0.0,0.0,0.0,0.0,Glycerol phosphate shuttle
-r0226,0.0,0.0,0.0,0.0,Folate mitochondrial
-r0287,0.284172540735659,0.2792392555862953,0.2449140731298522,0.20818472069813396,FA metabolism
-r0399,0.0,0.0,0.0,0.0,Phenylalanine degradation
-r0450,0.0,0.0,0.0,0.0,Lysine degradation (saccharopine pathway)
-r0464c_MitoCore,0.0,0.0,0.0,0.0,Ornithine degradation (cytosolic)
-r0514,0.0,0.0,0.0,0.0,Folate mitochondrial
-r0525,0.0,0.0,0.0,0.0,Lysine degradation (saccharopine pathway)
-r0541,0.0,0.0,0.0,0.0,Tryptophan / Lysine Metabolism 
-r0560,0.0,0.0,0.0,0.0,Valine degradation
-r0594,0.0,0.0,0.0,0.0,Lysine degradation (L-pipecolate pathway)
-r0595B_MitoCore,0.0,0.0,0.0,0.0,Cysteine degradation II
-r0595m_MitoCore,0.0,0.0,0.0,0.0,Cysteine degradation II
-r0603,0.0,0.0,0.0,0.0,Isoleucine degradation
-r0633,-16.45062872663827,-9.141912732421059,-4.284814924147645,-2.381149362863159,Fatty acid elongation in mitochondria
-r0634,-1.0,-1.054391304347825,-0.3835616438356164,-0.4044240619416318,FA metabolism
-r0638,-16.45062872663828,-9.141912732421059,-4.284814924147646,-2.381149362863159,Fatty acid elongation in mitochondria
-r0645,0.0,0.0,0.0,0.0,Tryptophan Metabolism 
-r0655,0.0,0.0,0.0,0.0,Leucine degradation
-r0660,-1.0,-1.0543913043478255,-0.3835616438356162,-0.4044240619416315,FA metabolism
-r0678,0.0,0.0,0.0,0.0,FA synthesis - cytosolic
-r0681,0.0,0.0,0.0,0.0,FA synthesis - cytosolic
-r0682,0.0,-0.24428571428571427,0.0,-0.17932067199245763,FA synthesis - cytosolic
-r0691,0.0,-0.24428571428571424,0.0,-0.17932067199245785,FA synthesis - cytosolic
-r0692,0.0,-0.24428571428571427,0.0,-0.179320671992458,FA synthesis - cytosolic
-r0693,0.0,0.0,0.0,0.0,FA synthesis - cytosolic
-r0694,0.0,-0.24428571428571427,0.0,-0.179320671992458,FA synthesis - cytosolic
-r0695,0.0,0.0,0.0,0.0,FA synthesis - cytosolic
-r0696,0.0,-0.24428571428571433,0.0,-0.179320671992458,FA synthesis - cytosolic
-r0697,0.0,0.0,0.0,0.0,FA synthesis - cytosolic
-r0701,0.0,-0.2442857142857143,0.0,-0.179320671992458,FA synthesis - cytosolic
-r0702,0.0,0.0,0.0,0.0,FA synthesis - cytosolic
-r0712,0.0,-0.2442857142857143,0.0,-0.17932067199245721,FA synthesis - cytosolic
-r0713,0.0,0.0,0.0,0.0,FA synthesis - cytosolic
-r0722,0.2841725407356588,0.2792392555862952,0.24491407312985186,0.20818472069813368,FA metabolism
-r0724,-1.0,-1.0543913043478261,-0.3835616438356164,-0.4044240619416318,FA metabolism
-r0726,0.28417254073565873,0.2792392555862951,0.2449140731298522,0.20818472069813396,FA metabolism
-r0728,-1.0,-1.0543913043478277,-0.3835616438356162,-0.40442406194163194,FA metabolism
-r0730,0.284172540735659,0.2792392555862952,0.2449140731298522,0.20818472069813396,FA metabolism
-r0731,0.28417254073565873,0.27923925558629537,0.2449140731298522,0.20818472069813368,FA metabolism
-r0732,0.284172540735659,0.2792392555862952,0.2449140731298522,0.20818472069813396,FA metabolism
-r0733,0.284172540735659,0.2792392555862953,0.2449140731298522,0.20818472069813396,FA metabolism
-r0734,0.284172540735659,0.2792392555862953,0.2449140731298522,0.20818472069813396,FA metabolism
-r0735,-16.450628726638268,-9.141912732421059,-4.284814924147645,-2.381149362863159,Fatty acid elongation in mitochondria
-r0760,0.0,0.0,0.0,0.0,FA synthesis - cytosolic
-r0761,0.0,-0.24428571428571427,0.0,-0.17932067199245721,FA synthesis - cytosolic
-r0762,0.0,0.0,0.0,0.0,FA synthesis - cytosolic
-r0763,0.0,-0.24428571428571424,0.0,-0.17932067199245758,FA synthesis - cytosolic
-r0764,0.0,0.0,0.0,0.0,FA synthesis - cytosolic
-r0765,0.0,-0.24428571428571427,0.0,-0.17932067199245721,FA synthesis - cytosolic
-r0766,0.0,0.0,0.0,0.0,FA synthesis - cytosolic
-r0767,0.0,-0.24428571428571433,0.0,-0.17932067199245721,FA synthesis - cytosolic
-r0768,0.0,0.0,0.0,0.0,FA synthesis - cytosolic
-r0769,0.0,-0.24428571428571433,0.0,-0.179320671992458,FA synthesis - cytosolic
-r0770,0.0,0.0,0.0,0.0,FA synthesis - cytosolic
-r0771,0.0,-0.24428571428571433,0.0,-0.17932067199245721,FA synthesis - cytosolic
-r0772,0.0,0.0,0.0,0.0,FA synthesis - cytosolic
-r0773,0.0,-0.24428571428571466,0.0,-0.17932067199245738,FA synthesis - cytosolic
-r0791,0.0,0.0,0.0,0.0,Fatty acid elongation in mitochondria
-r0817,0.0,0.0,0.0,0.0,Boundary Conditions - Biomarkers
-r0829,-1000.0,-1000.0,-1000.0,-1000.0,Mitochondrial transporters - characterised
-r0830,-1000.0,-1000.0,-1000.0,-1000.0,Mitochondrial transporters - characterised
-r0830B_MitoCore,-1000.0,-1000.0,-1000.0,-1000.0,Mitochondrial transporters - characterised
-r0838B_MitoCore,-26.25051522469075,-26.22855443385182,-18.61441131327078,-17.358377348351,Mitochondrial transport - diffusion / artificial
-r0899,0.0,0.0,0.0,0.0,Boundary Conditions - Misc
-r0913,0.0,0.0,0.0,0.0,Mitochondrial transporters - characterised
-r0917,0.0,0.0,0.0,0.0,Mitochondrial transporters - characterised
-r0917b_MitoCore,-74.64694384710955,-74.65281676949093,-52.957200406397305,-49.20413094057964,Mitochondrial transporters - characterised
-r0940,0.0,0.0,0.0,0.0,Boundary Conditions - Misc
-r0941,0.0,0.0,0.0,0.0,Mitochondrial transport - diffusion / artificial
-r0942,0.0,0.0,0.0,0.0,Boundary conditions - alternative fuels
-r0942b_MitoCore,0.0,0.0,0.0,0.0,Boundary conditions - alternative fuels
-r0962B_MitoCore,0.0,0.0,0.0,0.0,Mitochondrial transporters - uncharacterised
-r1078,0.0,0.0,0.0,0.0,Mitochondrial transporters - uncharacterised
-r1088,-1.9180000000000001,-1.9179999999999955,-1.1541747364954986,-1.4143764546481554,Boundary Conditions - Biomarkers
+ACITLm_MitoCore,0.0,0.0,0.0,0.0,TCA cycle periphery
+NNT_MitoCore,0.0,0.0,0.0,0.0,TCA cycle periphery
+ME1m,0.0,0.0,0.0,0.0,TCA cycle periphery
+ADK1m,0.0,0.0,0.0,0.0,TCA cycle periphery
+ME2m,0.0,0.0,0.0,0.0,TCA cycle periphery
+PEPCKm,0.0,0.0,0.0,0.0,TCA cycle periphery
+NDPK1m,-1000.0,0.0,-1000.0,0.0,TCA cycle periphery
 r1154,0.0,0.0,0.0,0.0,Threonine and Methionine degradation
+2HBO,-0.017,-0.0169999999999954,-0.0109929328621879,-0.0109929328621908,Threonine and Methionine degradation
 r1155,0.0,0.0,0.0,0.0,Threonine degradation
-r1423,0.0,0.0,0.0,0.0,Boundary Conditions - Misc
-r1427,0.0,0.0,0.0,0.0,Mitochondrial transporters - characterised
-r1434,-414.7042435950498,-414.73687094161534,-294.9038259083143,-273.35528300321187,Mitochondrial transporters - uncharacterised
-r1435,-0.13233333333329855,-0.3429999999998964,-0.0715163120567376,-0.1853659574468085,Mitochondrial transporters - uncharacterised
-r1436,0.0,0.0,0.0,0.0,Mitochondrial transporters - uncharacterised
-r1437,0.0,0.0,0.0,0.0,Mitochondrial transporters - uncharacterised
-r1440,0.0,0.0,0.0,0.0,Mitochondrial transporters - uncharacterised
-r1446,0.28545906339708715,0.2805257782477244,0.246200595791281,0.2094712433595625,FA metabolism
-r1447,0.2841725407356587,0.2792392555862951,0.2449140731298522,0.20818472069813368,FA metabolism
-r1448,0.28417254073565873,0.2792392555862953,0.2449140731298522,0.20818472069813368,FA metabolism
-r1450,0.284172540735659,0.2792392555862952,0.2449140731298522,0.20818472069813396,FA metabolism
-r1451,0.2841725407356589,0.2792392555862953,0.24491407312985186,0.20818472069813368,FA metabolism
-r1455,0.0,0.0,0.0,0.0,Mitochondrial transporters - uncharacterised
-r1512,0.0,0.0,0.0,0.0,Boundary Conditions - Biomarkers
-r2398B_MitoCore,-1000.0,-1000.0,-1000.0,-1000.0,Mitochondrial transporters - characterised
-r2402B_MitoCore,-1000.0,-1000.0,-1000.0,-1000.0,Mitochondrial transporters - characterised
-r2435,0.2841725407356588,0.2792392555862953,0.2449140731298522,0.20818472069813254,Carnitine shuttle
-r2525,-0.3219999999999999,-0.322,-0.26129106630862076,-0.2612910663086193,Boundary conditions - nonessential amino acids
-r2526,-0.3265,-0.3265,-0.26529106630861926,-0.26529106630862,Boundary conditions - nonessential amino acids
-r2532,-0.31199999999999545,-0.3119999999999996,-0.2512910663086193,-0.25129106630861886,Boundary conditions - nonessential amino acids
-r2534,0.0,0.0,0.0,0.0,Boundary conditions - essential amino acids
+THRD_L,0.0,0.0,0.0,0.0,Threonine degradation
+r0541,0.0,0.0,0.0,0.0,Tryptophan / Lysine Metabolism 
+2OXOADOXm,0.0,0.0,0.0,0.0,Tryptophan / Lysine Metabolism 
+PCLAD,0.0,0.0,0.0,0.0,Tryptophan Metabolism 
+FKYNH,0.0,0.0,0.0,0.0,Tryptophan Metabolism 
+AMCOXO,0.0,0.0,0.0,0.0,Tryptophan Metabolism 
+AMCOXO2_MitoCore,0.0,0.0,0.0,0.0,Tryptophan Metabolism 
+TRPO2,0.0,0.0,0.0,0.0,Tryptophan Metabolism 
+HKYNH,0.0,0.0,0.0,0.0,Tryptophan Metabolism 
+KYN3OX,0.0,0.0,0.0,0.0,Tryptophan Metabolism 
+r0645,0.0,0.0,0.0,0.0,Tryptophan Metabolism 
+FUMAC,0.0,0.0,0.0,0.0,Tyrosine degradation
+34HPPOR,0.0,0.0,0.0,0.0,Tyrosine degradation
+MACACI,0.0,0.0,0.0,0.0,Tyrosine degradation
+TYRTB_MitoCore,0.0,0.0,0.0,0.0,Tyrosine degradation
+TYRTA,-0.299,-0.2989999999999905,-0.23843224277921,-0.2384322427792074,Tyrosine degradation
+HGNTOR,0.0,0.0,0.0,0.0,Tyrosine degradation
+ARGSL,-0.007,-0.007,-0.007,-0.007,Urea Cycle
+ARGNm,0.0,0.0,0.0,0.0,Urea Cycle
+ARGN,0.0,0.0,0.0,0.0,Urea Cycle
+ARGSS,0.0,0.0,0.0,0.0,Urea Cycle
+3HBCOAHLm,0.0,0.0,0.0,0.0,Valine degradation
+ECOAH12m,0.0,0.0,0.0,0.0,Valine degradation
+VALTAm,0.0,0.0,0.0,0.0,Valine degradation
+OIVD2m,0.0,0.0,0.0,0.0,Valine degradation
+r0560,0.0,0.0,0.0,0.0,Valine degradation
+HIBDm,0.0,0.0,0.0,0.0,Valine degradation
