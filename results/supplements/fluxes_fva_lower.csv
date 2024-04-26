@@ -13,7 +13,7 @@
 5AOPtm,0.0,0.0,0.0,0.0,Haem Synthesis
 AACTOORm_MitoCore,0.0,0.0,0.0,0.0,Glycine degradation
 AASAD3m,0.0,0.0,0.0,0.0,Lysine degradation (saccharopine pathway)
-ABTArm,0.0,0.0,0.0,0.0,GABA shunt
+ABTArm,0.0,,0.0,,GABA shunt
 ABUTD,0.0,0.0,0.0,0.0,Ornithine degradation (cytosolic)
 ACACT10m,0.0,0.0,0.0,0.0,Isoleucine degradation
 ACACT1rm,-1.198467391304349,-1.2463768115942033,-0.560471049460604,-0.5813334675665872,FA and ketone body metabolism / Ketogenesis
@@ -24,8 +24,8 @@ ACADLC16_MitoCore,0.28417254073565323,0.27923925558629525,0.24491407312982633,0.
 ACALDtm,0.0,0.0,0.0,0.0,Alcohol metabolism
 ACCOAC,0.0,0.0,0.0,0.0,FA synthesis - cytosolic
 ACCOALm,0.0,0.0,0.0,0.0,Propanoate metabolism
-ACITL,0.0,0.0,0.0,0.0,Reductive carboxylation / Acetyl-CoA production for biosynthesis
-ACITLm_MitoCore,0.0,0.0,0.0,0.0,TCA cycle periphery
+ACITL,,0.0,,0.0,Reductive carboxylation / Acetyl-CoA production for biosynthesis
+ACITLm_MitoCore,,0.0,,0.0,TCA cycle periphery
 ACOAHi,0.0,0.0,0.0,0.0,Acetate production
 ACOATA,0.0,0.0,0.0,0.0,FA synthesis - cytosolic
 ACONT,-74.74622384710928,-74.65281676949134,-53.0534641426574,-49.300394676843624,Reductive carboxylation
@@ -55,7 +55,7 @@ AMCOXO2_MitoCore,0.0,0.0,0.0,0.0,Tryptophan Metabolism
 AMPD1,0.0,0.0,0.0,0.0,Purine Nucleotide Cycle
 AMPTASECG,0.0,0.0,0.0,0.0,Glutathione degradation
 AOBUTDsm,0.0,0.0,0.0,0.0,Glycine degradation
-APAT2rm,0.0,0.0,0.0,0.0,Beta-alanine degradation
+APAT2rm,0.0,,0.0,,Beta-alanine degradation
 APRTO2m_MitoCore,0.0,0.0,0.0,0.0,Arginine degradation
 ARGDCm,0.0,0.0,0.0,0.0,Arginine degradation
 ARGN,0.0,0.0,0.0,0.0,Urea Cycle
@@ -149,7 +149,7 @@ FUMtmB_MitoCore,-41.01480431159803,-41.01803119202782,-29.097362860657086,-27.03
 G3PD1,-4.4329999999999945,-4.432999999999995,-4.081200887889084,-4.081200887889121,Glycerol phosphate shuttle
 G5SADrm,-0.004,-0.004,-0.004,-0.004,Proline degradation/synthesis
 G5SDym,0.0,0.0,0.0,0.0,Proline synthesis
-G6PDH2r,0.0,0.0,0.0,0.0,Pentose phosphate pathway
+G6PDH2r,0.0,,0.0,,Pentose phosphate pathway
 G6PPer,0.0,0.0,0.0,0.0,Gluconeogenesis
 GAPD,-0.8204999999999982,0.0,0.016056164574682397,0.0,Glycolysis/gluconeogenesis
 GCCam,-0.34400000000000003,-0.34400000000000003,-0.1859063829787216,-0.1859063829787234,Glycine cleavage system (GCS)
@@ -175,7 +175,7 @@ GLYC3Ptm,0.0,0.0,0.0,0.0,Cardiolipin synthesis
 GLYCt,-0.01,-0.01,-0.01,-0.01,Boundary conditions - alternative fuels
 GLYCtm,-1.4911794077385219,0.0,-0.9345627605001097,0.0,Mitochondrial transport - diffusion / artificial
 GLYK,0.0,0.0,0.0,0.0,Cardiolipin synthesis
-GLYOXm,0.0,0.0,0.0,0.0,Glycine degradation
+GLYOXm,0.0,,0.0,,Glycine degradation
 GLYt2r,-0.678,-0.6780000000000003,-0.4370710416883261,-0.4591974492873427,Boundary conditions - nonessential amino acids
 GLYtm,-0.6879999999996835,-0.6880000000000001,-0.3718127659574432,-0.3718127659574468,Mitochondrial transporters - uncharacterised
 GND,0.0,0.0,0.0,0.0,Pentose phosphate pathway
@@ -250,11 +250,11 @@ METAT2_MitoCore,0.0,0.0,0.0,0.0,Methionine degradation
 METtec,0.0,0.0,0.0,0.0,Boundary conditions - essential amino acids
 MGCHrm,0.0,0.0,0.0,0.0,Leucine degradation
 MMCDm,0.0,0.0,0.0,0.0,Propanoate synthesis
-MMEm,0.0,-0.03199999999999559,0.0,-0.01376512114131106,Propanoate metabolism
+MMEm,,-0.03199999999999559,,-0.01376512114131106,Propanoate metabolism
 MMMm,0.0,-1.9179999999999975,0.0,-1.584222204348158,Propanoate metabolism
 MMSAD1m,0.0,0.0,0.0,0.0,Propanoate metabolism
-MMSAD3m,0.0,0.0,0.0,0.0,Beta-alanine degradation
-MMSAD3m2_MitoCore,0.0,0.0,0.0,0.0,Beta-alanine degradation
+MMSAD3m,0.0,,0.0,,Beta-alanine degradation
+MMSAD3m2_MitoCore,0.0,,0.0,,Beta-alanine degradation
 MTHFC,0.0,0.0,0.0,0.0,Folate cytosolic
 MTHFCm,0.0,0.0,0.0,0.0,Folate mitochondrial
 MTHFD,-0.01,-0.01,-0.009,-0.009,Folate cytosolic
@@ -268,10 +268,10 @@ NADHtm_MitoCore,0.0,0.0,0.0,0.0,Boundary Conditions - Misc
 NADt_MitoCore,0.0,0.0,0.0,0.0,Boundary Conditions - Misc
 NADtm_MitoCore,0.0,0.0,0.0,0.0,Boundary Conditions - Misc
 NDPK1,-3.7280000000001037,-1.81,-3.632595665634663,-1.714736842105263,Cytosolic misc
-NDPK1m,-1000.0,0.0,-1000.0,0.0,TCA cycle periphery
-NDPK3m,0.0,0.0,0.0,0.0,Cardiolipin synthesis
+NDPK1m,-1000.0,,-1000.0,,TCA cycle periphery
+NDPK3m,0.0,,0.0,,Cardiolipin synthesis
 NH4t3r,-0.31400000000000006,-0.31399999999999983,-0.25329106630861925,-0.2532910663086193,Boundary Conditions - Biomarkers
-NNT_MitoCore,0.0,0.0,0.0,0.0,TCA cycle periphery
+NNT_MitoCore,0.0,,0.0,,TCA cycle periphery
 NOS1,0.0,0.0,0.0,0.0,NOS Signalling
 NOS2,0.0,0.0,0.0,0.0,NOS Signalling
 NOt,-0.3219999999999956,-0.3220000000000005,-0.26129106630861926,-0.26129106630872945,Boundary Conditions - Misc
@@ -295,20 +295,20 @@ P5CRm,0.0,0.0,0.0,0.0,Proline synthesis
 P5CRxm,0.0,0.0,0.0,0.0,Proline synthesis
 PCFLOPm,0.0,0.0,0.0,0.0,Mitochondrial transport - lipids
 PCHOLHSTDe,-6.51520911950909,0.0,-4.069906520452908,0.0,Boundary Conditions - Lipids
-PCHOLPm_hs,0.0,0.0,0.0,0.0,Cardiolipin synthesis
+PCHOLPm_hs,0.0,,0.0,,Cardiolipin synthesis
 PCLAD,0.0,0.0,0.0,0.0,Tryptophan Metabolism 
 PCREATtmdiffirB_MitoCore,-922.4167360230205,-920.543977604273,-945.829326142073,-948.1047123298117,Mitochondrial transport - diffusion / artificial
 PCm,0.0,0.0,0.0,0.0,TCA cycle periphery
 PDHm,0.0,0.0,0.32569364812244994,0.0,TCA cycle
 PEFLIPm,0.0,0.0,0.0,0.0,Mitochondrial transport - lipids
 PEPCK,0.0,0.0,0.0,0.0,Gluconeogenesis
-PEPCKm,0.0,0.0,0.0,0.0,TCA cycle periphery
+PEPCKm,0.0,,0.0,,TCA cycle periphery
 PEt,0.0,0.0,0.0,0.0,Boundary Conditions - Lipids
 PFK,0.0,0.0,0.0,0.0,Glycolysis
 PGCD,0.0,0.0,0.0,0.0,Serine and glycine biosynthesis
 PGI,-0.2513333333333255,0.0,-0.20894862296032524,0.0,Glycolysis/gluconeogenesis
 PGK,-1.81,-1.81,-1.714736842105263,-1.714736842105263,Glycolysis/gluconeogenesis
-PGL,0.0,0.0,0.0,0.0,Pentose phosphate pathway
+PGL,0.0,,0.0,,Pentose phosphate pathway
 PGM,-1.81,-1.81,-1.714736842105263,-1.714736842105263,Glycolysis/gluconeogenesis
 PGPPTm,0.0,0.0,0.0,0.0,Cardiolipin synthesis
 PGPP_hsm_MitoCore,0.0,0.0,0.0,0.0,Cardiolipin synthesis
@@ -319,7 +319,7 @@ PPA,0.2842607946290907,0.2801372684086964,0.24491407312983965,0.2081847206981341
 PPAm,0.0,0.0,0.0,0.0,Carnitine shuttle
 PPAt,-0.03199999999999545,-1.949999999999997,-0.01376512114131103,-1.5979873254894583,Boundary Conditions - Biomarkers
 PPAtmB_MitoCore,-0.03199999999999545,-1.9499999999999398,-0.01376512114131103,-1.5979873254894974,Mitochondrial transporters - uncharacterised
-PPCOACm,0.0,0.0,0.0,0.0,Propanoate metabolism
+PPCOACm,,0.0,,0.0,Propanoate metabolism
 PPD2CSPc_MitoCore,0.0,0.0,0.0,0.0,Lysine degradation (L-pipecolate pathway)
 PPPGOmB_MitoCore,0.0,0.0,0.0,0.0,Haem Synthesis
 PROD2mB_MitoCore,0.0,0.0,0.0,0.0,Proline degradation
