@@ -65,3 +65,9 @@ Running the analyses depends on having the `plotting` package installed.
 `scan_params_gimme.ipynb` tracks model results across a range of GIMME parameters.
 `scan_decision_functions.ipynb` compares the results of different decision functions when choosing between multiple Km values.
 `scan_fva_frac.ipynb` tracks model results across a range of FVA objective fractions.
+
+# Result files
+The `results` folder contains the direct analysis results from the models created.
+In the folder itself the data are sorted by metric, as they are used for the analyses in the main text.
+
+`results/supplements` contains similar data, sorted by model instead to give a better overview of the calculations.
