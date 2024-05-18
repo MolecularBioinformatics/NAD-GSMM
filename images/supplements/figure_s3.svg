@@ -1,7 +1,7 @@
 <?xml version='1.0' encoding='ASCII' standalone='yes'?>
-<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" version="1.1" width="180.0px" viewBox="0 0 180.0 70.0" height="70.0px">
+<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" version="1.1" width="185.0px" viewBox="0 0 185.0 70.0" height="70.0px">
   <g>
-    <g transform="translate(2, 2) scale(1 1) ">
+    <g transform="translate(5, 2) scale(1 1) ">
       <g transform="translate(0, 0) scale(1 1) translate(0, 0) scale(0.19 0.19) "><metadata>
   <rdf:RDF xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:cc="http://creativecommons.org/ns#" xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#">
    <cc:Work>
@@ -401,9 +401,9 @@
   </clipPath>
  </defs>
 </g>
-      <text x="-1" y="5" font-size="5.0" font-family="Verdana" font-weight="normal" letter-spacing="0" text-anchor="start" fill="black">a)</text>
+      <text x="-4" y="5" font-size="5.0" font-family="Verdana" font-weight="normal" letter-spacing="0" text-anchor="start" fill="black">(a)</text>
     </g>
-    <g transform="translate(90, 2) scale(1 1) ">
+    <g transform="translate(95, 2) scale(1 1) ">
       <g transform="translate(0, 0) scale(1 1) translate(0, 0) scale(0.19 0.19) "><metadata>
   <rdf:RDF xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:cc="http://creativecommons.org/ns#" xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#">
    <cc:Work>
@@ -800,7 +800,7 @@
   </clipPath>
  </defs>
 </g>
-      <text x="-1" y="5" font-size="5.0" font-family="Verdana" font-weight="normal" letter-spacing="0" text-anchor="start" fill="black">b)</text>
+      <text x="-4" y="5" font-size="5.0" font-family="Verdana" font-weight="normal" letter-spacing="0" text-anchor="start" fill="black">(b)</text>
     </g>
   </g>
 </svg>

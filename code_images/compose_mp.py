@@ -40,22 +40,22 @@ fig = sg.compose.Figure(
         sg.compose.SVG(img_path / "pathways_top_select_rel.svg")
         .scale(scale_paths)
         .move(0, 5),
-        sg.compose.Text("a)", 1, 5, size=text_size),
+        sg.compose.Text("(a)", 1, 5, size=text_size),
     ).move(x1, y1),
     # a) Glycolysis
     sg.compose.Panel(
         sg.compose.SVG(rxn_images["glycolysis_rel"]).scale(img_size).move(0, 5),
-        sg.compose.Text("b)", 1, 5, size=text_size),
+        sg.compose.Text("(b)", 1, 5, size=text_size),
     ).move(x2, y1),
     # b) TCA
     sg.compose.Panel(
         sg.compose.SVG(rxn_images["tca_cycle_rel"]).scale(img_size).move(0, 5),
-        sg.compose.Text("c)", 1, 5, size=text_size),
+        sg.compose.Text("(c)", 1, 5, size=text_size),
     ).move(x1, y2),
     # c) Mal-asp
     sg.compose.Panel(
         sg.compose.SVG(rxn_images["mal_asp_shuttle_rel"]).scale(img_size).move(0, 5),
-        sg.compose.Text("d)", 1, 5, size=text_size),
+        sg.compose.Text("(d)", 1, 5, size=text_size),
     ).move(x2, y2),
 )
 fig.save(ill_path / "figure_2.svg")
@@ -74,17 +74,17 @@ fig = sg.compose.Figure(
     # a) Glycolysis
     sg.compose.Panel(
         sg.compose.SVG(rxn_images["glycolysis_abs"]).scale(img_size).move(0, 5),
-        sg.compose.Text("a)", 1, 5, size=text_size),
+        sg.compose.Text("(a)", 1, 5, size=text_size),
     ).move(x1, y1),
     # b) TCA
     sg.compose.Panel(
         sg.compose.SVG(rxn_images["tca_cycle_abs"]).scale(img_size).move(0, 5),
-        sg.compose.Text("b)", 1, 5, size=text_size),
+        sg.compose.Text("(b)", 1, 5, size=text_size),
     ).move(x2, y1),
     # c) Mal-asp
     sg.compose.Panel(
         sg.compose.SVG(rxn_images["mal_asp_shuttle_abs"]).scale(img_size).move(0, 5),
-        sg.compose.Text("c)", 1, 5, size=text_size),
+        sg.compose.Text("(c)", 1, 5, size=text_size),
     ).move(x1, y2),
 )
 fig.save(supp_path / "figure_s2.svg")

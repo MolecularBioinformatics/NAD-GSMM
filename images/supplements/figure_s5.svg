@@ -430,7 +430,7 @@
   </clipPath>
  </defs>
 </g>
-      <text x="0" y="0" font-size="5.0" font-family="Verdana" font-weight="normal" letter-spacing="0" text-anchor="start" fill="black">a)</text>
+      <text x="0" y="0" font-size="5.0" font-family="Verdana" font-weight="normal" letter-spacing="0" text-anchor="start" fill="black">(a)</text>
     </g>
     <g transform="translate(80, 5) scale(1 1) ">
       <g transform="translate(-4, -10) scale(1 1) translate(0, 0) scale(0.19 0.19) "><metadata>
@@ -868,7 +868,7 @@
   </clipPath>
  </defs>
 </g>
-      <text x="0" y="0" font-size="5.0" font-family="Verdana" font-weight="normal" letter-spacing="0" text-anchor="start" fill="black">b)</text>
+      <text x="0" y="0" font-size="5.0" font-family="Verdana" font-weight="normal" letter-spacing="0" text-anchor="start" fill="black">(b)</text>
     </g>
     <g transform="translate(2, 55) scale(1 1) ">
       <g transform="translate(-4, -10) scale(1 1) translate(0, 0) scale(0.19 0.19) "><metadata>
@@ -1293,7 +1293,7 @@
   </clipPath>
  </defs>
 </g>
-      <text x="0" y="0" font-size="5.0" font-family="Verdana" font-weight="normal" letter-spacing="0" text-anchor="start" fill="black">c)</text>
+      <text x="0" y="0" font-size="5.0" font-family="Verdana" font-weight="normal" letter-spacing="0" text-anchor="start" fill="black">(c)</text>
     </g>
   </g>
 </svg>
